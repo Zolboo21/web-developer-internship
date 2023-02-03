@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #80c792;
+  color: rgb(1, 80, 161, 0.98);
   text-decoration: none;
 }
 
