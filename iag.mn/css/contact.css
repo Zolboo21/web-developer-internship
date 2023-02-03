@@ -1,0 +1,57 @@
+.contactout {padding:0 30px;}
+.addressss{width:100%;  margin:20px auto;}
+
+
+.addressss h4 {font-weight:normal; font-size:19px;
+	border-bottom:1px solid #ccc; text-align:left; margin-bottom:15px; color: #000;
+}
+
+.mail h4 {font-weight:normal; font-size:19px; color: #000;
+	border-bottom:1px solid #ccc; margin:0 0 20px 0; text-align:left;
+}
+	.mail { padding:10px 0 0 0;  text-align:center; }
+	.mail input {margin:2px 0 2px 0;}
+	.input { border:none;padding:5px 4px; width:250px; background: #fff; border:1px solid #ccc;
+		font:normal 13px arial; color: #757575;
+	}
+	.inputFocus { border:none;padding:5px 4px; width:250px; background: #fff; border:1px solid #ccc;
+		font:normal 13px arial; color: #474747;
+	}
+
+	.mail h3 {margin-top:10px;}
+	.mail h3 a{font:normal 15px arial; color: #fff; background:#787878;  padding:8px 15px; 
+	}
+	.mail h3 a:hover{background:#acacac;  text-decoration:none;}
+	.reserinput {font:normal 15px arial; color: #fff; background:#787878;padding:7px 14px 7px 14px;
+		cursor:pointer; border:none; width:120px;
+	}
+	.reserinput:hover {background:#505050; }
+	.contactdunttons ul {margin:0; padding:0; margin-top:20px;}
+	.contactdunttons ul li {float:left; list-style:none; margin-right:10px;}
+	
+	#contactrmsj {}
+	.contactrmsj {background:#f4d5d5; border:1px solid #d3acac; display:block; width:400px; margin-bottom:20px;
+		margin:12px auto;
+	}
+	.contactrmsj h1{font:normal 13px arial; color: #a72626; padding:15px; }
+	
+	
+/* ---EartReport--------- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

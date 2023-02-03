@@ -1,0 +1,397 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name = "viewport" content = "user-scalable=yes, initial-scale=1.0, maximum-scale=4.0, width=device-width">
+    <title>Одон Орон Геофизикийн Хүрээлэн</title>
+	<link rel="shortcut icon" href="../images/titleLogo.jpg" />
+	<link type="text/css" href="../css/style.css" rel="stylesheet" />
+    <link type="text/css" href="../css/media.css" rel="stylesheet" />
+	<link type="text/css" href="../css/menu.css" rel="stylesheet" />
+    <link type="text/css" href="../css/content.css" rel="stylesheet" />
+    <link type="text/css" href="../css/animate-min.css" rel="stylesheet" />
+    <link type="text/css" href="../css/awesome.css" rel="stylesheet" />
+    <link type="text/css" href="../css/magpop.css" rel="stylesheet" />
+		
+	<script src="../js/jquery.js" type="text/javascript"></script>
+	<script src="../js/jquery.hoverIntent.minified.js" type="text/javascript"></script>
+	<script src="../js/easing.js" type="text/javascript"></script>
+	<script src="../js/wow.js" type="text/javascript"></script>
+	<script src="../js/script.js" type="text/javascript"></script>
+	<script src="../js/magpop.js" type="text/javascript"></script>
+</head>
+<body>	
+<div id="fb-root"></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77297191-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script>
+	// (function(d, s, id) {
+  // var js, fjs = d.getElementsByTagName(s)[0];
+  // if (d.getElementById(id)) {return;}
+  // js = d.createElement(s); js.id = id;
+  // js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  // fjs.parentNode.insertBefore(js, fjs);
+// }(document, 'script', 'facebook-jssdk'));
+</script>
+<script>
+wow = new WOW( {
+    boxClass:     'wow',
+    animateClass: 'animated',
+    offset:       100
+    }
+);
+wow.init();
+</script>
+				<header><div class="headeroutop">
+	<div class="lawpd">
+		<div class="logohead">
+			<a href="index.php"></a>
+			<img src="../images/logo3.jpg">
+			<h1 class="txt20 bld7">Хубилай Сэцэн Хааны нэрэмжит<br /><span class="txtup">Одон Орон, Геофизикийн Хүрээлэн</span></h1>
+		</div>
+		<div class="hrfeild">
+			<div class="rspdiv1">
+				<ul>
+					<li><a href="index.php@pid=102">Нэвтрэх</a></li>						<li><a href="https://www.shilendans.gov.mn/org/1129" target="_blank">
+								Шилэн данс</a></li>
+											<li><a href="index.php@pid=66">
+								Холбоо барих</a></li>
+										<li class="selclang"><a href="../en/index.php">EN</a></li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+			<div class="searchs">
+				<table cellspacing="0" cellpadding="0">
+					<tr>
+												<td class="sinpt">
+							<form id="search_form" method="get" action="https://iag.mn/mn/search.php" onsubmit="return submitSearch();">
+								<input name="s" placeholder="Хайлт" />
+							</form>
+						</td>
+						<td class="sbnts" onclick="return submitSearch();">
+							<a href="index.php@pid=33&amp;start=30" class="sbottn"></a></td>
+						<script type="text/javascript">
+							function submitSearch() {
+								var form = document.getElementById('search_form');
+								form.submit();
+								return false;
+							}
+						</script>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<div class="clear"></div>
+<link href="../css/menu.css" rel="stylesheet" type="text/css" />
+<div class="menuoutpar">
+<div class="menuout">
+<div class="menupd">
+	<ul ><li ><a href="index.php@pid=30">Бидний тухай</a></li><li id="hassubm1"><a >Секторууд</a><ul class="sbcontrol2"><li ><a href="index.php@pid=42" >Астрометрийн судалгаа</a><ul class="sbcontrol3"><li ><a href="index.php@pid=42">Судалгааны чиглэл</a></li><li ><a href="index.php@pid=43">Сансрын хог хаягдал</a></li><li ><a href="index.php@pid=44">Бага гараг</a></li><li ><a href="index.php@pid=45">Солирын тогоо</a></li><li ><a href="index.php@pid=46">Сансрын гамма тэсрэлт</a></li><li ><a href="index.php@pid=47">OWL дуран</a></li></ul></li><li ><a href="index.php@pid=48" >Астрофизик</a><ul class="sbcontrol3"><li ><a href="index.php@pid=48">Судалгааны чиглэл</a></li><li ><a href="index.php@pid=49">Hα ажиглалт</a></li><li ><a href="index.php@pid=50">Хэт ягаан цацраг</a></li><li ><a href="index.php@pid=51">Спектрийн шугамууд</a></li><li ><a href="index.php@pid=52">Сallisto</a></li><li ><a href="index.php@pid=53">Багаж</a></li></ul></li><li ><a href="index.php@pid=54" >Газар хөдлөлт</a><ul class="sbcontrol3"><li ><a href="index.php@pid=54">Бидний тухай</a></li><li ><a href="index.php@pid=57">Салбарын өнөөдрийн бүтэц, боловсон хүчин</a></li><li ><a href="index.php@pid=137">Түүхэн замнал</a></li><li ><a href="index.php@pid=138">Газар хөдлөлтийн ерөнхий ойлголт</a></li><li ><a href="index.php@pid=139">Монголын газар хөдлөхүй</a></li><li ><a href="index.php@pid=140">Газар хөдлөлт бүртгэх сүлжээ станц</a></li><li ><a href="index.php@pid=141">Танин мэдэхүй</a></li></ul></li><li ><a href="index.php@pid=84" >Геомагнитизм</a><ul class="sbcontrol3"><li ><a href="index.php@pid=125">Соронзон орны ерөнхий ойлголт</a></li><li ><a href="index.php@pid=84">Судалгааны чиглэл</a></li><li ><a href="index.php@pid=127">Монголын нутаг дэвсгэрт хийсэн соронзон хэмжилт</a></li><li ><a href="index.php@pid=128">Багаж төхөөрөмж</a></li></ul></li><li ><a href="index.php@pid=40">Орон нутгийн газар хөдлөлтийг бүртгэх станц</a></li></ul></li><li id="hassubm1"><a >Хамтын ажиллагаа</a><ul class="sbcontrol2"><li ><a href="index.php@pid=61">Гадаад хамтын ажиллагаа</a></li><li ><a href="index.php@pid=62">Дотоод хамтын ажиллагаа</a></li></ul></li><li id="hassubm1"><a >Мэдээ мэдээлэл</a><ul class="sbcontrol2"><li ><a href="index.php@pid=33">Цаг үеийн мэдээ</a></li><li ><a href="index.php@pid=68">Одон орон</a></li><li ><a href="index.php@pid=70">Геофизикийн мэдээ</a></li><li ><a href="index.php@pid=69">Зарлал мэдээлэл</a></li></ul></li><li id="hassubm1"><a >Танин мэдэхүй</a><ul class="sbcontrol2"><li ><a href="index.php@pid=63">Газар Хөдлөлт</a></li><li ><a href="index.php@pid=86">Одон Орон</a></li><li ><a href="index.php@pid=87">Соронзон Орон</a></li><li ><a href="index.php@pid=88">Астропарк</a></li></ul></li><li ><a href="index.php@pid=34">Хэвлэл бүтээлүүд</a></li><li ><a href="index.php@pid=35">Геофизикийн тэнхим</a></li><li ><a href="index.php@pid=65">Хэргэжиж буй төслүүд</a></li><li ><a href="index.php@pid=145">Сэтгүүл</a></li></ul></div>
+</div>
+</div>
+
+<div class="menurout">
+<div class="wleadpd1">
+	<h1 class="openSBM"><span></span></h1><div class="selclangm"><a href="../en/index.php">EN</a></div>
+	<div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="menurshow">
+<div class="resmenu">
+	<ul class="hidemc"><li><span></span><a href="index.php@pid=30">Бидний тухай</a></li><li><span></span><a class="subpar">Секторууд</a><ul ><li><span></span><a class="subpar">Астрометрийн судалгаа</a><ul ><li><span></span><a href="index.php@pid=42">Судалгааны чиглэл</a></li><li><span></span><a href="index.php@pid=43">Сансрын хог хаягдал</a></li><li><span></span><a href="index.php@pid=44">Бага гараг</a></li><li><span></span><a href="index.php@pid=45">Солирын тогоо</a></li><li><span></span><a href="index.php@pid=46">Сансрын гамма тэсрэлт</a></li><li><span></span><a href="index.php@pid=47">OWL дуран</a></li></ul></li><li><span></span><a class="subpar">Астрофизик</a><ul ><li><span></span><a href="index.php@pid=48">Судалгааны чиглэл</a></li><li><span></span><a href="index.php@pid=49">Hα ажиглалт</a></li><li><span></span><a href="index.php@pid=50">Хэт ягаан цацраг</a></li><li><span></span><a href="index.php@pid=51">Спектрийн шугамууд</a></li><li><span></span><a href="index.php@pid=52">Сallisto</a></li><li><span></span><a href="index.php@pid=53">Багаж</a></li></ul></li><li><span></span><a class="subpar">Газар хөдлөлт</a><ul ><li><span></span><a href="index.php@pid=54">Бидний тухай</a></li><li><span></span><a href="index.php@pid=57">Салбарын өнөөдрийн бүтэц, боловсон хүчин</a></li><li><span></span><a href="index.php@pid=137">Түүхэн замнал</a></li><li><span></span><a href="index.php@pid=138">Газар хөдлөлтийн ерөнхий ойлголт</a></li><li><span></span><a href="index.php@pid=139">Монголын газар хөдлөхүй</a></li><li><span></span><a href="index.php@pid=140">Газар хөдлөлт бүртгэх сүлжээ станц</a></li><li><span></span><a href="index.php@pid=141">Танин мэдэхүй</a></li></ul></li><li><span></span><a class="subpar">Геомагнитизм</a><ul ><li><span></span><a href="index.php@pid=125">Соронзон орны ерөнхий ойлголт</a></li><li><span></span><a href="index.php@pid=84">Судалгааны чиглэл</a></li><li><span></span><a href="index.php@pid=127">Монголын нутаг дэвсгэрт хийсэн соронзон хэмжилт</a></li><li><span></span><a href="index.php@pid=128">Багаж төхөөрөмж</a></li></ul></li><li><span></span><a href="index.php@pid=40">Орон нутгийн газар хөдлөлтийг бүртгэх станц</a></li></ul></li><li><span></span><a class="subpar">Хамтын ажиллагаа</a><ul ><li><span></span><a href="index.php@pid=61">Гадаад хамтын ажиллагаа</a></li><li><span></span><a href="index.php@pid=62">Дотоод хамтын ажиллагаа</a></li></ul></li><li><span></span><a class="subpar">Мэдээ мэдээлэл</a><ul ><li><span></span><a href="index.php@pid=33">Цаг үеийн мэдээ</a></li><li><span></span><a href="index.php@pid=68">Одон орон</a></li><li><span></span><a href="index.php@pid=70">Геофизикийн мэдээ</a></li><li><span></span><a href="index.php@pid=69">Зарлал мэдээлэл</a></li></ul></li><li><span></span><a class="subpar">Танин мэдэхүй</a><ul ><li><span></span><a href="index.php@pid=63">Газар Хөдлөлт</a></li><li><span></span><a href="index.php@pid=86">Одон Орон</a></li><li><span></span><a href="index.php@pid=87">Соронзон Орон</a></li><li><span></span><a href="index.php@pid=88">Астропарк</a></li></ul></li><li><span></span><a href="index.php@pid=34">Хэвлэл бүтээлүүд</a></li><li><span></span><a href="index.php@pid=35">Геофизикийн тэнхим</a></li><li><span></span><a href="index.php@pid=65">Хэргэжиж буй төслүүд</a></li><li><span></span><a href="index.php@pid=145">Сэтгүүл</a></li></ul>	<ul class="addheadmenu">
+				<li><a href="https://www.shilendans.gov.mn/org/1129" target="_blank" >Шилэн данс</a></li>
+					<li><a href="index.php@pid=66" >Холбоо барих</a></li>
+			</ul>
+</div>
+</div>
+<script>
+$(document).ready(function() {   
+	$('.subpar').on('click', function(){
+	var parli = $(this).parent('li');
+		$(this).removeAttr('href');		
+		parli.find('ul:first').animate({'height':'toggle'}, '100', 'easeInQuad', function(){
+			parli.siblings('li').find('ul').slideUp(700, 'easeOutQuad');
+			parli.siblings('li').find('span').removeClass('beshow');			
+		});
+		parli.find('span:first').toggleClass('beshow');
+		parli.siblings('li').removeClass('actbeshow');
+		parli.addClass('actbeshow');
+		//return false;
+	});
+	
+	$('.openSBM').on('click', function(){
+		$(this).toggleClass('hideSBM');
+		$('.menurshow').toggleClass('leftrOne');
+		$('.sbshow').toggleClass('sbshowPad');
+	});
+});
+</script>
+
+
+
+
+<div class="clear"></div>
+
+
+					<div class="pageimgtitle">
+				<div class="pageimgtitleps">
+					<div class="mimghot">
+						<h1>Мэдээ мэдээлэл</h1>
+					</div>
+					<div class="pageimgtitlepd"></div>					<div class="clear"></div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		 <div class="clear"></div></header>
+		<div class="sbshow">
+		<article class="mainWr">
+		<div class="mainWrpdo">
+			<aside class="msublist"><div id=""><div style="display:inline-block; width:100%;">
+	<div class="sbmenuout"><div class=""><div class="sbmenuin"><ul>									<li class="selctpgeit"><a href="index.php@pid=33" >Цаг үеийн мэдээ</a><span></span></li>												<li ><a href="index.php@pid=68" >Одон орон</a><span></span></li>												<li ><a href="index.php@pid=70" >Геофизикийн мэдээ</a><span></span></li>												<li ><a href="index.php@pid=69" >Зарлал мэдээлэл</a><span></span></li>			</ul></div></div><div class="sbmnusb"><ul class="ul1">	<li class="animated wow zoomIn" data-wow-delay=".3s"><div class="reclipd1">		<div class="resimgh"><img src="../images/eq1.png"></div>		<div class="resconh"><a href="index.php@pid=33&amp;start=30" class="bld4 clr2">
+												<span class="txtup">Газар хөдлөл</span><br />		Монголын болон дэлхийн газар хөдлөл</a></div>	</div></li>	<li class="animated wow zoomIn" data-wow-delay=".5s"><div class="reclipd1">		<div class="resimgh"><img src="../images/od1.png"></div>		
+													<div class="resconh"><a href="index.php@pid=97" class="bld4 clr2"><span class="txtup">Астропарк</span><br />		Сансар од эрхэсийн ордон		</a></div>	</div></li>	<li class="animated wow zoomIn" data-wow-delay=".7s"><div class="reclipd1">		<div class="resimgh"><img src="../images/ht1.png"></div>		
+													<div class="resconh"><a href="index.php@pid=92" class="bld4 clr2"><span class="txtup">Хүрэл тогоот</span><br />		Одон орон сансрын музей</a></div>	</div></li></ul></div>
+													<div class="socialilink1 animated wow zoomIn" data-wow-delay=".9">
+														<ul class="ul1">	
+														<li class="ficon"><div class="bordershow1"></div><a href="https://www.facebook.com/Монгол-орны-хүчтэй-газар-хөдлөлт-108983674054302/" target="_blank"></a></li>	
+														<li class="ticon"><div class="bordershow1"></div><a href="index.php@pid=33&amp;start=30" target="_blank"></a></li>		
+														<li class="yicon"><div class="bordershow1"></div><a href="index.php@pid=33&amp;start=30" target="_blank"></a></li>		
+														<li class="ricon"><div class="bordershow1"></div><a href="index.php@pid=33&amp;start=30" target="_blank"></a></li>	</ul></div></div></div><span style="opacity:0;">.</span></div></aside>			<aside class="shomchanges">
+<div class="normalpgepad">
+<div class="normalpgepadins">
+	<div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">Мексик хотын ойролцоо газар хөдлөлт болж 100 гаран хүн нас барлаа</h1><div class="cimage"></div><h1 class="txt7 bld4 tleft">2017-09-20 22:13:38</h1></article><p>2017  оны 9 сарын 19-нд Улаанбаатарын цагаар (18:14:33 UTC) цагаар өргөгргийн 18.53N  уртрагийн 98.49W-д Мексик хотоос 120 км Raboso 7 магнитудтай газар хөдлөлт болжээ. Одоогийн байдлаар 100 гаран хүн нас барж 27 гаруй барилга байшин нурсан гэсэн мэдээлэл байна.</p>
+<p><img src="../file/20170920_054637.jpg" alt="" width="850" height="473" /></p><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">Mexico улсын Pijijiapan хотод хүчтэй газар хөдлөлт болж 5 хүн нас барлаа</h1><div class="cimage"><img alt="" src="../data/main/main1504860710.jpg"></div><h1 class="txt7 bld4 tleft">2017-09-08 16:51:50</h1></article><p>2017 оны 09 сарын 08 нд Улаанбаатарын цагаар 12:49:14(UTC цагаар 04:49:14) цагт өргөргийн 15.09, уртрагийн 93.78 д Mexico улсын Pijijiapan хотоос баруун урд зүгт 87км зайд магнитуд нь 8.0 той газар хөдлөлт болсон ба магнитуд нь 4.3-5.7 той давталт хөдлөлүүд болсоор байна. Одоогийн байдлаар 5 хүн нас барсан гэсэн мэдээ байна.</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="../file/21533987_1504785359579180_798513156_o.jpg" alt="" width="800" height="413" /></p><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">Ойн баярын хурал, хүндэтгэлийн зоог барих арга хэмжээнд хүрэлцэн ирэхийг урьж байна</h1><div class="cimage"><img alt="" src="../data/main/main1500454123.png"></div></article><p>Одон Орон Геофизикийн Хүрээлэнгийн 60 жилийн ойн арга хэмжээ Чингис зочид буудлын 3 давхарын хурлын танхимд 20-ны 09:00 цагт, Хүндэтгэлийн зоог тус зочид буудлын Өргөө рестранд 20-ны 19:00 цагт болно. <br /> Хариуцлагатай жижүүр болон ээлжийн жижүүртэй ажилчидаас бусад БҮХ АЖИЛЧИДЫГ арга хэмжээнд хүрэлцэн ирэхийг урьж байна.</p><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">“ШУА-ИЙН МЭДЭЭ СЭТГҮҮЛ”-Д ЭРДЭМ ШИНЖИЛГЭЭНИЙ ӨГҮҮЛЭЛ ХЭВЛҮҮЛЭХИЙГ УРЬЖ БАЙНА</h1><div class="cimage"><img alt="" src="../data/main/main1498035638.jpg"></div><h1 class="txt7 bld4 tleft">2017-06-21 17:00:38</h1></article><p style="text-align: justify;">Proceedings of the Mongolian Academy of Sciences (Шинжлэх Ухааны Академийн Мэдээ) сэтгүүл нь хэвлэмэл болон Онлайн хэлбэрээр жилд 4 удаа хэвлэгддэг, улирал тутмын мэргэжлийн хяналт хийгддэг сэтгүүл юм. Энэхүү сэтгүүл нь Олон Улсын Шинжлэх Ухааны Зөвлөлийн INASP төслөөр дэмжигддэг тул Таны өгүүлэл шууд DOI (Digital object identifier) дугаар авч Google.Scholar хайлтын системд бүртгэгдэж, олон улсын түвшинд бусад орны судлаачид үнэгүйгээр ашиглан, таны бүтээлээс ишлэл авах тоог эрс нэмэгдүүлэх давуу талтай юм. Сэтгүүлийн олон улсын бүртгэлийн дугаар ISSN 2312-2994, хэвлэмэл ISSN 2310-4716 болно. <br /><br />“Шинжлэх Ухааны Академийн Мэдээ сэтгүүл”-ийн 2017 оны III улирлын дугаарт (Монгол, Англи) эрдэм шинжилгээний өгүүлэл ирүүлэхийг урьж байна. Өгүүлэлийг зохиогч өөрийн хийсэн судалгааны ажлын үр дүнд үндэслэн бичсэн байх бөгөөд өөр хэвлэлд хэвлэн нийтлээгүй, бусад сэтгүүлд хэвлэхээр хэвлэлтэд хүлээн аваагүй, хөндлөнгийн хяналт хийх хугацаанд өөр сэтгүүлд илгээхгүй болон хамтран зохиогчоор орсон бүх зохиогчоос уг өгүүллийг хэвлүүлэхээр зөвшилцсөн зөвшөөрөлтэй байх шаардлагатай юм.<br /><br />“Шинжлэх ухааны Академийн Мэдээ сэтгүүл”-д бичсэн өгүүллийг уг сэтгүүлийн өгүүлэл нийтлүүлэх зааврыг ягштал мөрдөж бичсэн байх шаардлагатай бөгөөд өгүүлэл нийтлүүлэх зааврыг биелүүлээгүй өгүүллийг хяналт хийхгүйгээр эзэнд нь буцаахыг анхаарна уу! <br /><br />Эрдэм шинжилгээний өгүүлэл хүлээн авах хугацаа энэ оны 7 дугаар сарын 31-ний дотор багтаан ирүүлнэ. Эрдэм шинжилгээний өгүүллийг цахим шуудангаар denkhamgalan4@gmail.com хаягаар хүлээн авна. Сэтгүүлд тавих шаардлагын талаарх Та бүхний саналыг хүлээн авч, үйл ажиллагаандаа тусгахыг хичээн ажиллах болно. <br /><br /><br />Холбоо барих утас: (976-51)265001, Факс: 976-51-262247<br />Үүрэн утас: (976) 9907-0950;<br />“Шинжлэх Ухааны Академийн Мэдээ сэтгүүл”-ийн Редакцийн зөвлөл <br />Ерөнхий сайд А.Амарын гудамж-1<br />Улаанбаатар 14200, Монгол улс,<br />Индекс 14023; ISSN 2310-4716;</p><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">Хамтран ажиллах гэрээнд гарын үсэг зурлаа</h1><div class="cimage"><img alt="" src="../data/main/main1494231455.jpg"></div><h1 class="txt7 bld4 tleft">2017-05-08 16:17:35</h1></article><p>ШУА-н ОДОН ОРОН, ГЕОФИЗИКИЙН ХҮРЭЭЛЭН болон УЛААНБААТАРЫН ИХ СУРГУУЛЬ -н эрдэм шинжилгээ-сургалт, инновац-бизнесийн чиглэлээр хамтран ажиллах тухай гэрээнд гарын үсэг зурлаа.</p>			<div class="html-code grid-of-images">
+			<div class="popup-gallery">
+				
+					<div class="popupIMGl">
+						<a href="../data/images/images1494231544.jpg" title="">
+						<div class="imghides"><img src="../data/images/images1494231544.jpg" style="height:100px;"/></div>
+					</a>					
+					<h1> ..</h1>			
+					</div>
+					<div class="popupIMGl">
+						<a href="../data/images/images1494231577.jpg" title="">
+						<div class="imghides"><img src="../data/images/images1494231577.jpg" style="height:100px;"/></div>
+					</a>					
+					<h1> ..</h1>			
+					</div>			</div>
+			</div>
+			<div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">Шинжлэх ухааны докторын зэрэг хамгаалсанд баяр хүргэе</h1><div class="cimage"><img alt="" src="../data/main/main1492754440.jpg"></div><h1 class="txt7 bld4 tleft">2017-04-21 13:58:53</h1></article><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">Соронзон шуурга дэлхийн гадарга дээр ажиглагдах магадлалтай</h1><div class="cimage"></div><h1 class="txt7 bld4 tleft">2017-03-27 17:38:50</h1></article><p style="text-align: justify;">2017 оны 3-р сарын 27-д Нарны титмийн нүхнээс үүдэлтэй 27 хоногийн давтамж бүхий өндөр хурдтай рекуррент урсгалын нөлөөгөөр G1 (сул), 28, 29-нд G2 (дунд) төвшиний соронзон шуурга дэлхийн гадарга дээр ажиглагдах магадлал байна. G2 шуурганы нөлөөгөөр гаригийн соронзон идэвхжил Kp = 7 хүрнэ. НАСА-гийн урьдчилсан мэдээнээс харахад, туйлын туяа АНУ-ын хойд муж, Байгал нуурын хойгуур, Европын нутгаар газар зуйн 58<sup>о</sup> –аас хойш ажигладах боломжтой.</p>
+<p style="text-align: justify;"> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="../file/some1.jpg" alt="" width="620" height="349" /></p>
+<p> </p>
+<p> </p><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">Соронзон шуурганы мэдээ</h1><div class="cimage"></div><h1 class="txt7 bld4 tleft">2017-03-21 12:06:28</h1></article><p style="text-align: justify;">2017 оны 3-р сарын 23-д Нарны титмийн нүхнээс үүдэлтэй 27 хоногийн давтамж бүхий өндөр хурдтай рекуррент урсгалын нөлөөгөөр G1 (сул) түвшиний соронзон шуурга дэлхийн гадарга дээр ажиглагдах магадлал байна.</p>
+<p style="text-align: justify;">Соронзон шуурганы үйлчлэл дэлхийн туйл орчмоор мэдрэгдэх бөгөөд туйлын туяа хойд туйлд харагдах боломжтой.  Эрчим хүчний системд бараг нөлөөлөхгүй, хиймэл дагуулуудын үйл ажиллагаанд үзүүлэх нөлөө маш сул.</p>
+<p style="text-align: justify;"> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="../file/shuurga.jpg" alt="" width="620" height="349" /></p><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">МОНГОЛ ХҮН САНСАРТ НИССЭНИЙ 36 ЖИЛИЙН ОЙД ЗОРИУЛСАН  ӨДӨРЛӨГ БОЛНО</h1><div class="cimage"><img alt="" src="../data/main/main1490007939.jpg"></div><h1 class="txt7 bld4 tleft">2017-03-20 20:05:39</h1></article><p style="text-align: justify;"><strong><u>Ерөнхий мэдээлэл</u></strong><strong><u>:</u></strong></p>
+<p style="text-align: justify;">2017 оны 3 сарын 22-ны өдөр Монгол хүн сансарт ниссэний 36 жилийн ой тохиож байна., Монгол улс, ЗХУ-ын баатар, Монгол Улсын иргэн сансрын нисэгч Ж.Гүррагчаа, Монгол улс, ЗХУ-ын хошой баатар, ЗХУ-ын сансрын нисэгч В.А.Жанибековын хамтаар 1981 оны гуравдугаар сарын 22-ны өдөр Байконур дахь сансрын хөлөг хөөргөх талбайгаас “Союз-39” хөлгөөр хөөрсөн.<br /> Тэд сансарт нийт найман өдрийн турш байж дэлхийг 124 удаа тойрч, гуравдугаар сарын 30-нд эх дэлхийдээ амжилттай газардсан. Энэхүү тэмдэглэлт үйл явдал нь Монгол Улс сансрын уудамд сансрын судалгааны төхөөрөмж бүтээж, нислэгийн явцад ашигласан 20 дахь орон, сансарт иргэнээ илгээсэн дэлхийн 10 дахь орон болсон. Энэхүү 36 дахь жилийн ойн түүхэн үйл явдлыг тэмдэглэхээр ШУА- Одон орон, геофизикийн хүрээлэн, Шинжлэх Ухаан ,Технологийн Их Сургуулын  Механик Тээврийн Сургууль болон Хүүхдийн Урлан Бүтээх Төвтэй хамтран оюутнууд болон сурагчдын дунд “Танин мэдэхүйн  богино илтгэлүүд” семинар, ШУТИС-МехТС, ХУБТөвийн оюутан сурагчдын бэлтгэсэн нисэх онгоц, сансрын хөлгийн загварууд, хийж бүтээсэн бүтээлүүдийн үзэсгэлэн мөн Сансар судлалын холбогдолтой сонин өвөрмөц цуглуулагч нарын бяцхан үзэсгэлэн, Пуужин нисэх хэрэгслийн агаарын үзүүлбэр тоглолт хэлбэрээр зохион явуулж буй  Зохион бүтээгч хүүхэд залуучуудын өдөрлөг юм. Уг өдөрлөгийн зорилго нь Зохион бүтээгч хүүхэд залуучуудыг дэмжин ажиллах, сансар судлал, нисэх сансрын технолог чиглэлээр оюутан сурагчдын ололт амжилтыг идэвхжүүлэхэд оршиж байгаа.<br />“Аз Жаргалтай Хотын-Залуу Зохион Бүтээгч Хүүхдүүд” өдөрлөгийн үндсэн үйл ажиллагаа 2017 оны 3 сарын 22-ны өдөр Одон Орон Геофизикийн Хүрээлэнгийн дэргэдэх Сансар Од Эрхсийн ордонд 11:00 цагаас эхэлнэ.</p>
+<p style="text-align: justify;"> </p>
+<p>Зохион байгуулагч байгууллага: <strong>ОДОН ОРОН, ГЕОФИЗИКИЙН ХҮРЭЭЛЭН</strong></p>
+<p>Хамтран оролцогч байгууллагууд:                </p>
+<p><strong>ШУТИС-MехТСургууль,</strong></p>
+<p><strong>Хүүхдийн урлан бүтээх төв,</strong></p>
+<p><strong>Монголын Гадаадтай найрамдал соёлоор харилцах нийгэмлэг,</strong></p>
+<p><strong>Аэронаутикийн Монголын Холбоо.</strong></p><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">ХҮРЭЭЛЭНГИЙН ЗАХИРЛУУД ТОМИЛОГДЛОО</h1><div class="cimage"></div></article><p style="text-align: justify;">ШУА-ийн харьяа хүрээлэнгүүдийн захирлын сонгон шалгаруулалт БСШУ-ны Сайдын 2015 оны А/223 дугаар тушаалаар батлагдсан “Эрдэм шинжилгээний хүрээлэнгийн  /байгууллагын/ захирлын ажлын байрны тодорхойлолтод тавигдах нийтлэг шаардлага”, “ШУА-ийн харьяа байгууллагуудын захирлыг сонгон шалгаруулж томилох, чөлөөлөх журам”-ын дагуу явагдаж, өчигдөр /2017.02.20/ захирлуудаа томиллоо.</p>
+<p style="text-align: justify;"> Философийн хүрээлэнгийн захирлаар доктор (Sc.D) Ш.Ариунаа, Хэл зохиолын хүрээлэнгийн захирлаар доктор, профессор Г.Билгүүдэй, Газарзүй, геоэкологийн хүрээлэнгийн захирлаар доктор Д.Баттогтох, Хими, химийн технологийн хүрээлэнгийн захирлаар доктор Л.Жаргалсайхан нар шинээр сонгогдож үүрэгт ажилдаа орлоо. Харин Олон улсын харилцааны хүрээлэнгийн захирлаар доктор (Sc.D) Ж.Баясах, Ерөнхий болон сорилын биологийн хүрээлэнгийн захирлаар доктор (Sc.D) Я.Адъяа, Палеонтологи, геологийн хүрээлэнгийн захирлаар доктор Х.Цогтбаатар, Түүх, археологийн хүрээлэнгийн захирлаар доктор С.Чулуун, Одон орон, геофизикийн хүрээлэнгийн захирлаар доктор <strong>С.Дэмбэрэл</strong> нар улиран сонгогдов. Физик, технологийн хүрээлэнгийн захирлын сонгон шалгаруулалт өнгөрсөн оны 12 дугаар сард зохион байгуулагдаж, доктор П.Алтанцог томилогдон ажиллаж байна.</p>			<div class="html-code grid-of-images">
+			<div class="popup-gallery">
+				
+					<div class="popupIMGl">
+						<a href="../data/images/images1487815563.jpg" title="">
+						<div class="imghides"><img src="../data/images/images1487815563.jpg" style="height:100px;"/></div>
+					</a>					
+					<h1> ..</h1>			
+					</div>
+					<div class="popupIMGl">
+						<a href="../data/images/images1487815755.jpg" title="">
+						<div class="imghides"><img src="../data/images/images1487815755.jpg" style="height:100px;"/></div>
+					</a>					
+					<h1> ..</h1>			
+					</div>
+					<div class="popupIMGl">
+						<a href="../data/images/images1487815788.jpg" title="">
+						<div class="imghides"><img src="../data/images/images1487815788.jpg" style="height:100px;"/></div>
+					</a>					
+					<h1> ..</h1>			
+					</div>			</div>
+			</div>
+			<div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">Геофизикийн мэргэжил сурталчлах өдөрлөг боллоо</h1><div class="cimage"></div></article><p style="text-align: justify;">Жил бүр уламжлал болон зохиогддог “Геофизикийн мэргэжил сурталчлах өдөрлөг”-ийг 12 дахь жилдээ МУИС-ийн ШУС-ийн Геологи, Геофизикийн тэнхим, ШУТИС-ийн ГУУС-ийн Геологи, Гидрогеологийн салбар, Монголын Геофизикчдийн Холбоо болон ШУА-ийн Одон орон, геофизикийн хүрээлэн хамтран 2016 оны 12 сарын 10-12-ны өдрүүдэд зохион байгууллаа. Энэхүү өдөрлөгийн гол зорилго нь геофизик мэргэжлийг бусдад таниулж зөв ойлголт өгөх, мөн геофизик мэргэжлээр суралцаж буй оюутнуудыг мэргэжлийн компани, байгууллагуудтай холбож ажлын байранд зуучлах болно. Өдөрлөгийн хүрээнд уламжлалт спортын арга хэмжээг сагсан бөмбөг, холимог волейбол, дартс, ширээний теннис, шатар гэсэн 5 төрлөөр явуулж МУИС болон ШУТИС-ийн багш ажилчид, оюутнууд болон мэргэжлийн компани, байгууллагууд идэвхтэй оролцлоо. Мөн “Геофизикийн асуудлууд” сэдэвт эрдэм шинжилгээний бага хурлыг амжилттай зохион байгууллаа.</p>
+<p style="text-align: justify;">Энэ жил зохиогдсон өдөрлөгийн нэг онцлог нь ЕБС-ийн сурагчдад зориулж “Геофизикчийн нэг өдөр” – геофизик мэргэжлийг сурталчлах өдөрлөгийг анх удаа ШУТИС дээр зохион байгууллаа. Энэхүү арга хэмжээг цаашид жил бүр уламжлал болгон зохион байгуулна.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: center;"><strong>Геофизикчийн нэг өдөр</strong></p>
+<p style="text-align: center;"><strong><img src="../file/1.png" alt="" width="569" height="320" /></strong></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><strong>Спортын арга хэмжээ</strong></p>
+<p style="text-align: center;"><strong><img src="../file/2.png" alt="" width="576" height="324" /></strong></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><strong>Эрдэм шинжилгээний хурал</strong></p>
+<p style="text-align: center;"><strong><img src="../file/3.png" alt="" width="575" height="430" /></strong></p><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">Аттестатчилалын шинэчилсэн журамтай танилцана уу!</h1><div class="cimage"><img alt="" src="../data/main/main1478076880.jpg"></div><h1 class="txt7 bld4 tleft">2016-11-02 17:54:40</h1></article><p>Сайн байна уу?</p>
+<p>Аттестатчилал 11 сарын 20-доор явагдах болсон тул эрдэм шинжилгээний бүх ажилчид материалаа бүрдүүлэн хураалгасан байх эцсийн хугацаа 11 сарын 4. Үүнтэй холбогдуулан аттестатчилалын шинэчилсэн журамтай <a title="Juram" href="http://iag.ac.mn/file/pdf/Shinechilsen%20juram.pdf" target="_blank">ЭНД</a> дарж танилцана уу!</p><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">Ахмад ажилтан Г. Аюушжавын хөдөлмөрийн алдар тэмдэглэх өдөрлөг болно</h1><div class="cimage"><img alt="" src="../data/main/main1476241743.jpg"></div><h1 class="txt7 bld4 tleft">2016-09-30 12:13:42</h1></article><p style="text-align: justify;">Академич Г. Аюушжав  нь  1916 онд Увс аймгийн Хяргас сумын нутаг Билүүгийн голд малчин Ганжаагийн 5-р хүү болж төржээ. <br />1928.01- 1932.06 Увс аймгийн Баян мандал уулын хушууны тамгын газар бичээч, <br />1932 -1935 Увс аймгийн Хяргас сумын нарийн бичгийн дарга, аймгийн шүүхэд нарийн бичгийн дарга тогтоол гүйцэтгэгч <br />1935-1936 ЗХУ-ын Москва хотноо дорно дахины коммунист их сургууль /КУТВ/-д .<br />1938-1940 Мал тариалангийн яаманд байцаагч, хороодын төв холбоонд байцаагч <br />1940-1942 Улаанбаатар хотын худалдааны техникумд багшийн ажил хийх хугацаандаа багш нарын оройн дээд сургуулийн тоо-физикийн ангийг төгссөн<br />1942-1946 Монгол улсын их сургуулийн физик математикийн факулътетэд суралцан, <br />1946-1948 Монгол  улсын их сургуульд физикийн багш<br />1948-1955 Ломоносовын нэрэмжит Москва хотын Улсын их сургуулийн аспирантурт суралцан физик математикийн ухааны дэд эрдэмтний  зэргийг соронзон судлалын мэргэжлээр хамгаалсан.<br />1955-1960 МУИС-ийн  физикийн тэнхимийн эрхлэгч, МУИС-ийн багш нарын ба байгалийн ухааны факулътетийн декан, физикийн багш  <br />1960-1961  МУИС-ийн  Байгалыг судлах газрын захирал.<br />1961-1964 ШУА-ын анхны эрдэм шинжилгээний ажилтан бөгөөд соронзон судлалын тасгийн эрхлэгчээр,  <br />1964 -1968.06 ШУА-ийн Хими-физикийн хүрээлэнгийн захирал, <br />1968.06-1974 Физик-математикийн хурээлэнгийн захирал<br />1974-1978 ЗХУ-ын Дэлхийн соронзон орон, радио долгион тархалтыг судлах хүрээлэнд шинжлэх ухааны докторын зэрэг хамгаалсан.<br />1978 оноос Математикийн хүрээлэнгийн захиралаар насан эцэслэх хүртлээ ажиллаж байсан. <br />1957 оны10-р сард доцент цол авсан.<br />1964 оны ШУА-ийн сурвалжлагч гишүүнээр сонгогдсон.<br />1935оны 1-р сард МАХН-ын гишүүнд элссэн. Ардын хувьсгалын 40, 50, 60 жилийн ойн медаль, Халх голын байлдааны медаль, Хөдөлмөрийн гавьяаны улаан тугийн одон, Алтан гадас одонгоор тус тус шагнагдсан.<br /> <br /><br />Хөтөлбөр <br />10:00 -нээлтийн арга хэмжээ <br />10:15 -Хүндэтгэлийн арга хэмжээнд зориулсан баримтат кино<br />10:30 – Дурсамж лекц: Г. Аюушжавын гэр бүл, Доктор Ү.Сүхбаатар, Доктор Х.Намсрай, Доктор Ц.Баатар<br />12:30- Өдрийн хоол<br />14:00 – Ойд зориулсан эрдэм шинжилгээний бага хурал<br />Шилдэг 3 илтгэлийг Г.Аюушжавын 100 насны ойн  нэрэмжит шагнал олгоно.<br />18:00 Цагаас хүндэтгэлийн хүлээн авалт</p><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">Монгол Улсын Ерөнхийлөгч Ц.Элбэгдорж газар хөдлөлтийн гамшгаас урьдчилан сэргийлэх талаар УИХ-ын гишүүдэд мэдээлэл сонсголоо</h1><div class="cimage"><img alt="" src="https://iag.mn/data/main/main1471520724.jpg"></div><h1 class="txt7 bld4 tleft">2016-08-18 09:56:47</h1></article><div class=""><p style="text-align: justify;">Монгол Улсын Ерөнхийлөгч Ц.Элбэгдорж өнөөдөр УИХ-ын чуулганы нэгдсэн хуралдаанд оролцож газар хөдлөлтийн гамшгаас урьдчилан сэргийлэх зорилгоор авч хэрэгжүүлэх арга хэмжээнүүдийн талаар мэдээлэл сонсгов.</p>
+<p style="text-align: justify;">Ерөнхийлөгч Ц.Элбэгдорж хийсэн мэдээлэлдээ:</p>
+<p style="text-align: justify;">“УИХ-ын дарга, эрхэм гишүүд ээ,</p>
+<p style="text-align: justify;">Ард иргэд ээ,</p>
+<p style="text-align: justify;">Өнөөдөр УИХ-ынхуралдаанд нэгэн чухал асуудлаар мэдээлэл хийх шаардлагатай гэж үзсэний үндсэн дээр мэдээлэл хийж байна. Энэ бол газар хөдлөлттэй холбоотой, ялангуяа манай улсын нийслэл Улаанбаатар хот орчимд газар хөдлөлтийн нөхцөл байдал ямар байгаатай холбоотой мэдээлэл байгаа юм. Үүнийг хийж байгаа шалтгаан бий. Сүүлийн үед нийслэл хотын ойр орчимд газар хөдлөлтийн идэвхжил маш их идэвхжсэн. Газар хөдлөлтийн хэмжээ жил ирэх тутам нэмэгдэж байгаа тухай судалгаа, шинжилгээ, шинжлэх ухааны байгууллагын дүгнэлтүүд гарч байна.</p>
+<p style="text-align: justify;"><a class="clr4 txt5 tleft" href="index.php@pid=33&amp;nid=66">дэлгэрэнгүй</a></div><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">С.ДЭМБЭРЭЛ: “Сансар судлал, од эрхэсийн ордон”-г нэг тэрбум 200 сая гаруй төгрөгөөр байгуулсан</h1><div class="cimage"></div><h1 class="txt7 bld4 tleft">2016-08-18 09:39:56</h1></article><div class=""><p style="text-align: justify;">Монгол Улсын Засгийн газраас Сансар судлал, планетари төв байгуулах шийдвэрийг 2009 онд гаргаж байжээ. Тэгвэл өчигдөр сэтгүүлчид шинээр үүдээ нээсэн “Сансар, од эрхсийн ордон”-нд зочилсон юм. Урьд өмнө сонсогдож байгаагүй энэ төрлийн шинжлэх ухаан судлагдахуунд чухал үүрэг гүйцэтгэх танин мэдэхүйн энэ ордонг Монгол Улсын Засгийн газрын санхүүжилтээр барьсан ажээ.</p>
+<p style="text-align: justify;"><a class="clr4 txt5 tleft" href="index.php@pid=33&amp;nid=65">дэлгэрэнгүй</a></div><div class="clear"></div></div><script src="../js/salvattore.js" type="text/javascript"></script>
+				<div class="clear"></div>
+				<style type="text/css">	.pageselected {color: #ec0000;font-weight: bold; }</style>
+				<div class="pagering">
+				<table height="20" border="0" align="center" cellpadding="0" cellspacing="0" class="PHPBODY" style="margin-top:5px;">
+				<tr> 						
+				<td align="left" valign="middle" class="selected"><span style="color: #999999">Хуудас:</span>
+										&nbsp;<a class="" href="index.php@pid=33">1</a>&nbsp; 
+										&nbsp;<a class="" href="index.php@pid=33&amp;start=15">2</a>&nbsp; 
+										&nbsp;<a class="pageselected" href="index.php@pid=33&amp;start=30">3</a>&nbsp; 
+										&nbsp;<a class="" href="index.php@pid=33&amp;start=45">4</a>&nbsp; 
+									</td>
+				<td  align="left" valign="middle"> 
+									<a href="index.php@pid=33&amp;start=15"></a> 
+								</td>
+				<td align="left" valign="middle"> 
+									<a href="index.php@pid=33&amp;start=45"></a> 
+								</td>
+				<td align="right" valign="middle" class="selected" style="color: #999999;">
+					<!--Хуудас--> <!--?php print($cur);?> - --><!--?php print($max_pages);?-->
+					( 49 мэдээ )
+					
+				</td>
+				</tr>
+				</table>
+				</div>
+			</div>
+<div class="clear"></div>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+	$('.popup-gallery').magnificPopup({
+		delegate: 'a',
+		type: 'image',
+		tLoading: 'Loading image #%curr%...',
+		mainClass: 'mfp-img-mobile',
+		gallery: {
+		enabled: true,
+		navigateByImgClick: true,
+		preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+		},
+		image: {
+		tError: '<a href="https://iag.mn/mn/%url%">The image #%curr%</a> could not be loaded.',
+		titleSrc: function(item) {
+		  return item.el.attr('title') + '<small></small>';
+		}
+		}
+	});
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</aside>
+			<aside class="rlist"><link type="text/css" href="../css/scrolls.css" rel="stylesheet" media="screen" />
+<div class="rlista">
+	<div class="answerfeild"><h2><a href="index.php@pid=143" class="txt16 txtup bld7 clr2">Та газар хөдлөлт<br/> мэдэрсэн үү <span>?</span></a></h2></div>
+	<div class="earthqb"><a href="http://ds.iris.edu/seismon/bigmap/index.phtml" target="_blank" class="txt17 txtup bld7"><span>Дэлхийн <br>газар хөдлөл</span></a><img src="../images/eworld.jpg"></div>
+	<div class="earthqb"><a href="http://www.iag.mn/event/index.php?loc=mgl" target="_blank" class="txt17 txtup bld7"><span>Монголын <br>газар хөдлөл</span></a><img src="../images/emongolia.jpg"></div>
+	<div class="earthqb"><a href="http://www.iag.mn/event/index.php?loc=ub" target="_blank" class="txt17 txtup bld7"><span>Улаанбаатарын <br>газар хөдлөл</span></a><img src="../images/eub.jpg"></div>
+</div>
+<div class="clear"></div>
+<div class="linkwebout">
+<div class="linkwebin">
+	<h2>Вэб холбоос</h2>
+	<ul  id="content_1" class="content">
+		<li><a href="https://link.springer.com" target="_blank">Springer</a></li><li><a href="http://orfeus-eu.org" target="_blank">Европын сейсмологийн холбоо</a></li><li><a href="http://asc1996.com" target="_blank">Азийн сейсмологийн комисс</a></li><li><a href="http://crust.irk.ru" target="_blank">ОХУ-ын ШУА-ийн Сибирийн салбарын Дэлхийн царцдасын хүрээлэн</a></li><li><a href="http://iszf.irk.ru" target="_blank">ОХУ-ын ШУА-ийн Сибирийн салбарын Нар-дэлхийн физикийн хүрээлэн</a></li><li><a href="http://iisee.kenken.go.jp" target="_blank">Японы сейстологийн ба газар хөдлөлийн инженерийн олон улсын институт</a></li><li><a href="http://eost.u-strasbg.fr" target="_blank">Страсбургийн Луйс-Пастрын их сургууль</a></li><li><a href="http://ctbto.org" target="_blank">Олон улсын цөмийн тэсэлгээний хяналтын хороо</a></li><li><a href="http://usgs.gov" target="_blank">Америкийн геологийн алба</a></li><li><a href="http://iaspei.org" target="_blank">Олон улсын сейсмологийн ба дэлхийн физикийн холбоо</a></li>			
+	</ul>
+	<div class="clear"></div>
+</div>
+</div>
+<style> .content{width:100%; height:240px; overflow:auto;} </style>
+<script type="text/javascript" src="../js/scrolls.js"></script>
+<script type="text/javascript">
+		(function($){
+			$(window).load(function(){
+				$("#content_1").mCustomScrollbar({
+					scrollButtons:{
+						enable:false
+					}
+				});
+			});
+		})(jQuery);
+</script></aside>
+		<div class="clear"></div>
+				<div class="clear"></div>
+		</div>
+		</article>
+		<div class="clear"></div>
+		<footer id="footer"><div class="footertop">
+<div class="footertopipd">
+
+</div>
+</div>
+<div class="clear"></div>
+<div class="footerbot">
+<div class="footerbotipd">
+	<div class="footermenum">
+	<ul>
+			<li>
+		<div class="linkwebdiv">
+			<h1>Хүрэл тогоот</h1>
+				<h2><a href="index.php@pid=92">Танилцуулга</a></h2><h2><a href="index.php@pid=93">Одот тэнгэрээр аялах нь</a></h2><h2><a href="index.php@pid=94">Дэг журам</a></h2><h2><a href="index.php@pid=95">Амрах байр</a></h2><h2><a href="index.php@pid=96">Зоог</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Астрометрийн судалгаа</h1>
+				<h2><a href="index.php@pid=42">Судалгааны чиглэл</a></h2><h2><a href="index.php@pid=43">Сансрын хог хаягдал</a></h2><h2><a href="index.php@pid=44">Бага гараг</a></h2><h2><a href="index.php@pid=45">Солирын тогоо</a></h2><h2><a href="index.php@pid=46">Сансрын гамма тэсрэлт</a></h2><h2><a href="index.php@pid=47">OWL дуран</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Астрофизик</h1>
+				<h2><a href="index.php@pid=48">Судалгааны чиглэл</a></h2><h2><a href="index.php@pid=49">Hα ажиглалт</a></h2><h2><a href="index.php@pid=50">Хэт ягаан цацраг</a></h2><h2><a href="index.php@pid=51">Спектрийн шугамууд</a></h2><h2><a href="index.php@pid=52">Сallisto</a></h2><h2><a href="index.php@pid=53">Багаж</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Газар хөдлөлт</h1>
+				<h2><a href="index.php@pid=54">Бидний тухай</a></h2><h2><a href="index.php@pid=57">Салбарын өнөөдрийн бүтэц, боловсон хүчин</a></h2><h2><a href="index.php@pid=137">Түүхэн замнал</a></h2><h2><a href="index.php@pid=138">Газар хөдлөлтийн ерөнхий ойлголт</a></h2><h2><a href="index.php@pid=139">Монголын газар хөдлөхүй</a></h2><h2><a href="index.php@pid=140">Газар хөдлөлт бүртгэх сүлжээ станц</a></h2><h2><a href="index.php@pid=141">Танин мэдэхүй</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Геомагнитизм</h1>
+				<h2><a href="index.php@pid=125">Соронзон орны ерөнхий ойлголт</a></h2><h2><a href="index.php@pid=84">Судалгааны чиглэл</a></h2><h2><a href="index.php@pid=127">Монголын нутаг дэвсгэрт хийсэн соронзон хэмжилт</a></h2><h2><a href="index.php@pid=128">Багаж төхөөрөмж</a></h2>			
+		</div>
+		</li>
+			</ul>
+	</div>
+	<div class="clear"></div>
+	<div class="dcrp"><h1>©2015. Одон орон, геофизикийн хүрээлэн</h1></div>
+</div>
+</div></footer>
+		</div>
+</body>
+</html>

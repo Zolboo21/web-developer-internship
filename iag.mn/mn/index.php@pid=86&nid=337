@@ -1,0 +1,385 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name = "viewport" content = "user-scalable=yes, initial-scale=1.0, maximum-scale=4.0, width=device-width">
+    <title>Одон Орон Геофизикийн Хүрээлэн</title>
+	<link rel="shortcut icon" href="../images/titleLogo.jpg" />
+	<link type="text/css" href="../css/style.css" rel="stylesheet" />
+    <link type="text/css" href="../css/media.css" rel="stylesheet" />
+	<link type="text/css" href="../css/menu.css" rel="stylesheet" />
+    <link type="text/css" href="../css/content.css" rel="stylesheet" />
+    <link type="text/css" href="../css/animate-min.css" rel="stylesheet" />
+    <link type="text/css" href="../css/awesome.css" rel="stylesheet" />
+    <link type="text/css" href="../css/magpop.css" rel="stylesheet" />
+		
+	<script src="../js/jquery.js" type="text/javascript"></script>
+	<script src="../js/jquery.hoverIntent.minified.js" type="text/javascript"></script>
+	<script src="../js/easing.js" type="text/javascript"></script>
+	<script src="../js/wow.js" type="text/javascript"></script>
+	<script src="../js/script.js" type="text/javascript"></script>
+	<script src="../js/magpop.js" type="text/javascript"></script>
+</head>
+<body>	
+<div id="fb-root"></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77297191-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script>
+	// (function(d, s, id) {
+  // var js, fjs = d.getElementsByTagName(s)[0];
+  // if (d.getElementById(id)) {return;}
+  // js = d.createElement(s); js.id = id;
+  // js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  // fjs.parentNode.insertBefore(js, fjs);
+// }(document, 'script', 'facebook-jssdk'));
+</script>
+<script>
+wow = new WOW( {
+    boxClass:     'wow',
+    animateClass: 'animated',
+    offset:       100
+    }
+);
+wow.init();
+</script>
+				<header><div class="headeroutop">
+	<div class="lawpd">
+		<div class="logohead">
+			<a href="index.php"></a>
+			<img src="../images/logo3.jpg">
+			<h1 class="txt20 bld7">Хубилай Сэцэн Хааны нэрэмжит<br /><span class="txtup">Одон Орон, Геофизикийн Хүрээлэн</span></h1>
+		</div>
+		<div class="hrfeild">
+			<div class="rspdiv1">
+				<ul>
+					<li><a href="index.php@pid=102">Нэвтрэх</a></li>						<li><a href="https://www.shilendans.gov.mn/org/1129" target="_blank">
+								Шилэн данс</a></li>
+											<li><a href="index.php@pid=66">
+								Холбоо барих</a></li>
+										<li class="selclang"><a href="../en/index.php">EN</a></li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+			<div class="searchs">
+				<table cellspacing="0" cellpadding="0">
+					<tr>
+												<td class="sinpt">
+							<form id="search_form" method="get" action="https://iag.mn/mn/search.php" onsubmit="return submitSearch();">
+								<input name="s" placeholder="Хайлт" />
+							</form>
+						</td>
+						<td class="sbnts" onclick="return submitSearch();">
+							<a href="index.php@pid=86&amp;nid=337" class="sbottn"></a></td>
+						<script type="text/javascript">
+							function submitSearch() {
+								var form = document.getElementById('search_form');
+								form.submit();
+								return false;
+							}
+						</script>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<div class="clear"></div>
+<link href="../css/menu.css" rel="stylesheet" type="text/css" />
+<div class="menuoutpar">
+<div class="menuout">
+<div class="menupd">
+	<ul ><li ><a href="index.php@pid=30">Бидний тухай</a></li><li id="hassubm1"><a >Секторууд</a><ul class="sbcontrol2"><li ><a href="index.php@pid=42" >Астрометрийн судалгаа</a><ul class="sbcontrol3"><li ><a href="index.php@pid=42">Судалгааны чиглэл</a></li><li ><a href="index.php@pid=43">Сансрын хог хаягдал</a></li><li ><a href="index.php@pid=44">Бага гараг</a></li><li ><a href="index.php@pid=45">Солирын тогоо</a></li><li ><a href="index.php@pid=46">Сансрын гамма тэсрэлт</a></li><li ><a href="index.php@pid=47">OWL дуран</a></li></ul></li><li ><a href="index.php@pid=48" >Астрофизик</a><ul class="sbcontrol3"><li ><a href="index.php@pid=48">Судалгааны чиглэл</a></li><li ><a href="index.php@pid=49">Hα ажиглалт</a></li><li ><a href="index.php@pid=50">Хэт ягаан цацраг</a></li><li ><a href="index.php@pid=51">Спектрийн шугамууд</a></li><li ><a href="index.php@pid=52">Сallisto</a></li><li ><a href="index.php@pid=53">Багаж</a></li></ul></li><li ><a href="index.php@pid=54" >Газар хөдлөлт</a><ul class="sbcontrol3"><li ><a href="index.php@pid=54">Бидний тухай</a></li><li ><a href="index.php@pid=57">Салбарын өнөөдрийн бүтэц, боловсон хүчин</a></li><li ><a href="index.php@pid=137">Түүхэн замнал</a></li><li ><a href="index.php@pid=138">Газар хөдлөлтийн ерөнхий ойлголт</a></li><li ><a href="index.php@pid=139">Монголын газар хөдлөхүй</a></li><li ><a href="index.php@pid=140">Газар хөдлөлт бүртгэх сүлжээ станц</a></li><li ><a href="index.php@pid=141">Танин мэдэхүй</a></li></ul></li><li ><a href="index.php@pid=84" >Геомагнитизм</a><ul class="sbcontrol3"><li ><a href="index.php@pid=125">Соронзон орны ерөнхий ойлголт</a></li><li ><a href="index.php@pid=84">Судалгааны чиглэл</a></li><li ><a href="index.php@pid=127">Монголын нутаг дэвсгэрт хийсэн соронзон хэмжилт</a></li><li ><a href="index.php@pid=128">Багаж төхөөрөмж</a></li></ul></li><li ><a href="index.php@pid=40">Орон нутгийн газар хөдлөлтийг бүртгэх станц</a></li></ul></li><li id="hassubm1"><a >Хамтын ажиллагаа</a><ul class="sbcontrol2"><li ><a href="index.php@pid=61">Гадаад хамтын ажиллагаа</a></li><li ><a href="index.php@pid=62">Дотоод хамтын ажиллагаа</a></li></ul></li><li id="hassubm1"><a >Мэдээ мэдээлэл</a><ul class="sbcontrol2"><li ><a href="index.php@pid=33">Цаг үеийн мэдээ</a></li><li ><a href="index.php@pid=68">Одон орон</a></li><li ><a href="index.php@pid=70">Геофизикийн мэдээ</a></li><li ><a href="index.php@pid=69">Зарлал мэдээлэл</a></li></ul></li><li id="hassubm1"><a >Танин мэдэхүй</a><ul class="sbcontrol2"><li ><a href="index.php@pid=63">Газар Хөдлөлт</a></li><li ><a href="index.php@pid=86">Одон Орон</a></li><li ><a href="index.php@pid=87">Соронзон Орон</a></li><li ><a href="index.php@pid=88">Астропарк</a></li></ul></li><li ><a href="index.php@pid=34">Хэвлэл бүтээлүүд</a></li><li ><a href="index.php@pid=35">Геофизикийн тэнхим</a></li><li ><a href="index.php@pid=65">Хэргэжиж буй төслүүд</a></li><li ><a href="index.php@pid=145">Сэтгүүл</a></li></ul></div>
+</div>
+</div>
+
+<div class="menurout">
+<div class="wleadpd1">
+	<h1 class="openSBM"><span></span></h1><div class="selclangm"><a href="../en/index.php">EN</a></div>
+	<div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="menurshow">
+<div class="resmenu">
+	<ul class="hidemc"><li><span></span><a href="index.php@pid=30">Бидний тухай</a></li><li><span></span><a class="subpar">Секторууд</a><ul ><li><span></span><a class="subpar">Астрометрийн судалгаа</a><ul ><li><span></span><a href="index.php@pid=42">Судалгааны чиглэл</a></li><li><span></span><a href="index.php@pid=43">Сансрын хог хаягдал</a></li><li><span></span><a href="index.php@pid=44">Бага гараг</a></li><li><span></span><a href="index.php@pid=45">Солирын тогоо</a></li><li><span></span><a href="index.php@pid=46">Сансрын гамма тэсрэлт</a></li><li><span></span><a href="index.php@pid=47">OWL дуран</a></li></ul></li><li><span></span><a class="subpar">Астрофизик</a><ul ><li><span></span><a href="index.php@pid=48">Судалгааны чиглэл</a></li><li><span></span><a href="index.php@pid=49">Hα ажиглалт</a></li><li><span></span><a href="index.php@pid=50">Хэт ягаан цацраг</a></li><li><span></span><a href="index.php@pid=51">Спектрийн шугамууд</a></li><li><span></span><a href="index.php@pid=52">Сallisto</a></li><li><span></span><a href="index.php@pid=53">Багаж</a></li></ul></li><li><span></span><a class="subpar">Газар хөдлөлт</a><ul ><li><span></span><a href="index.php@pid=54">Бидний тухай</a></li><li><span></span><a href="index.php@pid=57">Салбарын өнөөдрийн бүтэц, боловсон хүчин</a></li><li><span></span><a href="index.php@pid=137">Түүхэн замнал</a></li><li><span></span><a href="index.php@pid=138">Газар хөдлөлтийн ерөнхий ойлголт</a></li><li><span></span><a href="index.php@pid=139">Монголын газар хөдлөхүй</a></li><li><span></span><a href="index.php@pid=140">Газар хөдлөлт бүртгэх сүлжээ станц</a></li><li><span></span><a href="index.php@pid=141">Танин мэдэхүй</a></li></ul></li><li><span></span><a class="subpar">Геомагнитизм</a><ul ><li><span></span><a href="index.php@pid=125">Соронзон орны ерөнхий ойлголт</a></li><li><span></span><a href="index.php@pid=84">Судалгааны чиглэл</a></li><li><span></span><a href="index.php@pid=127">Монголын нутаг дэвсгэрт хийсэн соронзон хэмжилт</a></li><li><span></span><a href="index.php@pid=128">Багаж төхөөрөмж</a></li></ul></li><li><span></span><a href="index.php@pid=40">Орон нутгийн газар хөдлөлтийг бүртгэх станц</a></li></ul></li><li><span></span><a class="subpar">Хамтын ажиллагаа</a><ul ><li><span></span><a href="index.php@pid=61">Гадаад хамтын ажиллагаа</a></li><li><span></span><a href="index.php@pid=62">Дотоод хамтын ажиллагаа</a></li></ul></li><li><span></span><a class="subpar">Мэдээ мэдээлэл</a><ul ><li><span></span><a href="index.php@pid=33">Цаг үеийн мэдээ</a></li><li><span></span><a href="index.php@pid=68">Одон орон</a></li><li><span></span><a href="index.php@pid=70">Геофизикийн мэдээ</a></li><li><span></span><a href="index.php@pid=69">Зарлал мэдээлэл</a></li></ul></li><li><span></span><a class="subpar">Танин мэдэхүй</a><ul ><li><span></span><a href="index.php@pid=63">Газар Хөдлөлт</a></li><li><span></span><a href="index.php@pid=86">Одон Орон</a></li><li><span></span><a href="index.php@pid=87">Соронзон Орон</a></li><li><span></span><a href="index.php@pid=88">Астропарк</a></li></ul></li><li><span></span><a href="index.php@pid=34">Хэвлэл бүтээлүүд</a></li><li><span></span><a href="index.php@pid=35">Геофизикийн тэнхим</a></li><li><span></span><a href="index.php@pid=65">Хэргэжиж буй төслүүд</a></li><li><span></span><a href="index.php@pid=145">Сэтгүүл</a></li></ul>	<ul class="addheadmenu">
+				<li><a href="https://www.shilendans.gov.mn/org/1129" target="_blank" >Шилэн данс</a></li>
+					<li><a href="index.php@pid=66" >Холбоо барих</a></li>
+			</ul>
+</div>
+</div>
+<script>
+$(document).ready(function() {   
+	$('.subpar').on('click', function(){
+	var parli = $(this).parent('li');
+		$(this).removeAttr('href');		
+		parli.find('ul:first').animate({'height':'toggle'}, '100', 'easeInQuad', function(){
+			parli.siblings('li').find('ul').slideUp(700, 'easeOutQuad');
+			parli.siblings('li').find('span').removeClass('beshow');			
+		});
+		parli.find('span:first').toggleClass('beshow');
+		parli.siblings('li').removeClass('actbeshow');
+		parli.addClass('actbeshow');
+		//return false;
+	});
+	
+	$('.openSBM').on('click', function(){
+		$(this).toggleClass('hideSBM');
+		$('.menurshow').toggleClass('leftrOne');
+		$('.sbshow').toggleClass('sbshowPad');
+	});
+});
+</script>
+
+
+
+
+<div class="clear"></div>
+
+
+					<div class="pageimgtitle">
+				<div class="pageimgtitleps">
+					<div class="mimghot">
+						<h1>Танин мэдэхүй</h1>
+					</div>
+					<div class="pageimgtitlepd"></div>					<div class="clear"></div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		 <div class="clear"></div></header>
+		<div class="sbshow">
+		<article class="mainWr">
+		<div class="mainWrpdo">
+			<aside class="msublist"><div id=""><div style="display:inline-block; width:100%;">
+	<div class="sbmenuout"><div class=""><div class="sbmenuin"><ul>									<li ><a href="index.php@pid=63" >Газар Хөдлөлт</a><span></span></li>												<li class="selctpgeit"><a href="index.php@pid=86" >Одон Орон</a><span></span></li>												<li ><a href="index.php@pid=87" >Соронзон Орон</a><span></span></li>												<li ><a href="index.php@pid=88" >Астропарк</a><span></span></li>			</ul></div></div><div class="sbmnusb"><ul class="ul1">	<li class="animated wow zoomIn" data-wow-delay=".3s"><div class="reclipd1">		<div class="resimgh"><img src="../images/eq1.png"></div>		<div class="resconh"><a href="index.php@pid=86&amp;nid=337" class="bld4 clr2">
+												<span class="txtup">Газар хөдлөл</span><br />		Монголын болон дэлхийн газар хөдлөл</a></div>	</div></li>	<li class="animated wow zoomIn" data-wow-delay=".5s"><div class="reclipd1">		<div class="resimgh"><img src="../images/od1.png"></div>		
+													<div class="resconh"><a href="index.php@pid=97" class="bld4 clr2"><span class="txtup">Астропарк</span><br />		Сансар од эрхэсийн ордон		</a></div>	</div></li>	<li class="animated wow zoomIn" data-wow-delay=".7s"><div class="reclipd1">		<div class="resimgh"><img src="../images/ht1.png"></div>		
+													<div class="resconh"><a href="index.php@pid=92" class="bld4 clr2"><span class="txtup">Хүрэл тогоот</span><br />		Одон орон сансрын музей</a></div>	</div></li></ul></div>
+													<div class="socialilink1 animated wow zoomIn" data-wow-delay=".9">
+														<ul class="ul1">	
+														<li class="ficon"><div class="bordershow1"></div><a href="https://www.facebook.com/Монгол-орны-хүчтэй-газар-хөдлөлт-108983674054302/" target="_blank"></a></li>	
+														<li class="ticon"><div class="bordershow1"></div><a href="index.php@pid=86&amp;nid=337" target="_blank"></a></li>		
+														<li class="yicon"><div class="bordershow1"></div><a href="index.php@pid=86&amp;nid=337" target="_blank"></a></li>		
+														<li class="ricon"><div class="bordershow1"></div><a href="index.php@pid=86&amp;nid=337" target="_blank"></a></li>	</ul></div></div></div><span style="opacity:0;">.</span></div></aside>			<aside class="shomchanges">
+<div class="normalpgepad">
+<div class="normalpgepadins">
+	
+	
+<div class="contentmores">				
+		<h1 class="txt3 lepd1 bld4 clr2 tleft">Солир</h1>		<div class="imageWidth"></div>
+		<div class="inftext"><p style="text-align: justify;">Нарыг тойрон эргэх гариг хоорондын орчин дахь жижиг биетүүд татах хүчинд автагдан нягт агаар мандалд орж ирэхдээ халж, шатан, агшин зуур гэрэл гаран замхрах үзэгдэлийг солир харвах гэнэ (Дээр үед учирыг нь олоогүй байхад “Од харвах” гэж нэрлэж байсан). Харин агаарт шатаж дуусалгүйгээр Дэлхий, гариг, тэдгээрийн дагуулын гадарга дээр унасан биетийг солир гэдэг. Өөрөөр хэлбэл ихэнхи солирын биетүүд үрэлтээс үүссэн дулаанаар халан 80-120 км өндөрт шатаж эхлэх бөгөөд 30-40 км өндөрт  ирэх үедээ бүрмөсөн шатаж замхардаг ба томоохон солирын биет л агаар мандлын давхаргыг нэвтлэн газарт унадаг байна. Ингэж гадаргад унасан биетийг солир гэж нэрлэдэг. Дэлхийн гадарга дээр жил бүр 200 граммаас их жинтэй 500 орчим солирын биет унадаг бөгөөд тэдгээрээс зөвхөн 150 орчим нь хуурай газар дээр бусад нь далай, тэнгисийн усанд унадаг байна. Хуурай газар дээр унаснаас зөвхөн 20 орчим нь олддог. 4 тонн, түүнээс дээш жинтэй солирын биет ойролцоогоор 10 жилд нэг удаа унадаг.</p>
+<p style="text-align: justify;"><!-- pagebreak --></p>
+<p style="text-align: justify;">           <strong> Солирыг бүтэц найрлагын хувьд:</strong></p>
+<ul style="text-align: justify;">
+<li>Чулуун солир: Чулуун солирыг дотор нь мөхлөгтэй, мөхлөггүй гэсэн хоёр гол дэд ангид хуваадаг. Мөхлөг гэдэг нь металл, царууц, сульфид зэргээс бүтсэн бөөрөнхий хэлбэртэй жижиг хэмжээтэй хэсгүүд юм. Тэд чөлөөт устөрөгч, Гелий агуулдаггүй бөгөөд харин Литий болон Бор ихтэй байна. Мөхлөггүй солир нь бүтэц найрлагын хувьд маш олон дэд төрөлд хуваагдана. Антрактидын мөсөн давхаргад хуримтлагдсан солирын биет дотроос олдсон мөхлөггүй солир нь бүтэц найрлагын хувьд Сарнаас авчирсан чулуулагын дээжтэй их ойролцоо байдаг байна. Чулуун солир нь нийт солирын 90% орчмыг эзэлдэг.</li>
+<li>Төмөр солир: Төмөр солир нь бараг бүхлээрээ төмөр болон никелээс тогтоно. Никель хэдий хэр агуулж байгаагаас хамааруулан тэдгээрийг хэд хэдэн ангид хуваана. Нийт солирын 6-7%-иас олонгүй байна.</li>
+<li>Холимог солир: Холимог (Төмөр-чулуун) солир нь чөлөөт металл болон минералыйн бодисыг бараг ижил хэмжээгээр агуулсан байдаг. Нийт солирын 1,5%-иас олонгүй нь төмөр-чулуун солир байдаг.</li>
+</ul>
+<p style="text-align: justify;">гэж үндсэн гурван хэсэгт хувааж үздэг. Эдгээр ангилалд багтадгүй онцгой найрлагатай солир тийм ч элбэг биш ч гэсэн түүхэнд олдсон байдаг. Жишээ нь: Чехославак (1787 онд), Америк, ОХУ, Зааны Ясан эрэг, Австриал зэрэг орнуудаас шилэн солир олдож байсан. 1969 онд Сарнаас авчирсан дээжинд шилэн солиртой төстэй зүйл байсан тул энэ солир сансрын гаралтай болохыг анх тогтоож байсан.</p>
+<p style="text-align: justify;">Мөн солирийн биетүүд нь агаар мандалд шатах үед өөр өөр өнгөөр үзэгддэг. Өөрөөр хэлбэл солирын биет агаар мандалд шатаж байх явцад үүсэж байгаа өнгө нь агаар мандалд орж ирэх хурд болон биетийн хиймийн найрлагаасаа шууд хамааралтай байдаг.</p>
+<p style="text-align: center;"><img src="../file/Tanin&#32;Medehui/husnegt.jpg" alt="" width="605" height="118" /></p>
+<p style="text-align: justify;">Дэлхийн агаар мандалд ганц нэг солир үзэгдэхээс гадна нэгэн зэрэг олон солир харвах үзэгдэл ч ажиглагддаг. Үүнийг солирын урсгал (Солирын бороо) гэнэ. Энэ нь олон тооны солирын биетүүд дэлхийн агаар мандалд орж ирэн шатсаны улмаас тэнгэрт нэг цэгээс олон тооны гэрэл цацарч байгаа юм шиг харагддаг. Тэр цэгийг солирын урсгалын цацрах цэг гэж нэрлэдэг. Тодорхой хугацаанд, хэдэн цагаас хэдэн өдрийн турш харагдаж болдог үзэгдэл юм. Солирын урсгалын цацрах цэгийг оршиж буй ордны нэрээр нэрлэнэ. Жишээ нь: Үхэр ордны, Арслан ордны солирын урсгал гэх мэт.</p>
+<p style="text-align: center;"><img src="../file/Tanin&#32;Medehui/arslangiin&#32;ordnii&#32;soliriin&#32;ursgal.jpg" alt="" width="602" height="403" /></p>
+<p style="text-align: center;">2001 оны 11-р сарын 18-19 Арслан ордны солирын урсгал.  <br />Эх сурвалж: <a href="https://www.space.com/39469-best-meteor-showers.html">https://www.space.com/39469-best-meteor-showers.html</a></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: justify;">Дэлхийн агаар мандалд шатан замхарч буй бодис, биетийг оролцуулбал нэг хоногт 60 орчим тонн бодис дэлхийн гадаргад унадаг гэж үздэг. Дэлхийн гадарга дээрээс ийм солирын биет 3500 гаруйг олсон бөгөөд дунджаар солирын биетийн 40000-аас  нэг нь л Дэлхийн гадаргад унадаг байна. Унах үедээ дэлбэрч  янз бүрийн хэмжээтэй тогоо, цар үүсгэнэ. Одоогоор Дэлхий дээр 200м – 100км хүртэл диаметр бүхий 100 гаруй тогоо илрүүлээд байгаа. Монголын нутаг дээр ийм цар тогоо цөөнгүй буй:</p>
+<ul style="text-align: justify;">
+<li>20 тонн хүнд “Мөнгөн дөш”,</li>
+<li>2 кг жинтэй “Аж богд II”,</li>
+<li>8 кг “Манлай” хэмээх нэртэй төмөр солирын биет,</li>
+<li>172 кг хүнд “Тамир-Цэцэрлэг”, </li>
+<li>0 кг жинтэй“Ноён уул” зэрэг төмөр-чулуун солир,</li>
+<li>“Ноён богд”, “Аж богд I”, “Матад” зэрэг чулуун солирын биет,</li>
+<li>2 кг хүнд “Хэрлэн” хэмээх шилэн солир (Тектит) зэрэг 10 гаруй солирын биет тус тус олдож байсан.</li>
+</ul>
+<p style="text-align: justify;">Эдгээрээс хамгийн том нь Ховд аймгийн Булган сумын нутагт унасан “Мөнгөн дөш” солир юм. Тэр жингээрээ Өмнөт Африк, Гренланд, Мексикээс олсон Гоба (60 тонн),  Кейп-Йорк (32 тонн),  Бакубирито ( 27 тонн) солирын дараа орно. Харин “Хэрлэн” хэмээх шилэн солирыг1950 оны III сарын 11-ний 01 цагт Хэрлэн голоос урагш 80 км-т орших “Энгэр шанд” гэдэг газар их чимээ гарган, цэнхэр ногоон дөл үүсгэн унахыг олон хүн үзжээ. Уг солир унахдаа эргэн тойрны хөр цасыг хайлуулан, зургаан ханатай гэрийн буйр орчим газрын өвс ургамлыг шатааж, гүн нүх гарган шигдсэн байжээ.</p>
+<p style="text-align: justify;">            Сүүлийн мянган жилийн дотор Дэлхий дээр унасан хамгийн том биет бол Сибирьт унасан “Түнгүүсийн солир“ юм. 1908 онд Сибирийн тайгад газрын гадаргаас 7м-н өндөрт агаар мандалд 50-60м-н диаметртэй том биш сүүлт одны цөмийн хэлтэрхий дэлбэрсэн гэж эрдэмтэд үздэг.</p>
+<p style="text-align: center;"><strong>Томоохон солирууд</strong></p>
+<p style="text-align: center;"><img src="../file/Tanin&#32;Medehui/husnegt1.jpg" alt="" width="607" height="556" /></p>
+<p style="text-align: center;"> </p>
+<p>Дэлхий дээр 100 метрээс багагүй диаметр бүхий солирын тогоо 100 орчим байдаг бөгөөд тэдгээрийн ихэнхи нь цаг хугацаанаас хамааран хэлбэр дүрсээ алдаж байдаг. Түүний хил шугамыг зөвхөн сансраас авсан дүрс, зураг дээр л ялгах боломжтой байдаг байна. Хамгийн нэрд гарсан онцлог солирын тогоонуудыг дурьдвал:</p>
+<p style="text-align: center;"><img src="../file/Tanin&#32;Medehui/Baringer&#32;soliriin&#32;togoo.jpg" alt="" width="603" height="450" /></p>
+<p style="text-align: center;">Аризон дахь Барингер солирын тогоо. Нас нь 50000 жил, диаметр нь 1.2км, гүн нь 170м. <br />Эх сурвалж: <a href="https://astronomy.com/magazine/ask-astro/2015/04/blast-radius">https://astronomy.com/magazine/ask-astro/2015/04/blast-radius</a></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><img src="../file/Tanin&#32;Medehui/Gosses&#32;Bluff.jpg" alt="" width="602" height="404" /></p>
+<p style="text-align: center;">Австралийн хойд хэсэгт орших Gosses Bluff солирын тогоо. Нас нь 143 сая жил, <br />Диаметр нь анх 22 км орчим байсан бөгөөд он цагийн эрхээр элэгдсээр одоо 5км-н диаметртэй болсон. <br />Эх сурвалж: <a href="https://www.sciencesource.com/archive/Gosses-Bluff-SS2436647.html#/SearchResult&amp;ITEMID=SS2436647&amp;POPUPPN=1&amp;POPUPIID=2OPEBMNU63D2">https://www.sciencesource.com/archive/Gosses-Bluff-SS2436647.html#/SearchResult&amp;ITEMID=SS2436647&amp;POPUPPN=1&amp;POPUPIID=2OPEBMNU63D2</a></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><img src="../file/Tanin&#32;Medehui/Vredefort.jpg" alt="" width="602" height="602" /></p>
+<p style="text-align: center;">Өмнөд Африк, Иоханнесбургт орших Vredefort солирын тогоо. Нас нь 2 тэрбум жил, диаметр нь 300км. <br />Хамгийн том бөгөөд хамгийн хөгшин солирын тогооны нэг юм.<br /> Эх сурвалж: <a href="http://www.astronoo.com/en/articles/craters-impact-on-earth.html">http://www.astronoo.com/en/articles/craters-impact-on-earth.html</a></p></div>
+		<div class="clear"></div>		
+		
+					<div class="clear"></div>
+			<div class="html-code grid-of-images">
+			<div class="popup-gallery">
+				            </div>
+            </div>
+		<div class="clear"></div>
+		<div class="bottomback">
+			<a href="index.php@pid=86">..бусад</a>		
+		</div>
+		<div class="clear"></div>
+				<div class="clear"></div>
+</div>
+<script>
+$(document).ready(function(){
+	var imgwidth = $('.imageWidth').width();
+	if(imgwidth > 700) { $('.imageWidth img').css({'width':'100%'}); }
+	else if(imgwidth < 700) { $('.imageWidth img').css({'width':'50%', 'float':'left'}); }
+});
+</script>
+<div class="clear"></div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$('.popup-gallery').magnificPopup({
+		delegate: 'a',
+		type: 'image',
+		tLoading: 'Loading image #%curr%...',
+		mainClass: 'mfp-img-mobile',
+		gallery: {
+		enabled: true,
+		navigateByImgClick: true,
+		preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+		},
+		image: {
+		tError: '<a href="https://iag.mn/mn/%url%">The image #%curr%</a> could not be loaded.',
+		titleSrc: function(item) {
+		  return item.el.attr('title') + '<small></small>';
+		}
+		}
+	});
+});
+</script>
+</div>
+<div class="clear"></div>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+	$('.popup-gallery').magnificPopup({
+		delegate: 'a',
+		type: 'image',
+		tLoading: 'Loading image #%curr%...',
+		mainClass: 'mfp-img-mobile',
+		gallery: {
+		enabled: true,
+		navigateByImgClick: true,
+		preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+		},
+		image: {
+		tError: '<a href="https://iag.mn/mn/%url%">The image #%curr%</a> could not be loaded.',
+		titleSrc: function(item) {
+		  return item.el.attr('title') + '<small></small>';
+		}
+		}
+	});
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</aside>
+			<aside class="rlist"><link type="text/css" href="../css/scrolls.css" rel="stylesheet" media="screen" />
+<div class="rlista">
+	<div class="answerfeild"><h2><a href="index.php@pid=143" class="txt16 txtup bld7 clr2">Та газар хөдлөлт<br/> мэдэрсэн үү <span>?</span></a></h2></div>
+	<div class="earthqb"><a href="http://ds.iris.edu/seismon/bigmap/index.phtml" target="_blank" class="txt17 txtup bld7"><span>Дэлхийн <br>газар хөдлөл</span></a><img src="../images/eworld.jpg"></div>
+	<div class="earthqb"><a href="http://www.iag.mn/event/index.php?loc=mgl" target="_blank" class="txt17 txtup bld7"><span>Монголын <br>газар хөдлөл</span></a><img src="../images/emongolia.jpg"></div>
+	<div class="earthqb"><a href="http://www.iag.mn/event/index.php?loc=ub" target="_blank" class="txt17 txtup bld7"><span>Улаанбаатарын <br>газар хөдлөл</span></a><img src="../images/eub.jpg"></div>
+</div>
+<div class="clear"></div>
+<div class="linkwebout">
+<div class="linkwebin">
+	<h2>Вэб холбоос</h2>
+	<ul  id="content_1" class="content">
+		<li><a href="https://link.springer.com" target="_blank">Springer</a></li><li><a href="http://orfeus-eu.org" target="_blank">Европын сейсмологийн холбоо</a></li><li><a href="http://asc1996.com" target="_blank">Азийн сейсмологийн комисс</a></li><li><a href="http://crust.irk.ru" target="_blank">ОХУ-ын ШУА-ийн Сибирийн салбарын Дэлхийн царцдасын хүрээлэн</a></li><li><a href="http://iszf.irk.ru" target="_blank">ОХУ-ын ШУА-ийн Сибирийн салбарын Нар-дэлхийн физикийн хүрээлэн</a></li><li><a href="http://iisee.kenken.go.jp" target="_blank">Японы сейстологийн ба газар хөдлөлийн инженерийн олон улсын институт</a></li><li><a href="http://eost.u-strasbg.fr" target="_blank">Страсбургийн Луйс-Пастрын их сургууль</a></li><li><a href="http://ctbto.org" target="_blank">Олон улсын цөмийн тэсэлгээний хяналтын хороо</a></li><li><a href="http://usgs.gov" target="_blank">Америкийн геологийн алба</a></li><li><a href="http://iaspei.org" target="_blank">Олон улсын сейсмологийн ба дэлхийн физикийн холбоо</a></li>			
+	</ul>
+	<div class="clear"></div>
+</div>
+</div>
+<style> .content{width:100%; height:240px; overflow:auto;} </style>
+<script type="text/javascript" src="../js/scrolls.js"></script>
+<script type="text/javascript">
+		(function($){
+			$(window).load(function(){
+				$("#content_1").mCustomScrollbar({
+					scrollButtons:{
+						enable:false
+					}
+				});
+			});
+		})(jQuery);
+</script></aside>
+		<div class="clear"></div>
+				<div class="clear"></div>
+		</div>
+		</article>
+		<div class="clear"></div>
+		<footer id="footer"><div class="footertop">
+<div class="footertopipd">
+
+</div>
+</div>
+<div class="clear"></div>
+<div class="footerbot">
+<div class="footerbotipd">
+	<div class="footermenum">
+	<ul>
+			<li>
+		<div class="linkwebdiv">
+			<h1>Хүрэл тогоот</h1>
+				<h2><a href="index.php@pid=92">Танилцуулга</a></h2><h2><a href="index.php@pid=93">Одот тэнгэрээр аялах нь</a></h2><h2><a href="index.php@pid=94">Дэг журам</a></h2><h2><a href="index.php@pid=95">Амрах байр</a></h2><h2><a href="index.php@pid=96">Зоог</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Астрометрийн судалгаа</h1>
+				<h2><a href="index.php@pid=42">Судалгааны чиглэл</a></h2><h2><a href="index.php@pid=43">Сансрын хог хаягдал</a></h2><h2><a href="index.php@pid=44">Бага гараг</a></h2><h2><a href="index.php@pid=45">Солирын тогоо</a></h2><h2><a href="index.php@pid=46">Сансрын гамма тэсрэлт</a></h2><h2><a href="index.php@pid=47">OWL дуран</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Астрофизик</h1>
+				<h2><a href="index.php@pid=48">Судалгааны чиглэл</a></h2><h2><a href="index.php@pid=49">Hα ажиглалт</a></h2><h2><a href="index.php@pid=50">Хэт ягаан цацраг</a></h2><h2><a href="index.php@pid=51">Спектрийн шугамууд</a></h2><h2><a href="index.php@pid=52">Сallisto</a></h2><h2><a href="index.php@pid=53">Багаж</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Газар хөдлөлт</h1>
+				<h2><a href="index.php@pid=54">Бидний тухай</a></h2><h2><a href="index.php@pid=57">Салбарын өнөөдрийн бүтэц, боловсон хүчин</a></h2><h2><a href="index.php@pid=137">Түүхэн замнал</a></h2><h2><a href="index.php@pid=138">Газар хөдлөлтийн ерөнхий ойлголт</a></h2><h2><a href="index.php@pid=139">Монголын газар хөдлөхүй</a></h2><h2><a href="index.php@pid=140">Газар хөдлөлт бүртгэх сүлжээ станц</a></h2><h2><a href="index.php@pid=141">Танин мэдэхүй</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Геомагнитизм</h1>
+				<h2><a href="index.php@pid=125">Соронзон орны ерөнхий ойлголт</a></h2><h2><a href="index.php@pid=84">Судалгааны чиглэл</a></h2><h2><a href="index.php@pid=127">Монголын нутаг дэвсгэрт хийсэн соронзон хэмжилт</a></h2><h2><a href="index.php@pid=128">Багаж төхөөрөмж</a></h2>			
+		</div>
+		</li>
+			</ul>
+	</div>
+	<div class="clear"></div>
+	<div class="dcrp"><h1>©2015. Одон орон, геофизикийн хүрээлэн</h1></div>
+</div>
+</div></footer>
+		</div>
+</body>
+</html>

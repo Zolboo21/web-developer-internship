@@ -1,0 +1,356 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name = "viewport" content = "user-scalable=yes, initial-scale=1.0, maximum-scale=4.0, width=device-width">
+    <title>Одон Орон Геофизикийн Хүрээлэн</title>
+	<link rel="shortcut icon" href="../images/titleLogo.jpg" />
+	<link type="text/css" href="../css/style.css" rel="stylesheet" />
+    <link type="text/css" href="../css/media.css" rel="stylesheet" />
+	<link type="text/css" href="../css/menu.css" rel="stylesheet" />
+    <link type="text/css" href="../css/content.css" rel="stylesheet" />
+    <link type="text/css" href="../css/animate-min.css" rel="stylesheet" />
+    <link type="text/css" href="../css/awesome.css" rel="stylesheet" />
+    <link type="text/css" href="../css/magpop.css" rel="stylesheet" />
+		
+	<script src="../js/jquery.js" type="text/javascript"></script>
+	<script src="../js/jquery.hoverIntent.minified.js" type="text/javascript"></script>
+	<script src="../js/easing.js" type="text/javascript"></script>
+	<script src="../js/wow.js" type="text/javascript"></script>
+	<script src="../js/script.js" type="text/javascript"></script>
+	<script src="../js/magpop.js" type="text/javascript"></script>
+</head>
+<body>	
+<div id="fb-root"></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77297191-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script>
+	// (function(d, s, id) {
+  // var js, fjs = d.getElementsByTagName(s)[0];
+  // if (d.getElementById(id)) {return;}
+  // js = d.createElement(s); js.id = id;
+  // js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  // fjs.parentNode.insertBefore(js, fjs);
+// }(document, 'script', 'facebook-jssdk'));
+</script>
+<script>
+wow = new WOW( {
+    boxClass:     'wow',
+    animateClass: 'animated',
+    offset:       100
+    }
+);
+wow.init();
+</script>
+				<header><div class="headeroutop">
+	<div class="lawpd">
+		<div class="logohead">
+			<a href="index.php"></a>
+			<img src="../images/logo3.jpg">
+			<h1 class="txt20 bld7">Хубилай Сэцэн Хааны нэрэмжит<br /><span class="txtup">Одон Орон, Геофизикийн Хүрээлэн</span></h1>
+		</div>
+		<div class="hrfeild">
+			<div class="rspdiv1">
+				<ul>
+					<li><a href="index.php@pid=102">Нэвтрэх</a></li>						<li><a href="https://www.shilendans.gov.mn/org/1129" target="_blank">
+								Шилэн данс</a></li>
+											<li><a href="index.php@pid=66">
+								Холбоо барих</a></li>
+										<li class="selclang"><a href="../en/index.php">EN</a></li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+			<div class="searchs">
+				<table cellspacing="0" cellpadding="0">
+					<tr>
+												<td class="sinpt">
+							<form id="search_form" method="get" action="https://iag.mn/mn/search.php" onsubmit="return submitSearch();">
+								<input name="s" placeholder="Хайлт" />
+							</form>
+						</td>
+						<td class="sbnts" onclick="return submitSearch();">
+							<a href="index.php@pid=46" class="sbottn"></a></td>
+						<script type="text/javascript">
+							function submitSearch() {
+								var form = document.getElementById('search_form');
+								form.submit();
+								return false;
+							}
+						</script>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<div class="clear"></div>
+<link href="../css/menu.css" rel="stylesheet" type="text/css" />
+<div class="menuoutpar">
+<div class="menuout">
+<div class="menupd">
+	<ul ><li ><a href="index.php@pid=30">Бидний тухай</a></li><li id="hassubm1"><a >Секторууд</a><ul class="sbcontrol2"><li ><a href="index.php@pid=42" >Астрометрийн судалгаа</a><ul class="sbcontrol3"><li ><a href="index.php@pid=42">Судалгааны чиглэл</a></li><li ><a href="index.php@pid=43">Сансрын хог хаягдал</a></li><li ><a href="index.php@pid=44">Бага гараг</a></li><li ><a href="index.php@pid=45">Солирын тогоо</a></li><li ><a href="index.php@pid=46">Сансрын гамма тэсрэлт</a></li><li ><a href="index.php@pid=47">OWL дуран</a></li></ul></li><li ><a href="index.php@pid=48" >Астрофизик</a><ul class="sbcontrol3"><li ><a href="index.php@pid=48">Судалгааны чиглэл</a></li><li ><a href="index.php@pid=49">Hα ажиглалт</a></li><li ><a href="index.php@pid=50">Хэт ягаан цацраг</a></li><li ><a href="index.php@pid=51">Спектрийн шугамууд</a></li><li ><a href="index.php@pid=52">Сallisto</a></li><li ><a href="index.php@pid=53">Багаж</a></li></ul></li><li ><a href="index.php@pid=54" >Газар хөдлөлт</a><ul class="sbcontrol3"><li ><a href="index.php@pid=54">Бидний тухай</a></li><li ><a href="index.php@pid=57">Салбарын өнөөдрийн бүтэц, боловсон хүчин</a></li><li ><a href="index.php@pid=137">Түүхэн замнал</a></li><li ><a href="index.php@pid=138">Газар хөдлөлтийн ерөнхий ойлголт</a></li><li ><a href="index.php@pid=139">Монголын газар хөдлөхүй</a></li><li ><a href="index.php@pid=140">Газар хөдлөлт бүртгэх сүлжээ станц</a></li><li ><a href="index.php@pid=141">Танин мэдэхүй</a></li></ul></li><li ><a href="index.php@pid=84" >Геомагнитизм</a><ul class="sbcontrol3"><li ><a href="index.php@pid=125">Соронзон орны ерөнхий ойлголт</a></li><li ><a href="index.php@pid=84">Судалгааны чиглэл</a></li><li ><a href="index.php@pid=127">Монголын нутаг дэвсгэрт хийсэн соронзон хэмжилт</a></li><li ><a href="index.php@pid=128">Багаж төхөөрөмж</a></li></ul></li><li ><a href="index.php@pid=40">Орон нутгийн газар хөдлөлтийг бүртгэх станц</a></li></ul></li><li id="hassubm1"><a >Хамтын ажиллагаа</a><ul class="sbcontrol2"><li ><a href="index.php@pid=61">Гадаад хамтын ажиллагаа</a></li><li ><a href="index.php@pid=62">Дотоод хамтын ажиллагаа</a></li></ul></li><li id="hassubm1"><a >Мэдээ мэдээлэл</a><ul class="sbcontrol2"><li ><a href="index.php@pid=33">Цаг үеийн мэдээ</a></li><li ><a href="index.php@pid=68">Одон орон</a></li><li ><a href="index.php@pid=70">Геофизикийн мэдээ</a></li><li ><a href="index.php@pid=69">Зарлал мэдээлэл</a></li></ul></li><li id="hassubm1"><a >Танин мэдэхүй</a><ul class="sbcontrol2"><li ><a href="index.php@pid=63">Газар Хөдлөлт</a></li><li ><a href="index.php@pid=86">Одон Орон</a></li><li ><a href="index.php@pid=87">Соронзон Орон</a></li><li ><a href="index.php@pid=88">Астропарк</a></li></ul></li><li ><a href="index.php@pid=34">Хэвлэл бүтээлүүд</a></li><li ><a href="index.php@pid=35">Геофизикийн тэнхим</a></li><li ><a href="index.php@pid=65">Хэргэжиж буй төслүүд</a></li><li ><a href="index.php@pid=145">Сэтгүүл</a></li></ul></div>
+</div>
+</div>
+
+<div class="menurout">
+<div class="wleadpd1">
+	<h1 class="openSBM"><span></span></h1><div class="selclangm"><a href="../en/index.php">EN</a></div>
+	<div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="menurshow">
+<div class="resmenu">
+	<ul class="hidemc"><li><span></span><a href="index.php@pid=30">Бидний тухай</a></li><li><span></span><a class="subpar">Секторууд</a><ul ><li><span></span><a class="subpar">Астрометрийн судалгаа</a><ul ><li><span></span><a href="index.php@pid=42">Судалгааны чиглэл</a></li><li><span></span><a href="index.php@pid=43">Сансрын хог хаягдал</a></li><li><span></span><a href="index.php@pid=44">Бага гараг</a></li><li><span></span><a href="index.php@pid=45">Солирын тогоо</a></li><li><span></span><a href="index.php@pid=46">Сансрын гамма тэсрэлт</a></li><li><span></span><a href="index.php@pid=47">OWL дуран</a></li></ul></li><li><span></span><a class="subpar">Астрофизик</a><ul ><li><span></span><a href="index.php@pid=48">Судалгааны чиглэл</a></li><li><span></span><a href="index.php@pid=49">Hα ажиглалт</a></li><li><span></span><a href="index.php@pid=50">Хэт ягаан цацраг</a></li><li><span></span><a href="index.php@pid=51">Спектрийн шугамууд</a></li><li><span></span><a href="index.php@pid=52">Сallisto</a></li><li><span></span><a href="index.php@pid=53">Багаж</a></li></ul></li><li><span></span><a class="subpar">Газар хөдлөлт</a><ul ><li><span></span><a href="index.php@pid=54">Бидний тухай</a></li><li><span></span><a href="index.php@pid=57">Салбарын өнөөдрийн бүтэц, боловсон хүчин</a></li><li><span></span><a href="index.php@pid=137">Түүхэн замнал</a></li><li><span></span><a href="index.php@pid=138">Газар хөдлөлтийн ерөнхий ойлголт</a></li><li><span></span><a href="index.php@pid=139">Монголын газар хөдлөхүй</a></li><li><span></span><a href="index.php@pid=140">Газар хөдлөлт бүртгэх сүлжээ станц</a></li><li><span></span><a href="index.php@pid=141">Танин мэдэхүй</a></li></ul></li><li><span></span><a class="subpar">Геомагнитизм</a><ul ><li><span></span><a href="index.php@pid=125">Соронзон орны ерөнхий ойлголт</a></li><li><span></span><a href="index.php@pid=84">Судалгааны чиглэл</a></li><li><span></span><a href="index.php@pid=127">Монголын нутаг дэвсгэрт хийсэн соронзон хэмжилт</a></li><li><span></span><a href="index.php@pid=128">Багаж төхөөрөмж</a></li></ul></li><li><span></span><a href="index.php@pid=40">Орон нутгийн газар хөдлөлтийг бүртгэх станц</a></li></ul></li><li><span></span><a class="subpar">Хамтын ажиллагаа</a><ul ><li><span></span><a href="index.php@pid=61">Гадаад хамтын ажиллагаа</a></li><li><span></span><a href="index.php@pid=62">Дотоод хамтын ажиллагаа</a></li></ul></li><li><span></span><a class="subpar">Мэдээ мэдээлэл</a><ul ><li><span></span><a href="index.php@pid=33">Цаг үеийн мэдээ</a></li><li><span></span><a href="index.php@pid=68">Одон орон</a></li><li><span></span><a href="index.php@pid=70">Геофизикийн мэдээ</a></li><li><span></span><a href="index.php@pid=69">Зарлал мэдээлэл</a></li></ul></li><li><span></span><a class="subpar">Танин мэдэхүй</a><ul ><li><span></span><a href="index.php@pid=63">Газар Хөдлөлт</a></li><li><span></span><a href="index.php@pid=86">Одон Орон</a></li><li><span></span><a href="index.php@pid=87">Соронзон Орон</a></li><li><span></span><a href="index.php@pid=88">Астропарк</a></li></ul></li><li><span></span><a href="index.php@pid=34">Хэвлэл бүтээлүүд</a></li><li><span></span><a href="index.php@pid=35">Геофизикийн тэнхим</a></li><li><span></span><a href="index.php@pid=65">Хэргэжиж буй төслүүд</a></li><li><span></span><a href="index.php@pid=145">Сэтгүүл</a></li></ul>	<ul class="addheadmenu">
+				<li><a href="https://www.shilendans.gov.mn/org/1129" target="_blank" >Шилэн данс</a></li>
+					<li><a href="index.php@pid=66" >Холбоо барих</a></li>
+			</ul>
+</div>
+</div>
+<script>
+$(document).ready(function() {   
+	$('.subpar').on('click', function(){
+	var parli = $(this).parent('li');
+		$(this).removeAttr('href');		
+		parli.find('ul:first').animate({'height':'toggle'}, '100', 'easeInQuad', function(){
+			parli.siblings('li').find('ul').slideUp(700, 'easeOutQuad');
+			parli.siblings('li').find('span').removeClass('beshow');			
+		});
+		parli.find('span:first').toggleClass('beshow');
+		parli.siblings('li').removeClass('actbeshow');
+		parli.addClass('actbeshow');
+		//return false;
+	});
+	
+	$('.openSBM').on('click', function(){
+		$(this).toggleClass('hideSBM');
+		$('.menurshow').toggleClass('leftrOne');
+		$('.sbshow').toggleClass('sbshowPad');
+	});
+});
+</script>
+
+
+
+
+<div class="clear"></div>
+
+
+					<div class="pageimgtitle">
+				<div class="pageimgtitleps">
+					<div class="mimghot">
+						<h1>Астрометрийн судалгаа</h1>
+					</div>
+					<div class="pageimgtitlepd"><img alt="" src="../data/page/page1462768119.jpg"></div>					<div class="clear"></div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		 <div class="clear"></div></header>
+		<div class="sbshow">
+		<article class="mainWr">
+		<div class="mainWrpdo">
+			<aside class="msublist"><div id=""><div style="display:inline-block; width:100%;">
+	<div class="sbmenuout">			<div class=""><div class="sbmenuin"><ul>				
+	<li >
+		<a href="index.php@pid=42" >
+		Судалгааны чиглэл</a><span></span></li>
+									
+	<li >
+		<a href="index.php@pid=43" >
+		Сансрын хог хаягдал</a><span></span></li>
+									
+	<li >
+		<a href="index.php@pid=44" >
+		Бага гараг</a><span></span></li>
+									
+	<li >
+		<a href="index.php@pid=45" >
+		Солирын тогоо</a><span></span></li>
+									
+	<li class="selctpgeit">
+		<a href="index.php@pid=46" >
+		Сансрын гамма тэсрэлт</a><span></span></li>
+									
+	<li >
+		<a href="index.php@pid=47" >
+		OWL дуран</a><span></span></li>
+					</ul></div></div><div class="sbmnusb"><ul class="ul1">	<li class="animated wow zoomIn" data-wow-delay=".3s"><div class="reclipd1">		<div class="resimgh"><img src="../images/eq1.png"></div>		<div class="resconh"><a href="index.php@pid=46" class="bld4 clr2">
+												<span class="txtup">Газар хөдлөл</span><br />		Монголын болон дэлхийн газар хөдлөл</a></div>	</div></li>	<li class="animated wow zoomIn" data-wow-delay=".5s"><div class="reclipd1">		<div class="resimgh"><img src="../images/od1.png"></div>		
+													<div class="resconh"><a href="index.php@pid=97" class="bld4 clr2"><span class="txtup">Астропарк</span><br />		Сансар од эрхэсийн ордон		</a></div>	</div></li>	<li class="animated wow zoomIn" data-wow-delay=".7s"><div class="reclipd1">		<div class="resimgh"><img src="../images/ht1.png"></div>		
+													<div class="resconh"><a href="index.php@pid=92" class="bld4 clr2"><span class="txtup">Хүрэл тогоот</span><br />		Одон орон сансрын музей</a></div>	</div></li></ul></div>
+													<div class="socialilink1 animated wow zoomIn" data-wow-delay=".9">
+														<ul class="ul1">	
+														<li class="ficon"><div class="bordershow1"></div><a href="https://www.facebook.com/Монгол-орны-хүчтэй-газар-хөдлөлт-108983674054302/" target="_blank"></a></li>	
+														<li class="ticon"><div class="bordershow1"></div><a href="index.php@pid=46" target="_blank"></a></li>		
+														<li class="yicon"><div class="bordershow1"></div><a href="index.php@pid=46" target="_blank"></a></li>		
+														<li class="ricon"><div class="bordershow1"></div><a href="index.php@pid=46" target="_blank"></a></li>	</ul></div></div></div><span style="opacity:0;">.</span></div></aside>			<aside class="shomchanges">
+<div class="normalpgepad">
+<div class="normalpgepadins">
+	<div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">Сансрын гамма тэсрэлт</h1><div class="cimage"></div></article><p style="text-align: justify;">Сансрын гамма тэсрэлтийн тухай ойлголт</p>
+<p style="text-align: justify;">Сансрын гялбаат тэсрэлт бол орчлон дахь хамгийн хүчтэй тэсрэлтүүдийн нэг юм. Гамма тэсрэлт нь хэдэн арван мянгаас хэдэн зуун мянган электрон-вольт энергитэй сансрын гамма-цацрагуудын гэнэтийн богино хугацааны идэвхжил юм. Энэ үзэгдлийг сүүлийн 50 жил идэвхтэй судалж байгаа боловч мөн чанарыг нь одоо хүртэл нарийн тодорхойлоогүй. Одон орны газрын ажиглалтын эрин үед ийм тэсрэлт байдгийг хэн ч таамаглаж байгаагүй, тэгээд ч газрын ажиглалтаар илрүүлэх боломжгүй үзэгдэл юм. Харин 1973 онд Америкийн цэргийн хиймэл дагуул Vela тохиолдлоор илрүүлсэн байдаг. Судалж эхэлсэн анхны жилүүдэд гамма тэсрэлт жилдээ 5-8 удаа ажиглагдаж байсан учраас ховор үзэгдэл гэж үзэж байв. 1970-аад оны сүүлчээр гамма тэсрэлтийг судлах зориулалттай гамма цацраг хүлээн авагч зохион бүтээж зөвлөлтийн гариг хоорондын Венера-11, 12 автомат станцуудад суурилуулан ажиллуулж эхэлсэн. Энэ станц 1979-1983 онуудад нийт 160 гаруй тэсрэлт бүртгэж, гамма тэсрэлтийн шинж чанарыг тайлбарлах эхний алхмууд хийгдсэн. Тэсрэлтүүд тэнгэрийн мандалд жигд тархсан буюу өөрөөр хэлбэл тэнгэрийн хаана ч үзэгдэж болно, мөн тэсрэлт эхэлснээс хойш суларч замхрах хүртэлх энергийн тархалт нь үргэлжлэх хугацаанаасаа хамааран 1, ихэнх тохиолдолд 2 максимумтай байдгийг тогтоосон. Тэсрэлт нь хэдхэн секунд, эсвэл секунд хүрэхгүй хугацаанд явагдах ба замхрал нь хэдэн минут байж болно. Гамма тэсрэлтүүдийг шинж чанараар нь хоёр ангилдаг: Нэгдүгээрт, богино хугацааны тэсрэлтүүд - хос одны системийн нягт ихтэй одууд, (жишээ нь, нейтрон од, хар нүх) хоорондоо нийлэх үед үүсдэг. Энэ төрлийн гамма тэсрэлтүүд 2 секундээс бага хугацаанд явагдана. Хоёрдугаарт, урт хугацааны тэсрэлтүүд - эдгээр нь гол төлөв масс ихтэй оддын цөм эвдэрч задарснаас үүдэлтэй. Мөн зарим тохиолдолд гамма гялбаат тэсрэлт хэт шинэ одны тэсрэлтийн үед дагалддаг. Урт хугацааны тэсрэлтүүд 2 секундээс дээш хугацаанд явагдана. 1991 онд Америкийн Комптоны гамма дуранг (Compton Gamma-Ray Observatory) сансарт хөөргөсөн ба энэ дуран дээр 20-иос 2000 КэВ энергийг мэдрэх чадвартай BATSE (Burst and Transient Search Experiment) төхөөрөмж суулгасан байв. Энэ дуран 2000 он хүртэл 9 жил тасралтгүй ажиллахдаа 2000 гаруй тэсрэлтийг бүртгэн сансрын гамма тэсрэлтийн өгөгдлийн санг мэдэгдэхүйц баяжуулсан байна. Гамма тэсрэлтийн эх үүсвэрийн тухай хоёр үндсэн таамаглал байдаг.Энэ нь нэг бол манай Галактикийн төвд үүсдэг, эсвэл алсын галактикуудад үүсдэг, космологийн шинж чанартай үзэгдэл гэсэн хоёр таамаглал юм. 1997 онд BeppoSAX сансрын дуран нэг тэсрэлтийг бүртгэн түүний тэнгэрийн мандал дээрх байрлалыг хэдхэн минутын нарийвчлалтай тогтоож чадсан ба ингэснээр байрлалыг нь сайтар мэдэж байгаа үед тэсрэлтийн дараах оптик гэрэлтэлийг газрын ажиглалтаар ажиглах боломжтой гэдгийг тогтоосон. Гэрэл замхарснаас хойш 2 долоо хоногийн дараа энэ газарт галактик байгааг нээсэн нь гамма тэсрэлтүүд алсын галактикт үүсдэг гэдгийг мөн баталж өгсөн юм. Сансрын гамма тэсрэл нь хэзээ ч болж болох тохиолдлын үзэгдэл учраас ажиглалтыг урьдаас төлөвлөх боломжгүй байдаг. Сансрын тойрог замд хөөргөсөн Америкийн BAT/Swift (Burst Alert Telescope on the Swift) дуран сансар дахь гамма тэсрэлтийг бүртгэсэн даруй байрлалыг нь тогтоосон мэдээллийг дэлхийд өгдөг ба энэ мэдээллийн дагуу аль болох хурдан хугацаанд ажиглалтыг зохион байгуулах хэрэгтэй байдаг. Тэсрэлт болсноос хойш хугацаа өнгөрөх тусам тэсрэлтийн эрчим буурч сарнидаг учраас олон цагийн дараа хийсэн ажиглалт ач холбогдолгүй болох магадлалтай. 2014- 2016 онд сансрын гамма тэсрэлийн оптик ажиглалтыг нийт 23 удаа хийсэн. Ажиглалтын үр дүнгүүд болон ажиглалтаас гарган авсан гэрлийн муруйн өгөгдлүүдийг GCN Circular (The Gamma-ray Coordinates Network Circular <a href="http://gcn.gsfc.nasa.gov/gcn3_archive.html)-т">http://gcn.gsfc.nasa.gov/gcn3_archive.html)-т</a> хэвлүүлсэн болно. Ажиглалтын зургийг IRAF программ хангамж ашиглан боловсруулж объектын од хэмжигдхүүнийг тодорхойлдог. Бидний хувьд гамма тэсрэлтийн оптик ажиглалтыг хийж гэрлийн муруйг тооцоолон гаргаж байна. Цаашдын физик дүгнэлтүүдийг олон газрын ажиглалтуудыг үндэслэн астрофизикч нар хийдэг.</p>
+<p style="text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" src="../file/a9.jpg" alt="" width="370" height="411" /><em>Зураг 1-д 2015 оны 4-р сарын 13-ны гамма гялбаат тэсрэлийн гэрлийн муруй.</em></p>
+<p style="text-align: center;"><em><img src="../file/a10.jpg" alt="" width="617" height="446" /></em></p>
+<p style="text-align: center;"><em>Зураг </em><em>2</em><em>. GRB150323C гамма тэсрэлтийн гэрлийн муруй</em></p>
+<p style="text-align: justify;">Сансрын гамма тэсрэлтийн оптик ажиглалтын хүрээнд 2015 оны 6-р сард Хунгийн ордны V404 рентген шинэ одны тэсрэлтийг ажигласан. Хунгийн ордны V404 (V404 Cygni) рентген объект нь G эсвэл K спектрийн ангийн, ойролцоогоор 12 орчим нарны масстай хар нүх ба дагуулаас бүрдсэн хос одны систем юм. Энэ хоёр объект нь хангалттай ойрхон зайнд 6,5 хоног тутамд бие биенээ тойрон эргэж байдаг. Хэт ойрхон байрлалаасаа хамааран од нь хар нүхний гравитацын улмаас хэлбэрээ өөрчлөн массаа алдаж байдаг. Нэрний V үсэг нь гялбаа нь цаг хугацаанд өөрчлөгддөг хувьсах од гэсэн тэмдэглэгээ юм. Мөн тэрээр шинэ одонд тооцогддог, яагаад гэвэл түүн дээр 20-р зуунд хамгийн багадаа 3 тод энергийн тэсрэлт болсон (1938, 1956, 1989 онуудад). Мөн бас богино рентген цацраг үе үе цацруулдаг учир рентген шинэ од юм. Одны системийн хамгийн масс ихтэй хэсэг нь хар нүх биш Q-од байх магадлалтай гэсэн таамаг мөн яригдсан байдаг. 2009 онд Хунгийн ордны V404 дахь хар нүх нь манай нарны аймгийн систем хүртэлх зайг нь тодорхойлсон параллаксын зөв хэмжилттэй анхны хар нүх болсон: 2.4 килопарсек эсвэл 7.8*10<sup>3</sup> гэрлийн жил.</p>
+<p style="text-align: justify;">2015 оны 6-р сарын 5-нд <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%90%D0%A1%D0%90"> НАСА</a> <a href="https://ru.wikipedia.org/wiki/Swift_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82)"> SWIFT</a> сансрын аппарат энэ объект идэвхжиж байгаа шинж тэмдгийг бүртгэсэн. 6-р сарын 17-нд <a href="https://ru.wikipedia.org/wiki/%D0%95%D0%9A%D0%90"> ЕКА</a> HYPERLINK  <a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB_(%D0%BE%D0%B1%D1%81%D0%B5%D1%80%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F)" target="_blank">"https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB<br />_(%D0%BE%D0%B1%D1%81%D0%B5%D1%80%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F)"</a> <u>Интеграл</u> гамма-Оргил тэсрэлтийн мониторинг хийж эхэлсэн ба 1 цагаас бага хугацааны интервалд давтагдсан хурц тэсрэлтүүд явагдаж байгааг ажигласан. Энэ нь хар нүхний системүүдэд ховор ажиглагддаг үзэгдэл, мөн тэсрэлт маш хүчтэй, эхэн үедээ Арваалжин мананцраас хэдэн арав дахин тод байсан зэргээс үүдэн газрын ажиглалтын 22 одон орны оргилууд оптик ажиглалт хийсэн. Ажиглалтын үр дүнгүүдийг Киотогийн ИС-ийн астрофизикч, докторант Марико Кимурагийн удирдлага дор эмхэтгэн боловсруулж <a href="https://ru.wikipedia.org/wiki/Nature"> Nature</a> сэтгүүлийн 2016 оны 1-р сарын дугаарт хэвлүүлсэн болно.</p>
+<p style="text-align: justify;"> </p>
+<p>( <a href="http://www.nature.com/nature/journal/v529/n7584/full/nature16452.html"> http://www.nature.com/nature/journal/v529/n7584/full/nature16452.html</a> )</p>
+<p style="text-align: justify;"> <img style="display: block; margin-left: auto; margin-right: auto;" src="../file/a11.jpg" alt="" width="403" height="733" /></p>
+<p style="text-align: justify;"><strong>Optical and X-ray light curves of V404 Cyg during an outburst in 2015 June–July. a</strong>, Overall multi-colour light curves and Swift/BAT light curves. The plotted points are averaged for every 0.67 days. <strong>b</strong>, An enlarged view of the shaded box in <strong>a</strong> the first detection of short-term variations). On BJD 2,457,203, the mean magnitude dropped below <em>V</em> = 17.0. Superimposed on this rapid fading, the amplitude of variations became progressively smaller and smaller. After BJD 2,457,205, the mean magnitude seemed to be constant, and the outburst virtually ended.</p>
+<p style="text-align: center;"><em>Зураг </em><em>3</em><em>. Хунгийн ордны V404 объектын нийлмэл гэрлийн муруй, 2015оны 6-7 сар</em></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p><div class="clear"></div></div><script src="../js/salvattore.js" type="text/javascript"></script>
+				<div class="clear"></div>
+				<style type="text/css">	.pageselected {color: #ec0000;font-weight: bold; }</style>
+				<div class="pagering">
+				<table height="20" border="0" align="center" cellpadding="0" cellspacing="0" class="PHPBODY" style="margin-top:5px;">
+				<tr> 						
+				<td align="left" valign="middle" class="selected"><span style="color: #999999">Хуудас:</span>
+										&nbsp;<a class="pageselected" href="index.php@pid=46">1</a>&nbsp; 
+									</td>
+				<td  align="left" valign="middle"> 
+								</td>
+				<td align="left" valign="middle"> 
+								</td>
+				<td align="right" valign="middle" class="selected" style="color: #999999;">
+					<!--Хуудас--> <!--?php print($cur);?> - --><!--?php print($max_pages);?-->
+					( 1 мэдээ )
+					
+				</td>
+				</tr>
+				</table>
+				</div>
+			</div>
+<div class="clear"></div>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+	$('.popup-gallery').magnificPopup({
+		delegate: 'a',
+		type: 'image',
+		tLoading: 'Loading image #%curr%...',
+		mainClass: 'mfp-img-mobile',
+		gallery: {
+		enabled: true,
+		navigateByImgClick: true,
+		preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+		},
+		image: {
+		tError: '<a href="https://iag.mn/mn/%url%">The image #%curr%</a> could not be loaded.',
+		titleSrc: function(item) {
+		  return item.el.attr('title') + '<small></small>';
+		}
+		}
+	});
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</aside>
+			<aside class="rlist"><link type="text/css" href="../css/scrolls.css" rel="stylesheet" media="screen" />
+<div class="rlista">
+	<div class="answerfeild"><h2><a href="index.php@pid=143" class="txt16 txtup bld7 clr2">Та газар хөдлөлт<br/> мэдэрсэн үү <span>?</span></a></h2></div>
+	<div class="earthqb"><a href="http://ds.iris.edu/seismon/bigmap/index.phtml" target="_blank" class="txt17 txtup bld7"><span>Дэлхийн <br>газар хөдлөл</span></a><img src="../images/eworld.jpg"></div>
+	<div class="earthqb"><a href="http://www.iag.mn/event/index.php?loc=mgl" target="_blank" class="txt17 txtup bld7"><span>Монголын <br>газар хөдлөл</span></a><img src="../images/emongolia.jpg"></div>
+	<div class="earthqb"><a href="http://www.iag.mn/event/index.php?loc=ub" target="_blank" class="txt17 txtup bld7"><span>Улаанбаатарын <br>газар хөдлөл</span></a><img src="../images/eub.jpg"></div>
+</div>
+<div class="clear"></div>
+<div class="linkwebout">
+<div class="linkwebin">
+	<h2>Вэб холбоос</h2>
+	<ul  id="content_1" class="content">
+		<li><a href="https://link.springer.com" target="_blank">Springer</a></li><li><a href="http://orfeus-eu.org" target="_blank">Европын сейсмологийн холбоо</a></li><li><a href="http://asc1996.com" target="_blank">Азийн сейсмологийн комисс</a></li><li><a href="http://crust.irk.ru" target="_blank">ОХУ-ын ШУА-ийн Сибирийн салбарын Дэлхийн царцдасын хүрээлэн</a></li><li><a href="http://iszf.irk.ru" target="_blank">ОХУ-ын ШУА-ийн Сибирийн салбарын Нар-дэлхийн физикийн хүрээлэн</a></li><li><a href="http://iisee.kenken.go.jp" target="_blank">Японы сейстологийн ба газар хөдлөлийн инженерийн олон улсын институт</a></li><li><a href="http://eost.u-strasbg.fr" target="_blank">Страсбургийн Луйс-Пастрын их сургууль</a></li><li><a href="http://ctbto.org" target="_blank">Олон улсын цөмийн тэсэлгээний хяналтын хороо</a></li><li><a href="http://usgs.gov" target="_blank">Америкийн геологийн алба</a></li><li><a href="http://iaspei.org" target="_blank">Олон улсын сейсмологийн ба дэлхийн физикийн холбоо</a></li>			
+	</ul>
+	<div class="clear"></div>
+</div>
+</div>
+<style> .content{width:100%; height:240px; overflow:auto;} </style>
+<script type="text/javascript" src="../js/scrolls.js"></script>
+<script type="text/javascript">
+		(function($){
+			$(window).load(function(){
+				$("#content_1").mCustomScrollbar({
+					scrollButtons:{
+						enable:false
+					}
+				});
+			});
+		})(jQuery);
+</script></aside>
+		<div class="clear"></div>
+				<div class="clear"></div>
+		</div>
+		</article>
+		<div class="clear"></div>
+		<footer id="footer"><div class="footertop">
+<div class="footertopipd">
+
+</div>
+</div>
+<div class="clear"></div>
+<div class="footerbot">
+<div class="footerbotipd">
+	<div class="footermenum">
+	<ul>
+			<li>
+		<div class="linkwebdiv">
+			<h1>Хүрэл тогоот</h1>
+				<h2><a href="index.php@pid=92">Танилцуулга</a></h2><h2><a href="index.php@pid=93">Одот тэнгэрээр аялах нь</a></h2><h2><a href="index.php@pid=94">Дэг журам</a></h2><h2><a href="index.php@pid=95">Амрах байр</a></h2><h2><a href="index.php@pid=96">Зоог</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Астрометрийн судалгаа</h1>
+				<h2><a href="index.php@pid=42">Судалгааны чиглэл</a></h2><h2><a href="index.php@pid=43">Сансрын хог хаягдал</a></h2><h2><a href="index.php@pid=44">Бага гараг</a></h2><h2><a href="index.php@pid=45">Солирын тогоо</a></h2><h2><a href="index.php@pid=46">Сансрын гамма тэсрэлт</a></h2><h2><a href="index.php@pid=47">OWL дуран</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Астрофизик</h1>
+				<h2><a href="index.php@pid=48">Судалгааны чиглэл</a></h2><h2><a href="index.php@pid=49">Hα ажиглалт</a></h2><h2><a href="index.php@pid=50">Хэт ягаан цацраг</a></h2><h2><a href="index.php@pid=51">Спектрийн шугамууд</a></h2><h2><a href="index.php@pid=52">Сallisto</a></h2><h2><a href="index.php@pid=53">Багаж</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Газар хөдлөлт</h1>
+				<h2><a href="index.php@pid=54">Бидний тухай</a></h2><h2><a href="index.php@pid=57">Салбарын өнөөдрийн бүтэц, боловсон хүчин</a></h2><h2><a href="index.php@pid=137">Түүхэн замнал</a></h2><h2><a href="index.php@pid=138">Газар хөдлөлтийн ерөнхий ойлголт</a></h2><h2><a href="index.php@pid=139">Монголын газар хөдлөхүй</a></h2><h2><a href="index.php@pid=140">Газар хөдлөлт бүртгэх сүлжээ станц</a></h2><h2><a href="index.php@pid=141">Танин мэдэхүй</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Геомагнитизм</h1>
+				<h2><a href="index.php@pid=125">Соронзон орны ерөнхий ойлголт</a></h2><h2><a href="index.php@pid=84">Судалгааны чиглэл</a></h2><h2><a href="index.php@pid=127">Монголын нутаг дэвсгэрт хийсэн соронзон хэмжилт</a></h2><h2><a href="index.php@pid=128">Багаж төхөөрөмж</a></h2>			
+		</div>
+		</li>
+			</ul>
+	</div>
+	<div class="clear"></div>
+	<div class="dcrp"><h1>©2015. Одон орон, геофизикийн хүрээлэн</h1></div>
+</div>
+</div></footer>
+		</div>
+</body>
+</html>

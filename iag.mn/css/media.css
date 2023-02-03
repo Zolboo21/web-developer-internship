@@ -1,0 +1,64 @@
+@media screen and (max-width: 540px){
+	.headeroutop {text-align:center;}
+	.logohead img {float:none; height:70px; text-align:center;}
+	
+}
+@media screen and (max-width: 600px){
+	.txt20{font-size:17px;}
+	/* ---3 */
+	.llist, .rlist {min-width:100% !important; margin-left:0 !important; display:block; float:none;}
+	/* footer */
+	.footermenum ul li{text-align:left; display:block;}
+}
+@media screen and (max-width: 850px){
+	.rspdiv1 {display:none;}
+	.selclangm {display:block;}
+	.hrfeild {text-align:center; margin:0 auto; float:none;}
+	/* ---2 */
+	.socialilink {width:100%; padding-top:15px;}
+	.sbpagemenu {width:100%;}
+	.resimgh img{display:none;}
+	/* ---3 */
+	.homenewscontrol {display:none;}
+	.homenewsMcontrol {display:block; width:100%;}
+	.homenewsout {padding:0;} .tbglc {width:93% !important;}
+	.llist {width:55% !important; float:left;}
+	.rlist {width:42% !important; float:left; margin-left:3%;}
+	
+
+}
+@media screen and (max-width: 1050px){
+	.lawpd {padding:17px 20px;}
+	.wleadpd1 {padding:0 20px;}
+	/* ---2 */
+	.resconh, .resimgh {display:block; text-align:center;}
+	.reclipd img  {margin:0 0 10px 0;}
+	/* ---3 */
+	.mainWrpd {padding:0 20px}
+	.llist, .homchanges{width:40%;} .rlist{width:20%;}
+	.tbglc {display:block; width:90%; margin-bottom:40px;} .tblbr2, .tblbr4 {border:none;} .owlpd {display:none;}
+	.msublist{display:none;}
+	.mainWrpdo{background-image:none; padding:15px;}
+	.shomchanges{width:100%;}
+	
+	.cnftitle{background: #fff;width:100%; margin:0; border-bottom:1px solid #ccc; box-sizing: border-box;}
+	.cnftitleBg{background: #fff url(../images/cfbg.gif) no-repeat 50% 0%; width:100%; background-size:60%;}
+	.cnftitle1{display:none !important;}
+	.cnftitle3{display:none !important;}
+	.cnftitle2{display:block !important; width:100% !important; text-align:center; }
+	.hadagbg {display:none !important;}
+
+	.cnftitle2 h1 {font-size:24px !important; color: #0153f0; text-align:center; line-height: 32px;}
+	.yearSize{padding:15px;}
+	.yearSize1 {font-size:11px !important; color: #555; padding:0 !important;}
+	.yearSize2 {font-size:24px !important; color: #c41a1c; font-weight:700;}
+	.yearSize3 {font-size:18px !important; color: #8aadfb; padding-left:7px; font-weight:400;}
+}
+@media screen and (max-width: 1280px){
+	
+
+}
+@media screen and (max-width: 1670px){
+
+
+}

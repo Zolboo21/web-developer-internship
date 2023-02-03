@@ -1,0 +1,433 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name = "viewport" content = "user-scalable=yes, initial-scale=1.0, maximum-scale=4.0, width=device-width">
+    <title>Одон Орон Геофизикийн Хүрээлэн</title>
+	<link rel="shortcut icon" href="../images/titleLogo.jpg" />
+	<link type="text/css" href="../css/style.css" rel="stylesheet" />
+    <link type="text/css" href="../css/media.css" rel="stylesheet" />
+	<link type="text/css" href="../css/menu.css" rel="stylesheet" />
+    <link type="text/css" href="../css/content.css" rel="stylesheet" />
+    <link type="text/css" href="../css/animate-min.css" rel="stylesheet" />
+    <link type="text/css" href="../css/awesome.css" rel="stylesheet" />
+    <link type="text/css" href="../css/magpop.css" rel="stylesheet" />
+		
+	<script src="../js/jquery.js" type="text/javascript"></script>
+	<script src="../js/jquery.hoverIntent.minified.js" type="text/javascript"></script>
+	<script src="../js/easing.js" type="text/javascript"></script>
+	<script src="../js/wow.js" type="text/javascript"></script>
+	<script src="../js/script.js" type="text/javascript"></script>
+	<script src="../js/magpop.js" type="text/javascript"></script>
+</head>
+<body>	
+<div id="fb-root"></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77297191-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script>
+	// (function(d, s, id) {
+  // var js, fjs = d.getElementsByTagName(s)[0];
+  // if (d.getElementById(id)) {return;}
+  // js = d.createElement(s); js.id = id;
+  // js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  // fjs.parentNode.insertBefore(js, fjs);
+// }(document, 'script', 'facebook-jssdk'));
+</script>
+<script>
+wow = new WOW( {
+    boxClass:     'wow',
+    animateClass: 'animated',
+    offset:       100
+    }
+);
+wow.init();
+</script>
+				<header><div class="headeroutop">
+	<div class="lawpd">
+		<div class="logohead">
+			<a href="index.php"></a>
+			<img src="../images/logo3.jpg">
+			<h1 class="txt20 bld7">Хубилай Сэцэн Хааны нэрэмжит<br /><span class="txtup">Одон Орон, Геофизикийн Хүрээлэн</span></h1>
+		</div>
+		<div class="hrfeild">
+			<div class="rspdiv1">
+				<ul>
+					<li><a href="index.php@pid=102">Нэвтрэх</a></li>						<li><a href="https://www.shilendans.gov.mn/org/1129" target="_blank">
+								Шилэн данс</a></li>
+											<li><a href="index.php@pid=66">
+								Холбоо барих</a></li>
+										<li class="selclang"><a href="../en/index.php">EN</a></li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+			<div class="searchs">
+				<table cellspacing="0" cellpadding="0">
+					<tr>
+												<td class="sinpt">
+							<form id="search_form" method="get" action="https://iag.mn/mn/search.php" onsubmit="return submitSearch();">
+								<input name="s" placeholder="Хайлт" />
+							</form>
+						</td>
+						<td class="sbnts" onclick="return submitSearch();">
+							<a href="index.php@pid=84&amp;nid=160" class="sbottn"></a></td>
+						<script type="text/javascript">
+							function submitSearch() {
+								var form = document.getElementById('search_form');
+								form.submit();
+								return false;
+							}
+						</script>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<div class="clear"></div>
+<link href="../css/menu.css" rel="stylesheet" type="text/css" />
+<div class="menuoutpar">
+<div class="menuout">
+<div class="menupd">
+	<ul ><li ><a href="index.php@pid=30">Бидний тухай</a></li><li id="hassubm1"><a >Секторууд</a><ul class="sbcontrol2"><li ><a href="index.php@pid=42" >Астрометрийн судалгаа</a><ul class="sbcontrol3"><li ><a href="index.php@pid=42">Судалгааны чиглэл</a></li><li ><a href="index.php@pid=43">Сансрын хог хаягдал</a></li><li ><a href="index.php@pid=44">Бага гараг</a></li><li ><a href="index.php@pid=45">Солирын тогоо</a></li><li ><a href="index.php@pid=46">Сансрын гамма тэсрэлт</a></li><li ><a href="index.php@pid=47">OWL дуран</a></li></ul></li><li ><a href="index.php@pid=48" >Астрофизик</a><ul class="sbcontrol3"><li ><a href="index.php@pid=48">Судалгааны чиглэл</a></li><li ><a href="index.php@pid=49">Hα ажиглалт</a></li><li ><a href="index.php@pid=50">Хэт ягаан цацраг</a></li><li ><a href="index.php@pid=51">Спектрийн шугамууд</a></li><li ><a href="index.php@pid=52">Сallisto</a></li><li ><a href="index.php@pid=53">Багаж</a></li></ul></li><li ><a href="index.php@pid=54" >Газар хөдлөлт</a><ul class="sbcontrol3"><li ><a href="index.php@pid=54">Бидний тухай</a></li><li ><a href="index.php@pid=57">Салбарын өнөөдрийн бүтэц, боловсон хүчин</a></li><li ><a href="index.php@pid=137">Түүхэн замнал</a></li><li ><a href="index.php@pid=138">Газар хөдлөлтийн ерөнхий ойлголт</a></li><li ><a href="index.php@pid=139">Монголын газар хөдлөхүй</a></li><li ><a href="index.php@pid=140">Газар хөдлөлт бүртгэх сүлжээ станц</a></li><li ><a href="index.php@pid=141">Танин мэдэхүй</a></li></ul></li><li ><a href="index.php@pid=84" >Геомагнитизм</a><ul class="sbcontrol3"><li ><a href="index.php@pid=125">Соронзон орны ерөнхий ойлголт</a></li><li ><a href="index.php@pid=84">Судалгааны чиглэл</a></li><li ><a href="index.php@pid=127">Монголын нутаг дэвсгэрт хийсэн соронзон хэмжилт</a></li><li ><a href="index.php@pid=128">Багаж төхөөрөмж</a></li></ul></li><li ><a href="index.php@pid=40">Орон нутгийн газар хөдлөлтийг бүртгэх станц</a></li></ul></li><li id="hassubm1"><a >Хамтын ажиллагаа</a><ul class="sbcontrol2"><li ><a href="index.php@pid=61">Гадаад хамтын ажиллагаа</a></li><li ><a href="index.php@pid=62">Дотоод хамтын ажиллагаа</a></li></ul></li><li id="hassubm1"><a >Мэдээ мэдээлэл</a><ul class="sbcontrol2"><li ><a href="index.php@pid=33">Цаг үеийн мэдээ</a></li><li ><a href="index.php@pid=68">Одон орон</a></li><li ><a href="index.php@pid=70">Геофизикийн мэдээ</a></li><li ><a href="index.php@pid=69">Зарлал мэдээлэл</a></li></ul></li><li id="hassubm1"><a >Танин мэдэхүй</a><ul class="sbcontrol2"><li ><a href="index.php@pid=63">Газар Хөдлөлт</a></li><li ><a href="index.php@pid=86">Одон Орон</a></li><li ><a href="index.php@pid=87">Соронзон Орон</a></li><li ><a href="index.php@pid=88">Астропарк</a></li></ul></li><li ><a href="index.php@pid=34">Хэвлэл бүтээлүүд</a></li><li ><a href="index.php@pid=35">Геофизикийн тэнхим</a></li><li ><a href="index.php@pid=65">Хэргэжиж буй төслүүд</a></li><li ><a href="index.php@pid=145">Сэтгүүл</a></li></ul></div>
+</div>
+</div>
+
+<div class="menurout">
+<div class="wleadpd1">
+	<h1 class="openSBM"><span></span></h1><div class="selclangm"><a href="../en/index.php">EN</a></div>
+	<div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="menurshow">
+<div class="resmenu">
+	<ul class="hidemc"><li><span></span><a href="index.php@pid=30">Бидний тухай</a></li><li><span></span><a class="subpar">Секторууд</a><ul ><li><span></span><a class="subpar">Астрометрийн судалгаа</a><ul ><li><span></span><a href="index.php@pid=42">Судалгааны чиглэл</a></li><li><span></span><a href="index.php@pid=43">Сансрын хог хаягдал</a></li><li><span></span><a href="index.php@pid=44">Бага гараг</a></li><li><span></span><a href="index.php@pid=45">Солирын тогоо</a></li><li><span></span><a href="index.php@pid=46">Сансрын гамма тэсрэлт</a></li><li><span></span><a href="index.php@pid=47">OWL дуран</a></li></ul></li><li><span></span><a class="subpar">Астрофизик</a><ul ><li><span></span><a href="index.php@pid=48">Судалгааны чиглэл</a></li><li><span></span><a href="index.php@pid=49">Hα ажиглалт</a></li><li><span></span><a href="index.php@pid=50">Хэт ягаан цацраг</a></li><li><span></span><a href="index.php@pid=51">Спектрийн шугамууд</a></li><li><span></span><a href="index.php@pid=52">Сallisto</a></li><li><span></span><a href="index.php@pid=53">Багаж</a></li></ul></li><li><span></span><a class="subpar">Газар хөдлөлт</a><ul ><li><span></span><a href="index.php@pid=54">Бидний тухай</a></li><li><span></span><a href="index.php@pid=57">Салбарын өнөөдрийн бүтэц, боловсон хүчин</a></li><li><span></span><a href="index.php@pid=137">Түүхэн замнал</a></li><li><span></span><a href="index.php@pid=138">Газар хөдлөлтийн ерөнхий ойлголт</a></li><li><span></span><a href="index.php@pid=139">Монголын газар хөдлөхүй</a></li><li><span></span><a href="index.php@pid=140">Газар хөдлөлт бүртгэх сүлжээ станц</a></li><li><span></span><a href="index.php@pid=141">Танин мэдэхүй</a></li></ul></li><li><span></span><a class="subpar">Геомагнитизм</a><ul ><li><span></span><a href="index.php@pid=125">Соронзон орны ерөнхий ойлголт</a></li><li><span></span><a href="index.php@pid=84">Судалгааны чиглэл</a></li><li><span></span><a href="index.php@pid=127">Монголын нутаг дэвсгэрт хийсэн соронзон хэмжилт</a></li><li><span></span><a href="index.php@pid=128">Багаж төхөөрөмж</a></li></ul></li><li><span></span><a href="index.php@pid=40">Орон нутгийн газар хөдлөлтийг бүртгэх станц</a></li></ul></li><li><span></span><a class="subpar">Хамтын ажиллагаа</a><ul ><li><span></span><a href="index.php@pid=61">Гадаад хамтын ажиллагаа</a></li><li><span></span><a href="index.php@pid=62">Дотоод хамтын ажиллагаа</a></li></ul></li><li><span></span><a class="subpar">Мэдээ мэдээлэл</a><ul ><li><span></span><a href="index.php@pid=33">Цаг үеийн мэдээ</a></li><li><span></span><a href="index.php@pid=68">Одон орон</a></li><li><span></span><a href="index.php@pid=70">Геофизикийн мэдээ</a></li><li><span></span><a href="index.php@pid=69">Зарлал мэдээлэл</a></li></ul></li><li><span></span><a class="subpar">Танин мэдэхүй</a><ul ><li><span></span><a href="index.php@pid=63">Газар Хөдлөлт</a></li><li><span></span><a href="index.php@pid=86">Одон Орон</a></li><li><span></span><a href="index.php@pid=87">Соронзон Орон</a></li><li><span></span><a href="index.php@pid=88">Астропарк</a></li></ul></li><li><span></span><a href="index.php@pid=34">Хэвлэл бүтээлүүд</a></li><li><span></span><a href="index.php@pid=35">Геофизикийн тэнхим</a></li><li><span></span><a href="index.php@pid=65">Хэргэжиж буй төслүүд</a></li><li><span></span><a href="index.php@pid=145">Сэтгүүл</a></li></ul>	<ul class="addheadmenu">
+				<li><a href="https://www.shilendans.gov.mn/org/1129" target="_blank" >Шилэн данс</a></li>
+					<li><a href="index.php@pid=66" >Холбоо барих</a></li>
+			</ul>
+</div>
+</div>
+<script>
+$(document).ready(function() {   
+	$('.subpar').on('click', function(){
+	var parli = $(this).parent('li');
+		$(this).removeAttr('href');		
+		parli.find('ul:first').animate({'height':'toggle'}, '100', 'easeInQuad', function(){
+			parli.siblings('li').find('ul').slideUp(700, 'easeOutQuad');
+			parli.siblings('li').find('span').removeClass('beshow');			
+		});
+		parli.find('span:first').toggleClass('beshow');
+		parli.siblings('li').removeClass('actbeshow');
+		parli.addClass('actbeshow');
+		//return false;
+	});
+	
+	$('.openSBM').on('click', function(){
+		$(this).toggleClass('hideSBM');
+		$('.menurshow').toggleClass('leftrOne');
+		$('.sbshow').toggleClass('sbshowPad');
+	});
+});
+</script>
+
+
+
+
+<div class="clear"></div>
+
+
+					<div class="pageimgtitle">
+				<div class="pageimgtitleps">
+					<div class="mimghot">
+						<h1>Геомагнитизм</h1>
+					</div>
+					<div class="pageimgtitlepd"></div>					<div class="clear"></div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		 <div class="clear"></div></header>
+		<div class="sbshow">
+		<article class="mainWr">
+		<div class="mainWrpdo">
+			<aside class="msublist"><div id=""><div style="display:inline-block; width:100%;">
+	<div class="sbmenuout">			<div class=""><div class="sbmenuin"><ul>				
+	<li >
+		<a href="index.php@pid=125" >
+		Соронзон орны ерөнхий ойлголт</a><span></span></li>
+									
+	<li class="selctpgeit">
+		<a href="index.php@pid=84" >
+		Судалгааны чиглэл</a><span></span></li>
+									
+	<li >
+		<a href="index.php@pid=127" >
+		Монголын нутаг дэвсгэрт хийсэн соронзон хэмжилт</a><span></span></li>
+									
+	<li >
+		<a href="index.php@pid=128" >
+		Багаж төхөөрөмж</a><span></span></li>
+					</ul></div></div><div class="sbmnusb"><ul class="ul1">	<li class="animated wow zoomIn" data-wow-delay=".3s"><div class="reclipd1">		<div class="resimgh"><img src="../images/eq1.png"></div>		<div class="resconh"><a href="index.php@pid=84&amp;nid=160" class="bld4 clr2">
+												<span class="txtup">Газар хөдлөл</span><br />		Монголын болон дэлхийн газар хөдлөл</a></div>	</div></li>	<li class="animated wow zoomIn" data-wow-delay=".5s"><div class="reclipd1">		<div class="resimgh"><img src="../images/od1.png"></div>		
+													<div class="resconh"><a href="index.php@pid=97" class="bld4 clr2"><span class="txtup">Астропарк</span><br />		Сансар од эрхэсийн ордон		</a></div>	</div></li>	<li class="animated wow zoomIn" data-wow-delay=".7s"><div class="reclipd1">		<div class="resimgh"><img src="../images/ht1.png"></div>		
+													<div class="resconh"><a href="index.php@pid=92" class="bld4 clr2"><span class="txtup">Хүрэл тогоот</span><br />		Одон орон сансрын музей</a></div>	</div></li></ul></div>
+													<div class="socialilink1 animated wow zoomIn" data-wow-delay=".9">
+														<ul class="ul1">	
+														<li class="ficon"><div class="bordershow1"></div><a href="https://www.facebook.com/Монгол-орны-хүчтэй-газар-хөдлөлт-108983674054302/" target="_blank"></a></li>	
+														<li class="ticon"><div class="bordershow1"></div><a href="index.php@pid=84&amp;nid=160" target="_blank"></a></li>		
+														<li class="yicon"><div class="bordershow1"></div><a href="index.php@pid=84&amp;nid=160" target="_blank"></a></li>		
+														<li class="ricon"><div class="bordershow1"></div><a href="index.php@pid=84&amp;nid=160" target="_blank"></a></li>	</ul></div></div></div><span style="opacity:0;">.</span></div></aside>			<aside class="shomchanges">
+<div class="normalpgepad">
+<div class="normalpgepadins">
+	
+	
+<div class="contentmores">				
+		<h1 class="txt3 lepd1 bld4 clr2 tleft">Судалгаа</h1>		<div class="imageWidth"></div>
+		<div class="inftext"><p style="text-align: justify;">Соронзон судлалын сектор нь Дэлхийн соронзон орон ба геомандлын физик сэдвийн хүрээнд судалгаа хийж байна. Бид сэдвийн хүрээнд тогтмол соронзон орон, хувьсах соронзон орон, цэнэгт мандал ба соронзон мандлын физик, дэлхийн гүний цахилгаан соронзон тандалт гэсэн үндсэн чиглэлүүдээр судалгаа хийж байна. Дэлхийн соронзон орны мэдээлэл гарган авахын тулд дөрвөн соронзон оргил болон гурван соронзон станц байгуулан, мэдээллийг бүртгэн авч, боловсруулалт хийх ба ОХУ-д үйлдвэрлэсэн 1/1000 нТл нарийвчлалтай ММПОС-1 магнитометр ашиглан талбайн хэмжилт хийдэг.</p>
+<p style="text-align: justify;"> </p>
+<h2 style="text-align: justify;">Соронзон оргил байгуулах ба Ховд соронзон оргил</h2>
+<p style="text-align: justify;">Соронзон орны хэмжилт нь бусад техникийн болон судалгааны зориулалттай хийгддэг хэмжилтээс ялгаатай нь хэмжилт хийж байгаа байр, соронзон оргилын талбай өөрөө хэмжилтийн багаж төхөөрөмжийн бараг нэг хэсэг нь болдгоороо онцлог байдаг. Соронзон оргил байгуулах газар сонгохдоо тухайн районы соронзон байр байдлыг харгалзан үзэх шаардлагатай байдаг. Соронзон оргилыг том үйлдвэрийн газар, цахилгаанжсан төмөр зам, орон сууцны ойролцоо байгуулж болохгүй. Эдгээрт ойрхон байх нь соронзон оргилын багаж төхөөрөмж байгалийн соронзон орны өөрчлөлтийн зэрэгцээ эдгээр барилга байшин замын нөлөөгөөр үүссэн зохиомол соронзон орны үйлчлэлийг хамт бүртгэхэд хүрнэ. Соронзон оргилын багаж байрлах ба хэмжилтийн байранд соронз бүхий барилгын материал (шатаасан улаан тоосго, төмөр бетонон хийцүүд) ашиглаж болохгүй ба хэмжилт хийх ба багаж байрлуулах  тавцанг соронз бүхий материалаар хийхийг хориглодог. Ийм учраас тохиромж муутай газар, байр барих заавар зөрчигдвөл ямар ч өндөр нарийвчлалтай магнитометрээр хэмжилт хийгээд ашиггүй болно.  Юуны өмнө соронзон оргил олон жилийн туршид ажиллахаар төлөвлөгдөх ёстой. Үүний тулд газар сонгохдоо аль болохоор мөддөө суурьшлын бүс болохгүй, төмөр замаас хол, үйлдвэрийн бүс болохгүй тийм газрыг сонгохыг тэмүүлэх хэрэгтэй. Ялангуяа соронзон хэмжилтэд цахилгаанжсан төмөр зам, трамвайн шугам ихээхэн муу нөлөө үзүүлдэг учраас хөрснийхөө цахилгаан дамжууллаас хамааран 10 км-ээс доошгүй зайнд байх шаардлагатай байдаг.</p>
+<p style="text-align: justify;">Ховд соронзон оргил анх байгуулагдахдаа соронзон орны өөрчлөлтийг аналог хэлбэрээр бичдэг байсан бөгөөд газар хөдлөлтийг бүртгэх станцын дэргэд шавар блокоор барьсан жижиг байшинд байрлаж модон багана дээр соронзон мэдрэгч нь бай рладаг, абсолют хэмжилтийг мөн модон багана дээр хийдэг байсан.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><img style="display: block; margin-left: auto; margin-right: auto;" src="../file/soneg.jpg" width="700" height="172" /></p>
+<p style="text-align: center;"><em>Зураг 1: Ховд соронзон оргилын эхний хувилбар</em></p>
+<p style="text-align: center;"><em><!-- pagebreak --></em></p>
+<p style="text-align: justify;">Баталгаатай соронзгүй павильоны барилгыг зөвхөн модоор л барьж болох нь хэн хүнд ойлгомжтой. Доод талын усны хамгаалалтыг нь сайн хийж үжрэхээс сайн хамгаалж чадвал модон байшин 100 гаруй жил болдог гэж үздэг. Нөгөө талаас модон байшин барихад үнэтэй зэс болон гуулин бэхэлгээ хэрэггүйн зэрэгцээ модон хадаас хийн хэрэглэж болдог сайн талтай. Бусад материалаар баривал орж байгаа материалын соронзон чанарыг сайн шалгах шаардлагатай. Ховд аймагт байгуулсан соронзон оргилын барилга шинэчлэн  барьсан байдлыг жишээ болгон үзүүлэв. Дэд бүтэц, болон үйлчлэх боловсон хүчний шаардлагаас хамааран соронзон орны өөрчлөлтийн хувьд шаардлага тэр болгон  сайн хангаагүй ч боломжийн газрыг сонгон авсан болно.</p>
+<p style="text-align: justify;"> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="../file/so5.jpg" alt="" width="588" height="354" /></p>
+<p style="text-align: center;"><em>Зураг 2 Соронзон павильоны ерөнхий төлөвлөгөө</em></p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">Ховдын соронзон вариацийн станцын павильоны барилгыг газар дор ухаж суурилуулсан (Зураг 3). Энэ нь манайх шиг эрс тэс уур амьсгалтай газар температурын горимыг жигд хангахад чухал ач холбогдолтой.  Дунд нь багажны суурь цутгасан байгаа нь харагдаж байна. Битүүмжлэхээсээ өмнө энэ тавцан дээр газарзүйн хойт  зүгийн чигийг тэмдэглэж авах хэрэгтэй. Багажны суурийг шалтай нийлүүлж болохгүй бөгөөд хооронд нь 3-5 см зай үлдээж элсээр дүүргэж өгнө. Ингэснээр зохиомол “газар хөдлөлт” бичихийг хязгаарлаж өгөх сайн талтай.  </p>
+<p><img src="../file/so6.jpg" alt="" width="396" height="257" /><img style="float: right;" src="../file/so7.jpg" alt="" width="327" height="256" /></p>
+<p style="text-align: justify;">        </p>
+<p style="text-align: center;"><em>Зураг 3  Павильоныг газар ухаж суурилуулсан ба цавуутай модон хадаасаар бүх бэхэлгээг хийсэн</em></p>
+<p style="text-align: justify;"> </p>
+<p>          <img style="float: right;" src="../file/so9.jpg" alt="" width="317" height="258" /><img style="float: left;" src="../file/so8.jpg" alt="" width="412" height="224" />                                                                                                                                                                                                    </p>
+<p style="text-align: justify;">                                                                                                                                                                                                                 </p>
+<p style="text-align: center;"><em>Зураг 4 гадна талыг битүү хар тосоор тосолж булахад бэлтгэсэн ба абсолют хэмжилт хийн багана цутгав</em></p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">Гадна талыг нь хар тосоор битүү тосолж уснаас болж үжрэх боломжийг хааж өгнө. Мөн пенопласт хавчуулж дулаалга хийнэ. Дээврийг мөн битүү хар цаасаар бүрхэж, дээрээс нь шороогоор хучих учраас бат бэхийг сайн тооцох шаардлагатай байсан. Вариацийн павильон цонхгүй байх ба багажийн температурыг тогтмол байлгах үүднээс павильоны дотор талд багажийн суурийг тойруулан дулаан тусгаарлагч кабин буюу давхар хана - жижиг өрөө  хийж өгөх нь зүйтэй байдаг.</p>
+<p style="text-align: justify;">   Манай улсад соронзон вариац бүртгэх үйл ажиллагаа 1966 оноос эхэлсэн тухай ба хэрэглэгдэж байсан багаж төхөөрөмжийн талаар өмнө тодорхой өгүүлсэн тул энд зөвхөн одоо Улаанбаатар, Ховд соронзон оргилуудад хэрэглэгдэж байгаа соронзон орны мэдрэгч багажны талаар товч өгүүлэх болно. Фото цаасан дээр мэдээллээ гаргадаг вариаметрүүдийн гол зарчим нь соронзон орны өөрчлөлтийн улмаас түүнд  шууд пропорционалаар мэдрэгч элемент тодорхой өнцгөөр  эргэхэд тулгуурласан байдаг. Ийм өнцгийн өөрчлөлтийг цахилгаан хөдөлгөгч хүч буюу потенциал болгон шилжүүлэх явц нэлээн төвөгтэй ажиллагаанд ордог бөгөөд үүн дээр соронз бүхий материал хэрэглэхгүй байх шаардлага давхар хүндрэлийг учруулдаг. Энэ асуудлыг Польш улсын ШУА-ийн Геофизикийн хүрээлэнгийн ажилтан Я. Марианук 1977 онд шийдэж ОХУ-ын ШУА-ийн ИЗМИРАН хүрээлэнгийн ажилтан Бобровын зохион бүтээсэн вариометрүүдийг ашиглан тоон үзүүлэлттэй соронзон вариацийн станцыг хийж эхэлсэн байдаг. Энэ багажаа өндөр мэдрэмжтэй фотоцахилгаан магнитометр (ФЦМ )гэж нэрлэсэн. Улаанбаатар, Ховдын соронзон оргилуудад энэ багаж ажиллаж байгаа бөгөөд Зураг 5-д зарчмын схемийг үзүүлэв.  </p>
+<p> <img style="display: block; margin-left: auto; margin-right: auto;" src="../file/so10.jpg" alt="" width="624" height="263" /></p>
+<p style="text-align: center;"><em>Зураг  5 Фотоцахилгаан магнитометр (ФЦМ)ын зарчмын схем</em></p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">Эхний тохиолдолд мэдрэгч элемент эргээгүй байхад фото хувиргагчийн хоёр мөрөнд гүйдлийн хүч тэнцвэрт байдалд байж өсгөгч-д дохио тэг байна. Соронзон орныг өөрчлөлтийг бүртгэх явц эхэлмэгц мэдрэгч тодорхой өнцгөөр эргэхэд фото хувиргагчийн гүйдлийн тэнцвэрт байдал алдагдаж өнцгийн хэмжээнд улмаар соронзон орны өөрчлөлтөд пропорциональ цахилгаан хөдөлгөгч хүч-дохио үүсэж өсгөгч ба шүүлтүүрүүдээр дамжин аналог ба тоон бүргэгч рүү гарна. Сөрөг гэдрэг холбооны үйлчлэлээр тэнцвэржүүлэгч ороомогт үүссэн соронзон орон мэдрэгчийг анхны байдалд нь эргүүлэн барих болно. Гэрлийн үүсгэвэр мэдрэгч дээр байрлах толинд гэрэл тусгах ба ойсон гэрэл нь фото хувиргагч-д очно. Мэдрэх чадварын ороомогт тодорхой хэмжээний  соронзон орон үүсгэх гүйдэл өгч эргэлтийн өнцөг соронзон орон хоёрын харьцааг тогтоож олно.</p>
+<p style="text-align: justify;">  Соронзон мандлын плазмын орчинд болон дэлхийн гүнд болж байгаа физик процессын утга учрыг олж тогтооход сансрын хиймэл дагуулууд дээр хийдэг хэмжилтийн зэрэгцээ дэлхийн гадарга дээр байрласан соронзон вариацийн станцуудын мэдээлэл ихээхэн ач холбогдолтой болох нь дээр өгүүлснээс тодорхой.</p>
+<p style="text-align: justify;">НҮБ-аас Олон улсын геофизикийн жилийг анх зохион байгуулсны 50 жилийн ойг тохиолдуулан 2007-2010 онуудад Олон улсын Гелиофизикийн жилийг зарлан явуулсан бөгөөд 2011-2012 онуудад Олон улсын Сансрын цаг уурыг судлах санаачилга нэрийн дор үргэлжлүүлсэн.</p>
+<p><img src="../file/so11.jpg" alt="" width="370" height="307" /><img style="float: right;" src="../file/so12.jpg" alt="" width="386" height="307" /></p>
+<p style="text-align: center;"><em>Зураг 6 Тусгайлан бэлдсэн дулаалга бүхий нүхэнд мэдрэгчийг бетонон суур дээр байрлуулна.</em></p>
+<p style="text-align: center;"><em>Мэдрэгчээс 7 м орчим зайнд урьдчилан өсгөгчийг мөн дулаалгатай нүхэнд байрлуулна</em></p>
+<p style="text-align: justify;">Энэхүү дэлхий нийтийг хамарсан судалгааны хүрээнд соронзон орны огцом өөрчлөлтийн үе дэх хүрээлэн буй орчинд болдог плазмын процесс, цахилгаан соронзон үзэгдэл, тэдгээрийн үүсгэх гүйдлийн системийн үндсийг ойлгох, дэлхий даяар загварчлах боломжийг олгоход чиглэсэн соронзон вариацийн станцуудыг байгуулах  MAGDAS төслийн хүрээнд Ховд аймагт шинээр станц байгуулах ажлыг Япон улсын Кьюшү-гийн Их сургуулийн профессор К.Юмато-гийн удирдлага дор хийж гүйцэтгэв.</p>
+<p><img src="../file/so13.jpg" alt="" width="374" height="298" /><img style="float: right;" src="../file/so14.jpg" alt="" width="383" height="309" /></p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: center;"><em>Зураг 7 Урьдчилан өсгөгчийг бүртгэгч төхөөрөмжтэй 70 орчим м кабелиар холбоно</em></p>
+<p><img src="../file/so15.jpg" alt="" width="376" height="266" /><img style="float: right;" src="../file/so16.jpg" alt="" width="382" height="256" /></p>
+<p style="text-align: center;"><em>Зураг 8  Нарийн цагийг GPS-ээр тохируулах ба Ховд (HVD) соронзон оргилын байрлал</em></p>
+<p style="text-align: justify;"> <!-- pagebreak --></p>
+<h2 style="text-align: left;">Улаанбаатар соронзон оргил</h2>
+<p style="text-align: justify;">1965 оны 11 сард  ШУА-ийн одон орон судлах оргилын дэргэд Хүрэлтогоотод  Академич Г.Аюушжавын санаачилгаар байгуулагдсан. Нийслэлээс зүүн урагш 20 км-д ойролцоогоор 1600 м өндөрт оршино. Газар зүйн байрлал нь хойт өргөргийн  φ=49<sup>0</sup>51.9 , зүүн уртрагийн λ=107<sup>0</sup> 03.0 бөгөөд геосоронзон солбицлын тогтолцоогоор өргөрөг нь   Φ= 38.1<sup>0</sup>, уртраг нь   Λ=179.9<sup>0</sup> байдаг. Товчилсон нэр нь  ULN., одоо вариацын соронзон орныг бүртгэх соронзон станц байнгын ажиллагаатай мэдээлэл бүртгэж байгаа ба QHM багажаар үнэмлэхүй хэмжилт хийж байна.</p>
+<p style="text-align: justify;"> </p>
+<h2 style="text-align: left;">Тавантолгой соронзон оргил</h2>
+<p>Бид 2013 оноос орчин үеийн багаж төхөөрөмж бүхий соронзон оргилыг Улаанбаатар хотын баруун талд 40 гаруй км зайд  Таван толгойд байгуулсан. Энэ цэгийн газар зүйн байрлал нь хойт өргөрөгийн  φ= 47<sup>0</sup>53.1357, зүүн уртрагийн λ= 106<sup>0</sup>20.4941. <img style="float: right;" src="../file/so17.jpg" alt="" width="425" height="319" />  Геосоронзон солбицлын системд геосоронзон өргөрөг 38.12N ба уртраг нь 179.30Е.   Товчилсон нэр нь  МТТ, соронзон орны цаг хугацааны өөрчлөлт-вариацийг  Украйн улсын Львовын сансар судлалын хүрээлэнд тусгайлан соронзон оргилуудад зориулан хийсэн LEMI-25 багажаар бүртгэж байна.<br />Шинээр соронзон станц байгуулахдаа бид Сонгон авч байгаа талбай нь соронзон орны хувьд жигд огцом өөрчлөлтгүй байх шаардлагатай учир 100х100 м талбайд соронзон зураглал үйлдсэн болно. Станц байрлуулах газартаа урьдчилан нэг хоног  LEMI-25 багажийг ажиллуулж мэдээлэл гарган авч уул мэдээллээрээ спектрийн график босгосныг Зураг 1 дээр үзүүлэв. Эндээс харахад давтамжийн өргөн хүрээнд маш сул дохиог хүртэл хүлээн авах боломжтой болох нь харагдаж байна.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">                                                                                                                                                                                                                                                   </p>
+<p style="text-align: center;">                                                                            Зураг 9: Леми-25 станцын спектр  </p>
+<p style="text-align: justify;"> </p>
+<h2 style="text-align: left;"><!-- pagebreak --><br />Соронзон станцууд</h2>
+<p style="text-align: justify;">Орчин үеийн багаж төхөөрөмж суурилуулж дэлхийн соронзон орны цаг хугацааны өөрчлөлтийг бүртгэх болсноор бидний судалгаа олон улсын төвшинд ойртож шинэ чиглэлийн судалгааг өөрийн оронд хийх боломж бүрдэж байна. Эдгээр шинэ чиглэлийн нэг нь соронзон орны лугшилт гэж нэрлэгддэг хүрээлэн буй плазмын  орчны физик процесстой холбоотой дэлхийн соронзон мандал, цэнэгт мандалд ажиглагддаг  бүлэг үзэгдлийн судалгааг нэрлэж болно. Геосоронзон лугшилт гэдгийн дор герцийн мянганы хувиас эхлэн хэдэн арван герц хүрдэг давтамжийн мужид ажиглагддаг дэлхийн соронзон орны богино үет ба бараг үет хэлбэлзэл буюу өөрчлөлтийг хэлдэг.  Физик учир шалтгаан нь дэлхийн соронзон мандал ба нарны салхины орчинд үүсдэг гидросоронзон долгион юм. Лугшилтын давтамжийн дээд хязгаар нь соронзон мандал ба дэлхийн гадаргуу дээр ажиглагддаг протоны гиродавтамжаар тодорхойлогдох бөгөөд 3-5 герцийн мужид ажиглагдана. Лугшилт нь маш олон янз байдаг боловч  хоёр бүлэгт хуваан үздэг. Үүнд иррегуляр (зөв биш) ба  регуляр (зөв) гэж ангилах ба иррегуляр гэдэгт нь  хэд хэдэн  минут гаран  үргэлжилдэг, бие биесээ ангид тасралттай, огцом өөрчлөлттэй, тогтвортой (стационар) бус спектр бүхий  импульсийн лугшилт (Pi)-ийг хэлдэг бол регуляр хэсэгт нь тасралтгүй, заримдаа цаг гаруй ч хугацаанд үргэлжилдэг, тогтвортой бараг синус хэлбэрийн лугшилт (Рс)-ийг оруулдаг.</p>
+<p style="text-align: justify;">    Импульсийн лугшилт  (Pi) ихэнхдээ шөнийн цагт ажиглагддаг бол тасралтгүй лугшилт (Рс) өдрийн цагт ажиглагдана. Бараг бүх (Pi) лугшилт соронзон орны буснил ба соронзон мандлын эгэл шуурганы (суббурийн) өрнөлийн элемент болж соронзон мандлын тодорхой хэсэгт энэ төрлийн хэлбэлзэл үүсдэг.</p>
+<p style="text-align: justify;">   Тогтвортой төрлийн лугшилт нь соронзон мандлын тогтцын томоохон өөрчлөлтийн улмаас үүсэх бөгөөд соронзон орны Рс2-Рс5 төрлийн лугшилт нь геосоронзон орны хүчний шугамын резонансын хэлбэлзэлтэй холбогддог болохоороо   ажиглаж байгаа цэгийн өргөргийн утгаас хамаардаг. Соронзон орны лугшилтыг давтамжаар нь доорх байдлаар ангилдаг [Jacobs et al., 1964  ]</p>
+<p>Рс1 (Т=0.2-5.0 с),                                  Pi1(Т=1-40 с),</p>
+<p>       Рс2 (Т=5-10 с),                                      Pi2 (Т=40-150 с),</p>
+<p>       Рс3 (Т=10-45 с),                                    Pi3 (Т&gt;150 с).</p>
+<p>       Рс4 (Т= 45-150 с),</p>
+<p>       Рс5 (Т=150-600 с),</p>
+<p>       Рс6 (Т&gt;600 с),                           энд Т-ажиглагдах үе, с- секунд</p>
+<p style="text-align: justify;">  Энэхүү ангилал нь лугшилтын физик ба тохиолдох шинж чанараар нь хийгдсэн бөгөөд төрөл болгон ажиглагдах үеэрээ бус үүсэх физик процессоороо ялгардаг. Энэ ангиллаар тодорхойлогдсон ажиглагдах үенүүдийн хязгаар нь нилээн зохиомол болохыг тэмдэглэх нь зүйтэй бөгөөд заримдаа ихээхэн ялгаатай  байдаг тохиолдолд ч учирдаг.  Pc1-2, Pi1 лугшилтуудын далайц нь нТл  –ийн аравны ба зууны хувьтай тэнцэх бол урт үетэй лугшилтын далайц нь хэдэн зуун нТл хүрэх тохиолдол ч байдаг. нТл- Соронзон орны хүчлэгийг  хэмждэг нэгж. Z байгуулагчийн утга манай ULN станцын хувьд 54000 нТл байдаг.  Ийм учраас эндээс лугшилтыг бүртгэх багаж төхөөрөмж  ямар шаардлага хангасан байх  нь тодорхой.</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="../file/so18.jpg" alt="" width="522" height="302" /></p>
+<p style="text-align: center;"><em>Зураг 10 Соронзон орны лугшилтын  далайц үе ба давтамжаас хамаарах нь</em></p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">Энэ чиглэлийн судалгаа хийх, газар хөдлөлтийн урьдал байж болох физик параметрүүдийг эрж хайх, олж тогтоох зорилгоор Улаанбаатар хот орчимд хоорондоо 50 км зайтай орших гурвалжин үүсгэх 3 цэгт соронзон орны богино үет хувьслыг бүртгэх станцууд байгуулав.</p>
+<p><img src="../file/so19.jpg" alt="" width="418" height="232" /><img style="float: right;" src="../file/so20.jpg" alt="" width="413" height="235" /></p>
+<p style="text-align: center;">                               Зураг 11  5 байгуулагчийн Леми-418 ба Леми-30 станцуудын дүрс ба схем</p>
+<p style="text-align: justify;"> Эдгээр станцуудын байрлал-гурвалжин  ба нэг станцын гадна байдлыг   Зураг 25 дээр үзүүлэв. Гурвалжины 3 цэгийн координатууд:   МТТ-MAG нь  Улаанбаатар хотоос  50 км баруун зүгт радиорелейн станцын орчимд орших ба  газар зүйн солбицол нь  φ=47.885315, λ= 106.338584;  MGUU-MAG нь Хустайн нурууны байгалийн цогцолбороос баруун урд орших бөгөөд газар зүйн солбицол нь    φ=47.778267, λ= 105.669810;  КHMA-MAG нь Төв аймгийн Алтанбулаг сумаас урагш орших ба газар зүйн солбицол нь  φ=47.455411, λ= 106.101475;              </p>
+<p style="text-align: center;"><img style="float: left;" src="../file/so21.jpg" alt="" width="426" height="333" /> <img style="float: right;" src="../file/so22.jpg" alt="" width="412" height="332" />  <br />Зураг 12 <strong>3</strong>- станцын байрлал ба Төв аймгийн Алтанбулаг сумын  Хүрэн морьтын аманд байрлах станц</p>
+<p style="text-align: justify;"> </p></div>
+		<div class="clear"></div>		
+		
+					<div class="clear"></div>
+			<div class="html-code grid-of-images">
+			<div class="popup-gallery">
+				            </div>
+            </div>
+		<div class="clear"></div>
+		<div class="bottomback">
+			<a href="index.php@pid=84">..бусад</a>		
+		</div>
+		<div class="clear"></div>
+				<div class="clear"></div>
+</div>
+<script>
+$(document).ready(function(){
+	var imgwidth = $('.imageWidth').width();
+	if(imgwidth > 700) { $('.imageWidth img').css({'width':'100%'}); }
+	else if(imgwidth < 700) { $('.imageWidth img').css({'width':'50%', 'float':'left'}); }
+});
+</script>
+<div class="clear"></div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$('.popup-gallery').magnificPopup({
+		delegate: 'a',
+		type: 'image',
+		tLoading: 'Loading image #%curr%...',
+		mainClass: 'mfp-img-mobile',
+		gallery: {
+		enabled: true,
+		navigateByImgClick: true,
+		preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+		},
+		image: {
+		tError: '<a href="https://iag.mn/mn/%url%">The image #%curr%</a> could not be loaded.',
+		titleSrc: function(item) {
+		  return item.el.attr('title') + '<small></small>';
+		}
+		}
+	});
+});
+</script>
+</div>
+<div class="clear"></div>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+	$('.popup-gallery').magnificPopup({
+		delegate: 'a',
+		type: 'image',
+		tLoading: 'Loading image #%curr%...',
+		mainClass: 'mfp-img-mobile',
+		gallery: {
+		enabled: true,
+		navigateByImgClick: true,
+		preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+		},
+		image: {
+		tError: '<a href="https://iag.mn/mn/%url%">The image #%curr%</a> could not be loaded.',
+		titleSrc: function(item) {
+		  return item.el.attr('title') + '<small></small>';
+		}
+		}
+	});
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</aside>
+			<aside class="rlist"><link type="text/css" href="../css/scrolls.css" rel="stylesheet" media="screen" />
+<div class="rlista">
+	<div class="answerfeild"><h2><a href="index.php@pid=143" class="txt16 txtup bld7 clr2">Та газар хөдлөлт<br/> мэдэрсэн үү <span>?</span></a></h2></div>
+	<div class="earthqb"><a href="http://ds.iris.edu/seismon/bigmap/index.phtml" target="_blank" class="txt17 txtup bld7"><span>Дэлхийн <br>газар хөдлөл</span></a><img src="../images/eworld.jpg"></div>
+	<div class="earthqb"><a href="http://www.iag.mn/event/index.php?loc=mgl" target="_blank" class="txt17 txtup bld7"><span>Монголын <br>газар хөдлөл</span></a><img src="../images/emongolia.jpg"></div>
+	<div class="earthqb"><a href="http://www.iag.mn/event/index.php?loc=ub" target="_blank" class="txt17 txtup bld7"><span>Улаанбаатарын <br>газар хөдлөл</span></a><img src="../images/eub.jpg"></div>
+</div>
+<div class="clear"></div>
+<div class="linkwebout">
+<div class="linkwebin">
+	<h2>Вэб холбоос</h2>
+	<ul  id="content_1" class="content">
+		<li><a href="https://link.springer.com" target="_blank">Springer</a></li><li><a href="http://orfeus-eu.org" target="_blank">Европын сейсмологийн холбоо</a></li><li><a href="http://asc1996.com" target="_blank">Азийн сейсмологийн комисс</a></li><li><a href="http://crust.irk.ru" target="_blank">ОХУ-ын ШУА-ийн Сибирийн салбарын Дэлхийн царцдасын хүрээлэн</a></li><li><a href="http://iszf.irk.ru" target="_blank">ОХУ-ын ШУА-ийн Сибирийн салбарын Нар-дэлхийн физикийн хүрээлэн</a></li><li><a href="http://iisee.kenken.go.jp" target="_blank">Японы сейстологийн ба газар хөдлөлийн инженерийн олон улсын институт</a></li><li><a href="http://eost.u-strasbg.fr" target="_blank">Страсбургийн Луйс-Пастрын их сургууль</a></li><li><a href="http://ctbto.org" target="_blank">Олон улсын цөмийн тэсэлгээний хяналтын хороо</a></li><li><a href="http://usgs.gov" target="_blank">Америкийн геологийн алба</a></li><li><a href="http://iaspei.org" target="_blank">Олон улсын сейсмологийн ба дэлхийн физикийн холбоо</a></li>			
+	</ul>
+	<div class="clear"></div>
+</div>
+</div>
+<style> .content{width:100%; height:240px; overflow:auto;} </style>
+<script type="text/javascript" src="../js/scrolls.js"></script>
+<script type="text/javascript">
+		(function($){
+			$(window).load(function(){
+				$("#content_1").mCustomScrollbar({
+					scrollButtons:{
+						enable:false
+					}
+				});
+			});
+		})(jQuery);
+</script></aside>
+		<div class="clear"></div>
+				<div class="clear"></div>
+		</div>
+		</article>
+		<div class="clear"></div>
+		<footer id="footer"><div class="footertop">
+<div class="footertopipd">
+
+</div>
+</div>
+<div class="clear"></div>
+<div class="footerbot">
+<div class="footerbotipd">
+	<div class="footermenum">
+	<ul>
+			<li>
+		<div class="linkwebdiv">
+			<h1>Хүрэл тогоот</h1>
+				<h2><a href="index.php@pid=92">Танилцуулга</a></h2><h2><a href="index.php@pid=93">Одот тэнгэрээр аялах нь</a></h2><h2><a href="index.php@pid=94">Дэг журам</a></h2><h2><a href="index.php@pid=95">Амрах байр</a></h2><h2><a href="index.php@pid=96">Зоог</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Астрометрийн судалгаа</h1>
+				<h2><a href="index.php@pid=42">Судалгааны чиглэл</a></h2><h2><a href="index.php@pid=43">Сансрын хог хаягдал</a></h2><h2><a href="index.php@pid=44">Бага гараг</a></h2><h2><a href="index.php@pid=45">Солирын тогоо</a></h2><h2><a href="index.php@pid=46">Сансрын гамма тэсрэлт</a></h2><h2><a href="index.php@pid=47">OWL дуран</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Астрофизик</h1>
+				<h2><a href="index.php@pid=48">Судалгааны чиглэл</a></h2><h2><a href="index.php@pid=49">Hα ажиглалт</a></h2><h2><a href="index.php@pid=50">Хэт ягаан цацраг</a></h2><h2><a href="index.php@pid=51">Спектрийн шугамууд</a></h2><h2><a href="index.php@pid=52">Сallisto</a></h2><h2><a href="index.php@pid=53">Багаж</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Газар хөдлөлт</h1>
+				<h2><a href="index.php@pid=54">Бидний тухай</a></h2><h2><a href="index.php@pid=57">Салбарын өнөөдрийн бүтэц, боловсон хүчин</a></h2><h2><a href="index.php@pid=137">Түүхэн замнал</a></h2><h2><a href="index.php@pid=138">Газар хөдлөлтийн ерөнхий ойлголт</a></h2><h2><a href="index.php@pid=139">Монголын газар хөдлөхүй</a></h2><h2><a href="index.php@pid=140">Газар хөдлөлт бүртгэх сүлжээ станц</a></h2><h2><a href="index.php@pid=141">Танин мэдэхүй</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Геомагнитизм</h1>
+				<h2><a href="index.php@pid=125">Соронзон орны ерөнхий ойлголт</a></h2><h2><a href="index.php@pid=84">Судалгааны чиглэл</a></h2><h2><a href="index.php@pid=127">Монголын нутаг дэвсгэрт хийсэн соронзон хэмжилт</a></h2><h2><a href="index.php@pid=128">Багаж төхөөрөмж</a></h2>			
+		</div>
+		</li>
+			</ul>
+	</div>
+	<div class="clear"></div>
+	<div class="dcrp"><h1>©2015. Одон орон, геофизикийн хүрээлэн</h1></div>
+</div>
+</div></footer>
+		</div>
+</body>
+</html>

@@ -1,0 +1,363 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name = "viewport" content = "user-scalable=yes, initial-scale=1.0, maximum-scale=4.0, width=device-width">
+    <title>Одон Орон Геофизикийн Хүрээлэн</title>
+	<link rel="shortcut icon" href="../images/titleLogo.jpg" />
+	<link type="text/css" href="../css/style.css" rel="stylesheet" />
+    <link type="text/css" href="../css/media.css" rel="stylesheet" />
+	<link type="text/css" href="../css/menu.css" rel="stylesheet" />
+    <link type="text/css" href="../css/content.css" rel="stylesheet" />
+    <link type="text/css" href="../css/animate-min.css" rel="stylesheet" />
+    <link type="text/css" href="../css/awesome.css" rel="stylesheet" />
+    <link type="text/css" href="../css/magpop.css" rel="stylesheet" />
+		
+	<script src="../js/jquery.js" type="text/javascript"></script>
+	<script src="../js/jquery.hoverIntent.minified.js" type="text/javascript"></script>
+	<script src="../js/easing.js" type="text/javascript"></script>
+	<script src="../js/wow.js" type="text/javascript"></script>
+	<script src="../js/script.js" type="text/javascript"></script>
+	<script src="../js/magpop.js" type="text/javascript"></script>
+</head>
+<body>	
+<div id="fb-root"></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77297191-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script>
+	// (function(d, s, id) {
+  // var js, fjs = d.getElementsByTagName(s)[0];
+  // if (d.getElementById(id)) {return;}
+  // js = d.createElement(s); js.id = id;
+  // js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  // fjs.parentNode.insertBefore(js, fjs);
+// }(document, 'script', 'facebook-jssdk'));
+</script>
+<script>
+wow = new WOW( {
+    boxClass:     'wow',
+    animateClass: 'animated',
+    offset:       100
+    }
+);
+wow.init();
+</script>
+				<header><div class="headeroutop">
+	<div class="lawpd">
+		<div class="logohead">
+			<a href="index.php"></a>
+			<img src="../images/logo3.jpg">
+			<h1 class="txt20 bld7">Хубилай Сэцэн Хааны нэрэмжит<br /><span class="txtup">Одон Орон, Геофизикийн Хүрээлэн</span></h1>
+		</div>
+		<div class="hrfeild">
+			<div class="rspdiv1">
+				<ul>
+					<li><a href="index.php@pid=102">Нэвтрэх</a></li>						<li><a href="https://www.shilendans.gov.mn/org/1129" target="_blank">
+								Шилэн данс</a></li>
+											<li><a href="index.php@pid=66">
+								Холбоо барих</a></li>
+										<li class="selclang"><a href="../en/index.php">EN</a></li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+			<div class="searchs">
+				<table cellspacing="0" cellpadding="0">
+					<tr>
+												<td class="sinpt">
+							<form id="search_form" method="get" action="https://iag.mn/mn/search.php" onsubmit="return submitSearch();">
+								<input name="s" placeholder="Хайлт" />
+							</form>
+						</td>
+						<td class="sbnts" onclick="return submitSearch();">
+							<a href="index.php@pid=68" class="sbottn"></a></td>
+						<script type="text/javascript">
+							function submitSearch() {
+								var form = document.getElementById('search_form');
+								form.submit();
+								return false;
+							}
+						</script>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<div class="clear"></div>
+<link href="../css/menu.css" rel="stylesheet" type="text/css" />
+<div class="menuoutpar">
+<div class="menuout">
+<div class="menupd">
+	<ul ><li ><a href="index.php@pid=30">Бидний тухай</a></li><li id="hassubm1"><a >Секторууд</a><ul class="sbcontrol2"><li ><a href="index.php@pid=42" >Астрометрийн судалгаа</a><ul class="sbcontrol3"><li ><a href="index.php@pid=42">Судалгааны чиглэл</a></li><li ><a href="index.php@pid=43">Сансрын хог хаягдал</a></li><li ><a href="index.php@pid=44">Бага гараг</a></li><li ><a href="index.php@pid=45">Солирын тогоо</a></li><li ><a href="index.php@pid=46">Сансрын гамма тэсрэлт</a></li><li ><a href="index.php@pid=47">OWL дуран</a></li></ul></li><li ><a href="index.php@pid=48" >Астрофизик</a><ul class="sbcontrol3"><li ><a href="index.php@pid=48">Судалгааны чиглэл</a></li><li ><a href="index.php@pid=49">Hα ажиглалт</a></li><li ><a href="index.php@pid=50">Хэт ягаан цацраг</a></li><li ><a href="index.php@pid=51">Спектрийн шугамууд</a></li><li ><a href="index.php@pid=52">Сallisto</a></li><li ><a href="index.php@pid=53">Багаж</a></li></ul></li><li ><a href="index.php@pid=54" >Газар хөдлөлт</a><ul class="sbcontrol3"><li ><a href="index.php@pid=54">Бидний тухай</a></li><li ><a href="index.php@pid=57">Салбарын өнөөдрийн бүтэц, боловсон хүчин</a></li><li ><a href="index.php@pid=137">Түүхэн замнал</a></li><li ><a href="index.php@pid=138">Газар хөдлөлтийн ерөнхий ойлголт</a></li><li ><a href="index.php@pid=139">Монголын газар хөдлөхүй</a></li><li ><a href="index.php@pid=140">Газар хөдлөлт бүртгэх сүлжээ станц</a></li><li ><a href="index.php@pid=141">Танин мэдэхүй</a></li></ul></li><li ><a href="index.php@pid=84" >Геомагнитизм</a><ul class="sbcontrol3"><li ><a href="index.php@pid=125">Соронзон орны ерөнхий ойлголт</a></li><li ><a href="index.php@pid=84">Судалгааны чиглэл</a></li><li ><a href="index.php@pid=127">Монголын нутаг дэвсгэрт хийсэн соронзон хэмжилт</a></li><li ><a href="index.php@pid=128">Багаж төхөөрөмж</a></li></ul></li><li ><a href="index.php@pid=40">Орон нутгийн газар хөдлөлтийг бүртгэх станц</a></li></ul></li><li id="hassubm1"><a >Хамтын ажиллагаа</a><ul class="sbcontrol2"><li ><a href="index.php@pid=61">Гадаад хамтын ажиллагаа</a></li><li ><a href="index.php@pid=62">Дотоод хамтын ажиллагаа</a></li></ul></li><li id="hassubm1"><a >Мэдээ мэдээлэл</a><ul class="sbcontrol2"><li ><a href="index.php@pid=33">Цаг үеийн мэдээ</a></li><li ><a href="index.php@pid=68">Одон орон</a></li><li ><a href="index.php@pid=70">Геофизикийн мэдээ</a></li><li ><a href="index.php@pid=69">Зарлал мэдээлэл</a></li></ul></li><li id="hassubm1"><a >Танин мэдэхүй</a><ul class="sbcontrol2"><li ><a href="index.php@pid=63">Газар Хөдлөлт</a></li><li ><a href="index.php@pid=86">Одон Орон</a></li><li ><a href="index.php@pid=87">Соронзон Орон</a></li><li ><a href="index.php@pid=88">Астропарк</a></li></ul></li><li ><a href="index.php@pid=34">Хэвлэл бүтээлүүд</a></li><li ><a href="index.php@pid=35">Геофизикийн тэнхим</a></li><li ><a href="index.php@pid=65">Хэргэжиж буй төслүүд</a></li><li ><a href="index.php@pid=145">Сэтгүүл</a></li></ul></div>
+</div>
+</div>
+
+<div class="menurout">
+<div class="wleadpd1">
+	<h1 class="openSBM"><span></span></h1><div class="selclangm"><a href="../en/index.php">EN</a></div>
+	<div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="menurshow">
+<div class="resmenu">
+	<ul class="hidemc"><li><span></span><a href="index.php@pid=30">Бидний тухай</a></li><li><span></span><a class="subpar">Секторууд</a><ul ><li><span></span><a class="subpar">Астрометрийн судалгаа</a><ul ><li><span></span><a href="index.php@pid=42">Судалгааны чиглэл</a></li><li><span></span><a href="index.php@pid=43">Сансрын хог хаягдал</a></li><li><span></span><a href="index.php@pid=44">Бага гараг</a></li><li><span></span><a href="index.php@pid=45">Солирын тогоо</a></li><li><span></span><a href="index.php@pid=46">Сансрын гамма тэсрэлт</a></li><li><span></span><a href="index.php@pid=47">OWL дуран</a></li></ul></li><li><span></span><a class="subpar">Астрофизик</a><ul ><li><span></span><a href="index.php@pid=48">Судалгааны чиглэл</a></li><li><span></span><a href="index.php@pid=49">Hα ажиглалт</a></li><li><span></span><a href="index.php@pid=50">Хэт ягаан цацраг</a></li><li><span></span><a href="index.php@pid=51">Спектрийн шугамууд</a></li><li><span></span><a href="index.php@pid=52">Сallisto</a></li><li><span></span><a href="index.php@pid=53">Багаж</a></li></ul></li><li><span></span><a class="subpar">Газар хөдлөлт</a><ul ><li><span></span><a href="index.php@pid=54">Бидний тухай</a></li><li><span></span><a href="index.php@pid=57">Салбарын өнөөдрийн бүтэц, боловсон хүчин</a></li><li><span></span><a href="index.php@pid=137">Түүхэн замнал</a></li><li><span></span><a href="index.php@pid=138">Газар хөдлөлтийн ерөнхий ойлголт</a></li><li><span></span><a href="index.php@pid=139">Монголын газар хөдлөхүй</a></li><li><span></span><a href="index.php@pid=140">Газар хөдлөлт бүртгэх сүлжээ станц</a></li><li><span></span><a href="index.php@pid=141">Танин мэдэхүй</a></li></ul></li><li><span></span><a class="subpar">Геомагнитизм</a><ul ><li><span></span><a href="index.php@pid=125">Соронзон орны ерөнхий ойлголт</a></li><li><span></span><a href="index.php@pid=84">Судалгааны чиглэл</a></li><li><span></span><a href="index.php@pid=127">Монголын нутаг дэвсгэрт хийсэн соронзон хэмжилт</a></li><li><span></span><a href="index.php@pid=128">Багаж төхөөрөмж</a></li></ul></li><li><span></span><a href="index.php@pid=40">Орон нутгийн газар хөдлөлтийг бүртгэх станц</a></li></ul></li><li><span></span><a class="subpar">Хамтын ажиллагаа</a><ul ><li><span></span><a href="index.php@pid=61">Гадаад хамтын ажиллагаа</a></li><li><span></span><a href="index.php@pid=62">Дотоод хамтын ажиллагаа</a></li></ul></li><li><span></span><a class="subpar">Мэдээ мэдээлэл</a><ul ><li><span></span><a href="index.php@pid=33">Цаг үеийн мэдээ</a></li><li><span></span><a href="index.php@pid=68">Одон орон</a></li><li><span></span><a href="index.php@pid=70">Геофизикийн мэдээ</a></li><li><span></span><a href="index.php@pid=69">Зарлал мэдээлэл</a></li></ul></li><li><span></span><a class="subpar">Танин мэдэхүй</a><ul ><li><span></span><a href="index.php@pid=63">Газар Хөдлөлт</a></li><li><span></span><a href="index.php@pid=86">Одон Орон</a></li><li><span></span><a href="index.php@pid=87">Соронзон Орон</a></li><li><span></span><a href="index.php@pid=88">Астропарк</a></li></ul></li><li><span></span><a href="index.php@pid=34">Хэвлэл бүтээлүүд</a></li><li><span></span><a href="index.php@pid=35">Геофизикийн тэнхим</a></li><li><span></span><a href="index.php@pid=65">Хэргэжиж буй төслүүд</a></li><li><span></span><a href="index.php@pid=145">Сэтгүүл</a></li></ul>	<ul class="addheadmenu">
+				<li><a href="https://www.shilendans.gov.mn/org/1129" target="_blank" >Шилэн данс</a></li>
+					<li><a href="index.php@pid=66" >Холбоо барих</a></li>
+			</ul>
+</div>
+</div>
+<script>
+$(document).ready(function() {   
+	$('.subpar').on('click', function(){
+	var parli = $(this).parent('li');
+		$(this).removeAttr('href');		
+		parli.find('ul:first').animate({'height':'toggle'}, '100', 'easeInQuad', function(){
+			parli.siblings('li').find('ul').slideUp(700, 'easeOutQuad');
+			parli.siblings('li').find('span').removeClass('beshow');			
+		});
+		parli.find('span:first').toggleClass('beshow');
+		parli.siblings('li').removeClass('actbeshow');
+		parli.addClass('actbeshow');
+		//return false;
+	});
+	
+	$('.openSBM').on('click', function(){
+		$(this).toggleClass('hideSBM');
+		$('.menurshow').toggleClass('leftrOne');
+		$('.sbshow').toggleClass('sbshowPad');
+	});
+});
+</script>
+
+
+
+
+<div class="clear"></div>
+
+
+					<div class="pageimgtitle">
+				<div class="pageimgtitleps">
+					<div class="mimghot">
+						<h1>Мэдээ мэдээлэл</h1>
+					</div>
+					<div class="pageimgtitlepd"></div>					<div class="clear"></div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		 <div class="clear"></div></header>
+		<div class="sbshow">
+		<article class="mainWr">
+		<div class="mainWrpdo">
+			<aside class="msublist"><div id=""><div style="display:inline-block; width:100%;">
+	<div class="sbmenuout"><div class=""><div class="sbmenuin"><ul>									<li ><a href="index.php@pid=33" >Цаг үеийн мэдээ</a><span></span></li>												<li class="selctpgeit"><a href="index.php@pid=68" >Одон орон</a><span></span></li>												<li ><a href="index.php@pid=70" >Геофизикийн мэдээ</a><span></span></li>												<li ><a href="index.php@pid=69" >Зарлал мэдээлэл</a><span></span></li>			</ul></div></div><div class="sbmnusb"><ul class="ul1">	<li class="animated wow zoomIn" data-wow-delay=".3s"><div class="reclipd1">		<div class="resimgh"><img src="../images/eq1.png"></div>		<div class="resconh"><a href="index.php@pid=68" class="bld4 clr2">
+												<span class="txtup">Газар хөдлөл</span><br />		Монголын болон дэлхийн газар хөдлөл</a></div>	</div></li>	<li class="animated wow zoomIn" data-wow-delay=".5s"><div class="reclipd1">		<div class="resimgh"><img src="../images/od1.png"></div>		
+													<div class="resconh"><a href="index.php@pid=97" class="bld4 clr2"><span class="txtup">Астропарк</span><br />		Сансар од эрхэсийн ордон		</a></div>	</div></li>	<li class="animated wow zoomIn" data-wow-delay=".7s"><div class="reclipd1">		<div class="resimgh"><img src="../images/ht1.png"></div>		
+													<div class="resconh"><a href="index.php@pid=92" class="bld4 clr2"><span class="txtup">Хүрэл тогоот</span><br />		Одон орон сансрын музей</a></div>	</div></li></ul></div>
+													<div class="socialilink1 animated wow zoomIn" data-wow-delay=".9">
+														<ul class="ul1">	
+														<li class="ficon"><div class="bordershow1"></div><a href="https://www.facebook.com/Монгол-орны-хүчтэй-газар-хөдлөлт-108983674054302/" target="_blank"></a></li>	
+														<li class="ticon"><div class="bordershow1"></div><a href="index.php@pid=68" target="_blank"></a></li>		
+														<li class="yicon"><div class="bordershow1"></div><a href="index.php@pid=68" target="_blank"></a></li>		
+														<li class="ricon"><div class="bordershow1"></div><a href="index.php@pid=68" target="_blank"></a></li>	</ul></div></div></div><span style="opacity:0;">.</span></div></aside>			<aside class="shomchanges">
+<div class="normalpgepad">
+<div class="normalpgepadins">
+	<div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">Дэлхийтэй ойрхон өнгөрөх бага гариг</h1><div class="cimage"><img alt="" src="https://iag.mn/data/main/main1642474497.jpg"></div><h1 class="txt7 bld4 tleft">2022-01-18 02:54:57</h1></article><div class=""><p style="text-align: justify;">Дэлхийтэй мөргөлдөж болзошгүй бага гаригуудаас хамгийн ойрын хугацаанд ойртох тэнгэрийн биет бол Аполлон бүлгийн Дэлхий орчмын 7482 (1994 PC1) бага гариг юм. АНУ-ын Чикаго хотын 527м урттай Уиллис-тауэр –аас ойролцоогоор 2 дахин том буюу 1052 км диаметртэй энэхүү бага гариг нь 2022 оны 1-р сарын 18-ны 21:51 UTC цагаар Дэлхийгээс 0.013 одон орны нэгж буюу ойролцоогоор 1.93 сая км зайд 19.56 км/с хурдтай ойртон өнгөрнө.</p>
+<p style="text-align: justify;"><a class="clr4 txt5 tleft" href="index.php@pid=68&amp;nid=389">дэлгэрэнгүй</a></div><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">2021 оны 12-р сарын 4-нд Нарны бүтэн хиртэл болно.</h1><div class="cimage"><img alt="" src="https://iag.mn/data/main/main1638259556.png"></div><h1 class="txt7 bld4 tleft">2021-11-30 03:27:40</h1></article><div class=""><p>Байгалийн сонирхолтой үзэгдлүүдийн нэг бол яах аргагүй Нарны хиртэлт юм. Энэхүү одон орны нэн сонирхолтой үзэгдэл нь Сарны хавтгай Нарыг халхалж конус хэлбэрийн сүүдэр Дэлхийн гадаргуутай огтлолцсоноос үүсдэг. Өөрөөр хэлбэл Нар, Сар, Дэлхий гурав дурьдсан дарааллаар нэг шугам дээр байрлахад энэхүү үзэгдэл тохионо. Манай оронд сүүлийн жилүүдэд Нарны бүтэн хиртэлт хэд хэдэн удаа ажиглагдсан.1997 оны 3-р сарын 9-нд нутгийн хойт хэсгээр, 2006 оны 3-р сарын 29-нд Хөвсгөл нуур орчимд, 2008 оны 8-р сарын 1-нд Баян-Өлгий, Ховд аймгийн баруун хэсгээр Нарны бүтэн хиртэлт болсон. Харин манай оронд ажиглагдах дараагийн Нарны бүтэн хиртэлт 2063 оны 8-р сарын 24-нд Өмнөговь аймгийн нутгаар дайрч өнгөрөх болно. Нарны гадна талын бүрхүүл хэд хэдэн давхаргаас тогтох бөгөөд хамгийн гадна талынхыг титэм(см. Зураг 1.) гэж нэрлэдэг. Өөрөөр хэлбэл, Нарны агаар мандлын хамгийн гадна талын давхарга нь титэм юм. Тиmэм зөвхөн Нарны бүтэн хиртэлтийн үед л тод хүний нүдэнд харагдана. Нарны титэм сул эрчимтэй цацраг гаргадаг учраас энгийн үед нарны гэрэлт мандлын гэрэлд дарагдан уг титэм харагддаггүй.</p>
+<p><img src="../file/Untitled_1.png@1638242746615" alt="" width="500" height="466" /><a class="clr4 txt5 tleft" href="index.php@pid=68&amp;nid=380">дэлгэрэнгүй</a></div><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">2021 оны 12-р сард ажиглагдах солирын урсгал</h1><div class="cimage"><img alt="" src="https://iag.mn/data/main/main1638259406.png"></div><h1 class="txt7 bld4 tleft">2021-11-30 03:10:56</h1></article><div class=""><p><img src="https://cdn.gosmart.mn/_iAvyw0Oj0y1Ofb3KcdLMg/58ef36e9-28ac-410f-ad08-5d864e248c19/DynamicOffice/solir(2).png?w=1200" width="800" height="524" /></p>
+<p><span style="font-style: inherit; font-weight: inherit;">Геминид солирын урсгал</span></p>
+<p><span style="font-style: inherit; font-weight: inherit;">ХIХ-р зууны төгсгөлд одон орон судлаачид Геминидийг нээсэн. Анх нээгдсэн</span></p>
+<p><span style="font-style: inherit; font-weight: inherit;">үеэсээ цагт унах солирын урсгалын тоо ихээхэн өсч одоогоор хамгийн хүчтэй</span></p>
+<p><span style="font-style: inherit; font-weight: inherit;">солирын урсгалын нэг болсон. Энэхүү солирын урсгал нь 12-р сарын 4-с 12-р сарын</span></p>
+<p><span style="font-style: inherit; font-weight: inherit;">17-ны хооронд ажиглагддаг. Энэ жилийн оргил үе нь 12-р сарын 13-ны шөнөөс 12-р</span></p>
+<p><span style="font-style: inherit; font-weight: inherit;">сарын 14-ний өглөө хүртэл. Урсгалын хурд нь 34 км/с. Цагт 150 хүртэлх солирыг</span></p>
+<p><span style="font-style: inherit; font-weight: inherit;"><a class="clr4 txt5 tleft" href="index.php@pid=68&amp;nid=379">дэлгэрэнгүй</a></div><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">XX зууны космологийн нээлтүүд</h1><div class="cimage"></div><h1 class="txt7 bld4 tleft">2020-06-11 11:34:09</h1></article><div class=""><p style="text-align: justify;">Орчлонгийн нэгдмэл чанар, бүтэц, хөгжил хувьслын ерөнхий зүй тогтол судалдаг, орчин үеийн хамгийн их эрчимтэй хөгжиж буй астрофизикийн салбар шинжлэх ухааны нэг бол орчлон судлал буюу космологи юм. <br />Орчлон судлалын орчин үеийн ажиглалтын болон онолын чухал нээлтүүдийг он дараалан </p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><a class="clr4 txt5 tleft" href="index.php@pid=68&amp;nid=344">дэлгэрэнгүй</a></div><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">2020 оны Одон Орны сонирхолтой үзэгдлүүд</h1><div class="cimage"><img alt="" src="https://iag.mn/data/main/main1591761173.jpg"></div><h1 class="txt7 bld4 tleft">2020-06-10 11:50:13</h1></article><div class=""><p><strong>1-р сар</strong><br />1-р сарын 4-5 Энэ оны хамгийн анхны Квадратид солирын урсгалыг ажиглаж болно. Квадратидын радиант нь Волопас одны ордод байрлана.<br />1-р сарын 10 Сарны бүтэн тэргэшил.<br />1-р сарын 10 Сарны хагас сүүдэрт хиртэл 19:09 UT хугацаанд болно. Сар мэлхий одны ордод байрлана. Харагдах муж: Европ, Ази, Африк, ОХУ, Монгол.</p>
+<p><a class="clr4 txt5 tleft" href="index.php@pid=68&amp;nid=343">дэлгэрэнгүй</a></div><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">Зөвлөлт-Монголын Сансрын хамтарсан нислэгийн 40 жил</h1><div class="cimage"><img alt="" src="https://iag.mn/data/main/main1591152387.jpg"></div><h1 class="txt7 bld4 tleft">2020-06-03 10:46:27</h1></article><h1> </h1>
+<p style="text-align: justify;">Сансрын хамтарсан нислэг<br />1966 онд ОХУ-ын Шинжлэх Ухааны Академийн дэргэд сансрын орон зайг энх тайвны зорилгоор судлан ашиглах салбарт олон улсын хамтын ажиллагааг зохицуулах зөвлөл байгуулж «Интеркосмос» гэж нэрлэжээ. Жилийн дараа 1967 онд тухайн үеийн социалист орнуудаас сансар судлалын үндэсний зохицуулагч байгууллагуудын төлөөлөгчид Москва хотноо хуран цугларч, энэ зөвлөлгөөнөөр сансрын орон зайг энх тайвны зорилгоор судлан ашиглах социалист орнуудын хамтын ажиллагааны урт хугацааны хөтөлбөрийг санал нэгтэй баталсан бөгөөд манай улсаас ШУА-ийн ерөнхийлөгч, академич Б.Ширэндэв оролцсон юм. Манай улс энэ хамтын ажиллагааны эрдэм шинжилгээний хөтөлбөрийг боловсруулалцахаас эхлэн түүний өргөн цар хүрээтэй хамтын туршилт сорилын ажилд амжилттай оролцож байв. Социалист орны «Интеркосмос» программын дагуу танин мэдэхүй, онол практикийн ач холбогдол бүхий тулгуур асуудлыг шийдвэрлэх дан ганц энх тайвны зориулалттай ашиглах зорилгоор шинжлэх ухааны тэргүүн эгнээний олон арван гайхамшигт амжилтанд хүрчээ. Үүний нэгэн тод жишээ социалист орны иргэдийн оролцоотой сансрын хамтарсан нислэгийг амжилттай хэрэгжүүлсэн явдал юм.</p>
+<p style="text-align: justify;">Анх Монгол хүн сансарт 1981-03-22 өдөр ниссэнээс хойш 39 жил өнгөрчээ, ирэх 2021 оны 03 сарын 22 өдөр 40 жилийн ой тохионо. Мөн та бүхэн <a href="http://www.sansar81.mn">www.sansar81.mn</a> цахим хуудсаар зочилж Зөвлөлт-Монголын хамтарсан сансрын нислэгийн талаар сонирхолтой баримттай танилцаарай. </p>
+<p> </p>
+<p style="text-align: center;"><img src="../file/medee/6-r&#32;sar&#32;sambar.jpg" alt="" width="800" height="480" /></p><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">2020 оны 6-р сард болох Астрономын онцлох үйл явдал</h1><div class="cimage"><img alt="" src="https://iag.mn/data/main/main1590820130.jpg"></div><h1 class="txt7 bld4 tleft">2020-05-26 10:45:26</h1></article><div class=""><p style="text-align: justify;"><strong>6-р сарын 4 - Буд гаригийн зүүн элонгац </strong><strong>(</strong><strong>хамгийн их зүүн холдоц </strong><strong>)</strong></p>
+<p style="text-align: justify;">Энэ өдөр Буд гаригийн хамгийн их зүүн холдоц нь Нарнаас 23.6 градус байна. Өөрөөр хэлбэл Дэлхийгээс харахад Буд гариг нь Нарнаас хамгийн их зайтай холдож үзэгдэх өнцгөн хэмжээ юм. Энэ үед тэнгэрийн хаяанаас хамгийн өндөр цэг дээр байрлах тул Буд гаригийг ажиглахад хамгийн тохирможтой байх болно. Нар жаргасны дараа тэнгэрийн баруун хаяанд ажиглагдаж эхэлнэ.</p>
+<p style="text-align: justify;"><a class="clr4 txt5 tleft" href="index.php@pid=68&amp;nid=334">дэлгэрэнгүй</a></div><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">Нар хиртэлт</h1><div class="cimage"></div><h1 class="txt7 bld4 tleft">2019-12-25 17:21:37</h1></article><div class=""><p>2019 онд Нарны хиртэлт хоёр удаа, эхнийх нь 7-р сарын 02-нд болж өнгөрсөн бол нөгөө нь 12 дугаар сарын 26-нд тохиох юм.  Нар, Сар болон Дэлхий хоорондын зай, байрлалаас хамааран Нарны хиртэлтийг бүтэн хиртэлт, цагирган хэлбэрийн, хагас хиртэлт гэж нэрлэдэг. Зарим тохиолдолд бүтэн хиртэлт, цагирган хэлбэрийн хиртэлт нь нэг удаагийн Нарны хиртэлтээр цувран ажиглагдах тохиолдол бий. Энэ удаагийнх Нарны хүрээтэй цагирган хэлбэртэй хиртэлт юм (Зураг 1). </p>
+<p><a class="clr4 txt5 tleft" href="index.php@pid=68&amp;nid=294">дэлгэрэнгүй</a></div><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">2019 оны 07-р сарын 16-наас 17-нд шилжих шөнө Сарны хагас хиртэл болно</h1><div class="cimage"><img alt="" src="https://iag.mn/data/main/main1563274373.jpg"></div><h1 class="txt7 bld4 tleft">2019-07-16 18:50:24</h1></article><div class=""><p style="text-align: justify;"><span style="color: #002000;"><span style="background-color: #ffffff;">Улаанбаатрын цагаар 2019 оны 07-р сарын 16-наас 17-нд шилжих шөнө Сарны хагас хиртэл болно. Энэ хиртэлийг Австрал, Африк, Хойд Америк, Европ тивийн зарим улс орнууд болон Ази тивээс ажиглаж болно. Монгол улсаас шөнийн 02 цаг 43 минутанд уг хиртэл эхлэх бол 05 цаг 07 минутанд оргил үе нь тохиож байгаа юм. Энэ үед Сарны хиртэл 60 хувьтай ажиглагдана. 05 цаг 11 минутанд Сар жаргана.</span></span></p>
+<p style="text-align: justify;"><span style="color: #002000;"><span style="background-color: #ffffff;"><a class="clr4 txt5 tleft" href="index.php@pid=68&amp;nid=271">дэлгэрэнгүй</a></div><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">2019 оны 6-р сараас 12-р сарын Одон Орны сонирхолтой үзэгдэлүүд</h1><div class="cimage"></div><h1 class="txt7 bld4 tleft">2019-06-04 11:15:22</h1></article><div class=""><p style="text-align: justify;">6-р сар</p>
+<p style="text-align: justify;"><br />6-р сарын 7-8 Ариетидын солирын урсгалын оргил үе. Цагт 60 хүртэлх солир ажиглагдана. Энэхүү солирын урсгал нь жил бүрийн 5-р сарын 22-с 7-р сарын 2-ны хооронд ажиглагддаг. Солирын урсгалын цацрах цэг нь Хонины одны орд.</p>
+<p style="text-align: justify;"><br />6-р сарын 10 Нарны системийн хамгийн том гариг Бархасбадь Нартай эсрэг тохиолгод байрлаж Дэлхийгээс 640,87 сая км зайд оршино. Эсрэг тохиолго гэдэг нь Нар, Дэлхий, Бархасбадь нэг шулуун дээр ирэхийг хэлнэ. Энэ нь өнгөрсөн 2018 оныхыг бодвол арай ойрхон. 2018 онд гаригуудын хоорондох зай 658,23 сая км байсан юм.</p>
+<p style="text-align: justify;"><a class="clr4 txt5 tleft" href="index.php@pid=68&amp;nid=267">дэлгэрэнгүй</a></div><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">СОЛИРЫН БОРОО ба НАРНЫ ХИРТЭЛ</h1><div class="cimage"><img alt="" src="https://iag.mn/data/main/main1534064086.jpg"></div></article><div class=""><p style="text-align: justify;">Персейдийн солирын бороо нь бусад солирын бороодыг бодвол илүү тод хурц ажиглагддагаараа онцлогтой. Энэ жилийн хувьд солирын борооны оргил үе нь саргүй шөнө тохиож байгаагаараа их онцлогтойгоос гадана оргил үе буюу их харагдацтай үе нь хоёр өдөр үргэлжилж байгаа юм. <br />Персейдийн солирын бороо нь жил бүрийн 7-р сарын 17-ноос 8-р сарын 24-д тохиодог, оргил үе 8-р сарын 12, 13-нд тохионо. Оргил үедээ цагт дунджаар 60-70 солирын гялбааг ажиглах боломжтой.</p>
+<p style="text-align: justify;"><a class="clr4 txt5 tleft" href="index.php@pid=68&amp;nid=240">дэлгэрэнгүй</a></div><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">2018 оны 7-р сарын 28 ны сарны хиртэл</h1><div class="cimage"><img alt="" src="https://iag.mn/data/main/main1532489450.jpg"></div><h1 class="txt7 bld4 tleft">2018-07-25 11:30:50</h1></article><div class=""><p style="text-align: justify;">Сарны хиртэл зөвхөн Сар бүтэн тэргэл болох үед л ажиглагдана. Тэгэхдээ бүтэн тэргэлшил бүхэнд хиртэл болохгүй. Сарны хиртэл хэдийд болох вэ? Гэвэл Сар эсрэг тохиолгод оршиж байхаас гадна Дэлхий Сарны замын бэлчрээс холгүй байх үед Сарны хиртэл болох боломжтой.</p>
+<p style="text-align: justify;"><a class="clr4 txt5 tleft" href="index.php@pid=68&amp;nid=239">дэлгэрэнгүй</a></div><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">Одон Орон Судлалын VI олимпиадын дүнгийн жагсаалт</h1><div class="cimage"></div><h1 class="txt7 bld4 tleft">2018-05-03 09:17:12</h1></article><p><img src="../file/Page1.jpg" alt="" width="800" height="1035" /></p><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">2018 онд болох Астрономийн онцлох үзэгдлүүд</h1><div class="cimage"></div></article><p>1-р сарын 31 – Супер цэнхэр сарны хиртэл. Шинэ онд болж буй эхний Сар хиртэл. Нар болон Сарны хооронд Дэлхий байрласнаар буюу нэг чиглэлд давхцаснаар Сарны хиртэл үүсэх нөхцөл бүрддэг. Нарнаас ирж буй гэрлийг Дэлхий халхалж, Дэлхийн сүүдэр Саран дээр тусах үзэгдэл юм.Энэ удаагийн хиртэл нь Сар Дэлхийтэй харьцангуй ойрхон тойрон эргэж байгаагаараа онцлог юм.</p>
+<p><img src="../file/zurag1.jpg" alt="" width="667" height="800" /></p>
+<p>3-р сарын 7,8 – Гаригуудын жагсаал. 2-р сарын сүүлээр болон 3-р сарын эхэн үед үүрээр тэнгэрийн зүүн өмнө хэсэгт Санчир, Ангараг, Бархасбадъ гэсэн гаригууд харагдана. Харин 3-р сарын 7,8-нд Бархасбадъ болон Ангарагын хооронд Сар байршиж харагдах юм.</p>
+<p><img src="../file/zurag2.jpg" alt="" width="590" height="377" /></p>
+<p>7-р сарын 15 – Сар Сугартай уулзах нь. Тухайн бүс нутагт Нар жаргах үед тэнгэрийн баруун өмнө хэсэгт хавирган Сарны хажууд Сугар гариг харагдах юм.</p>
+<p><img src="../file/zurag3.jpg" alt="" width="590" height="441" /></p>
+<p>7-р сарын 27 – Сарны бүтэн хиртэл. Энэ жилд болж буй хоёр дахь Сарны бүтэн хиртэл юм. Сарны бүтэн хиртлийг Ойр дорнод, Төв ази, Өмнөд ази, Африкийн өмнөд ба зүүн хэсэг, Оросын европын өмнөд хэсэг, Өмнөд Уралын нутгуудад ажиглах боломжтой. </p>
+<p>7-р сарын 27 – Ангараг гаригыг харах хамгийн тохиромжтой шөнө. Хамгийн сүүлд 2003 оны 7 сард Ангараг гариг хамгийн том, хамгийн тодоор Дэлхий дээрээс харагдсан байна. Харин энэ өдөр дээрхтэй мөн адил хамгийн тод болон томоор харагдах нь. Хэрэв энэ өдөр та Ангарагыг харж чадахгүй бол 2035 он хүртэл ингэж тодоор харахгүй байх нь.</p>
+<p> </p>
+<p><img src="../file/zurag4.jpg" alt="" width="590" height="453" /></p>
+<p>8-р сарын 11 – Нарны хагас хиртэл. Хойд Америкийн хойд хэсэг, Европ, Гринланд, Исланд болон Азид энэ хиртэл ажиглагдана. Сар хамгийн ихдээ Нарны 37%-г халхлах юм. Сарны тэргэл Нарыг шүргэх анхны шүргэлт Улаанбаатарын цагаар 17 цаг 56 минутад болж хиртэл эхлэх бөгөөд 18 цаг 41минутад хамгийн их хэмжээндээ хүрч 19 цаг 23 минутад Сарны тэргэл Нарнаас салж дөрөвдүгээр шүргэлт болсноор хиртэл төгсөнө.</p>
+<p><img src="../file/zurag6.png" alt="" width="728" height="729" /></p>
+<p>8-р сарын 12,13 – Персей одны чиг дэх солирын урсгал. Цагт 60 орчим солир өнгөрдөг наймдугаар сарын солирын урсгал юм.</p>
+<p><img src="../file/zurag7.jpg" alt="" width="750" height="500" /></p>
+<p>12-р сарын 12 – Сүүлт одны тохиол. 46P буюу Виртанен сүүлт одыг үхрийн орд орчимд ажиглаж болох юм.</p>
+<p><img src="../file/zurag5.jpg" alt="" width="590" height="456" /></p><div class="clear"></div></div><div class="onens brdr1"><article class=""><h1 class="bld3 txt9 tleft clr2 lepd3">2018 оны Сарны хиртэл</h1><div class="cimage"><img alt="" src="https://iag.mn/data/main/main1517367990.jpg"></div><h1 class="txt7 bld4 tleft">2018-01-30 18:03:29</h1></article><div class=""><p style="text-align: justify;">2018 онд хоёр удаа Сарны хиртэл болох бөгөөд хоёулаа бүтэн хиртэл байна.</p>
+<p style="text-align: justify;">Эхний бүтэн хиртэл нь 2018 оны 1-р сарын 31-нд 19 цаг 51 минутаас эхэлж 23 цаг 08 минутанд дуусна. Бүтэн хиртэл үргэлжлэх хугацаа 1 цаг 16 минут.<br />Бүтэн хиртэл ажиглагдах улсууд: Монгол, Азийн зүүн хэсэг, Австрали, Оросын азийн хэсэг, Аляск.<br />Хагас хиртэл ажиглагдах улсууд: Украйн, Белорусь, Төв Ази, Оросын баруун хэсэг, Баруун европын зүүн хэсэг, Африкийн баруун хэсгийн нутгуудад.</p>
+<p style="text-align: justify;"><a class="clr4 txt5 tleft" href="index.php@pid=68&amp;nid=210">дэлгэрэнгүй</a></div><div class="clear"></div></div><script src="../js/salvattore.js" type="text/javascript"></script>
+				<div class="clear"></div>
+				<style type="text/css">	.pageselected {color: #ec0000;font-weight: bold; }</style>
+				<div class="pagering">
+				<table height="20" border="0" align="center" cellpadding="0" cellspacing="0" class="PHPBODY" style="margin-top:5px;">
+				<tr> 						
+				<td align="left" valign="middle" class="selected"><span style="color: #999999">Хуудас:</span>
+										&nbsp;<a class="pageselected" href="index.php@pid=68">1</a>&nbsp; 
+										&nbsp;<a class="" href="index.php@pid=68&amp;start=15">2</a>&nbsp; 
+									</td>
+				<td  align="left" valign="middle"> 
+								</td>
+				<td align="left" valign="middle"> 
+									<a href="index.php@pid=68&amp;start=15"></a> 
+								</td>
+				<td align="right" valign="middle" class="selected" style="color: #999999;">
+					<!--Хуудас--> <!--?php print($cur);?> - --><!--?php print($max_pages);?-->
+					( 30 мэдээ )
+					
+				</td>
+				</tr>
+				</table>
+				</div>
+			</div>
+<div class="clear"></div>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+	$('.popup-gallery').magnificPopup({
+		delegate: 'a',
+		type: 'image',
+		tLoading: 'Loading image #%curr%...',
+		mainClass: 'mfp-img-mobile',
+		gallery: {
+		enabled: true,
+		navigateByImgClick: true,
+		preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+		},
+		image: {
+		tError: '<a href="https://iag.mn/mn/%url%">The image #%curr%</a> could not be loaded.',
+		titleSrc: function(item) {
+		  return item.el.attr('title') + '<small></small>';
+		}
+		}
+	});
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</aside>
+			<aside class="rlist"><link type="text/css" href="../css/scrolls.css" rel="stylesheet" media="screen" />
+<div class="rlista">
+	<div class="answerfeild"><h2><a href="index.php@pid=143" class="txt16 txtup bld7 clr2">Та газар хөдлөлт<br/> мэдэрсэн үү <span>?</span></a></h2></div>
+	<div class="earthqb"><a href="http://ds.iris.edu/seismon/bigmap/index.phtml" target="_blank" class="txt17 txtup bld7"><span>Дэлхийн <br>газар хөдлөл</span></a><img src="../images/eworld.jpg"></div>
+	<div class="earthqb"><a href="http://www.iag.mn/event/index.php?loc=mgl" target="_blank" class="txt17 txtup bld7"><span>Монголын <br>газар хөдлөл</span></a><img src="../images/emongolia.jpg"></div>
+	<div class="earthqb"><a href="http://www.iag.mn/event/index.php?loc=ub" target="_blank" class="txt17 txtup bld7"><span>Улаанбаатарын <br>газар хөдлөл</span></a><img src="../images/eub.jpg"></div>
+</div>
+<div class="clear"></div>
+<div class="linkwebout">
+<div class="linkwebin">
+	<h2>Вэб холбоос</h2>
+	<ul  id="content_1" class="content">
+		<li><a href="https://link.springer.com" target="_blank">Springer</a></li><li><a href="http://orfeus-eu.org" target="_blank">Европын сейсмологийн холбоо</a></li><li><a href="http://asc1996.com" target="_blank">Азийн сейсмологийн комисс</a></li><li><a href="http://crust.irk.ru" target="_blank">ОХУ-ын ШУА-ийн Сибирийн салбарын Дэлхийн царцдасын хүрээлэн</a></li><li><a href="http://iszf.irk.ru" target="_blank">ОХУ-ын ШУА-ийн Сибирийн салбарын Нар-дэлхийн физикийн хүрээлэн</a></li><li><a href="http://iisee.kenken.go.jp" target="_blank">Японы сейстологийн ба газар хөдлөлийн инженерийн олон улсын институт</a></li><li><a href="http://eost.u-strasbg.fr" target="_blank">Страсбургийн Луйс-Пастрын их сургууль</a></li><li><a href="http://ctbto.org" target="_blank">Олон улсын цөмийн тэсэлгээний хяналтын хороо</a></li><li><a href="http://usgs.gov" target="_blank">Америкийн геологийн алба</a></li><li><a href="http://iaspei.org" target="_blank">Олон улсын сейсмологийн ба дэлхийн физикийн холбоо</a></li>			
+	</ul>
+	<div class="clear"></div>
+</div>
+</div>
+<style> .content{width:100%; height:240px; overflow:auto;} </style>
+<script type="text/javascript" src="../js/scrolls.js"></script>
+<script type="text/javascript">
+		(function($){
+			$(window).load(function(){
+				$("#content_1").mCustomScrollbar({
+					scrollButtons:{
+						enable:false
+					}
+				});
+			});
+		})(jQuery);
+</script></aside>
+		<div class="clear"></div>
+				<div class="clear"></div>
+		</div>
+		</article>
+		<div class="clear"></div>
+		<footer id="footer"><div class="footertop">
+<div class="footertopipd">
+
+</div>
+</div>
+<div class="clear"></div>
+<div class="footerbot">
+<div class="footerbotipd">
+	<div class="footermenum">
+	<ul>
+			<li>
+		<div class="linkwebdiv">
+			<h1>Хүрэл тогоот</h1>
+				<h2><a href="index.php@pid=92">Танилцуулга</a></h2><h2><a href="index.php@pid=93">Одот тэнгэрээр аялах нь</a></h2><h2><a href="index.php@pid=94">Дэг журам</a></h2><h2><a href="index.php@pid=95">Амрах байр</a></h2><h2><a href="index.php@pid=96">Зоог</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Астрометрийн судалгаа</h1>
+				<h2><a href="index.php@pid=42">Судалгааны чиглэл</a></h2><h2><a href="index.php@pid=43">Сансрын хог хаягдал</a></h2><h2><a href="index.php@pid=44">Бага гараг</a></h2><h2><a href="index.php@pid=45">Солирын тогоо</a></h2><h2><a href="index.php@pid=46">Сансрын гамма тэсрэлт</a></h2><h2><a href="index.php@pid=47">OWL дуран</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Астрофизик</h1>
+				<h2><a href="index.php@pid=48">Судалгааны чиглэл</a></h2><h2><a href="index.php@pid=49">Hα ажиглалт</a></h2><h2><a href="index.php@pid=50">Хэт ягаан цацраг</a></h2><h2><a href="index.php@pid=51">Спектрийн шугамууд</a></h2><h2><a href="index.php@pid=52">Сallisto</a></h2><h2><a href="index.php@pid=53">Багаж</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Газар хөдлөлт</h1>
+				<h2><a href="index.php@pid=54">Бидний тухай</a></h2><h2><a href="index.php@pid=57">Салбарын өнөөдрийн бүтэц, боловсон хүчин</a></h2><h2><a href="index.php@pid=137">Түүхэн замнал</a></h2><h2><a href="index.php@pid=138">Газар хөдлөлтийн ерөнхий ойлголт</a></h2><h2><a href="index.php@pid=139">Монголын газар хөдлөхүй</a></h2><h2><a href="index.php@pid=140">Газар хөдлөлт бүртгэх сүлжээ станц</a></h2><h2><a href="index.php@pid=141">Танин мэдэхүй</a></h2>			
+		</div>
+		</li>
+				<li>
+		<div class="linkwebdiv">
+			<h1>Геомагнитизм</h1>
+				<h2><a href="index.php@pid=125">Соронзон орны ерөнхий ойлголт</a></h2><h2><a href="index.php@pid=84">Судалгааны чиглэл</a></h2><h2><a href="index.php@pid=127">Монголын нутаг дэвсгэрт хийсэн соронзон хэмжилт</a></h2><h2><a href="index.php@pid=128">Багаж төхөөрөмж</a></h2>			
+		</div>
+		</li>
+			</ul>
+	</div>
+	<div class="clear"></div>
+	<div class="dcrp"><h1>©2015. Одон орон, геофизикийн хүрээлэн</h1></div>
+</div>
+</div></footer>
+		</div>
+</body>
+</html>

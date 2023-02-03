@@ -1,0 +1,154 @@
+
+.addressss{width:630px;  margin:20px auto;}
+
+
+.addressss h4 {font-weight:normal; font-size:19px;
+	border-bottom:1px solid #ccc; text-align:left; margin-bottom:15px; color: #000;
+}
+.imageWidth img{width:100%;max-width:500px;margin:10px auto;display:block;}
+.cimage img{width:300px;float:left;margin-right:15px;}
+
+.mail h4 {font-weight:normal; font-size:19px; color: #000;
+	border-bottom:1px solid #ccc; margin:0 0 20px 17px; text-align:left;
+}
+	.mail { padding:10px 25px 0 0;  text-align:center; }
+	.mail input {margin:2px 0 2px 0;}
+	.input { border:none;padding:5px 4px; width:250px; background: #fff; border:1px solid #ccc;
+		font:normal 13px arial; color: #757575;
+	}
+	.inputFocus { border:none;padding:5px 4px; width:250px; background: #fff; border:1px solid #ccc;
+		font:normal 13px arial; color: #474747;
+	}
+
+	.mail h3 {margin-top:10px;}
+	.mail h3 a{font:normal 15px arial; color: #fff; background:#787878;  padding:8px 15px; 
+	}
+	.mail h3 a:hover{background:#acacac;  text-decoration:none;}
+	.reserinput {font:normal 15px arial; color: #fff; background:#787878;padding:7px 14px 7px 14px;
+		cursor:pointer; border:none; width:120px;
+	}
+	.reserinput:hover {background:#505050; }
+	.contactdunttons ul {margin:0; padding:0; margin-top:20px;}
+	.contactdunttons ul li {float:left; list-style:none; margin-right:10px;}
+	
+	#contactrmsj {}
+	.contactrmsj {background:#f4d5d5; border:1px solid #d3acac; display:block; width:400px; margin-bottom:20px;
+		margin:12px auto;
+	}
+	.contactrmsj h1{font:normal 13px arial; color: #a72626; padding:15px; }
+	
+	
+/* ---EartReport--------- */
+
+
+/* ---SENDLETTER--------------------------------------------------------------------------------------- */
+.signuppsl {padding: 15px 20px;}
+.signuppsl input, .signuppsl select, .signuppsl textarea {
+	font-family:"PT Sans Narrow",sans-serif; font-weight:normal; font-size:14px;
+}
+
+.signuptitlep {}
+.signuptitlep h1 {font-weight:normal; font-size:19px; color: #555; border-bottom:1px solid #ccc; padding-bottom:5px;}
+.signuptitlep h2 {font-weight:normal; font-size:15px; color: #447f47; padding:0 0 20px 34px; margin-top:20px;
+	background: url(https://iag.mn/images/rpicon.gif) no-repeat 1px 3px; line-height:17px;
+}
+
+.signuptitlep1 {border-bottom:1px solid #ccc; padding:20px 0 5px 0; margin:25px 0;text-align:left}
+.signuptitlep1 h3 {font-weight:normal; font-size:15px; color: #447f47; padding:5px 0 5px 0; 
+	line-height:17px;
+}
+
+
+#locationshow {display:none;}
+
+#rerrormsj {display:none;}
+#rerrormsj {background: #fff4f4; border:1px solid #db9898; padding:12px 15px 15px 207px;
+	margin:15px 0 20px 0;
+}
+#rerrormsj h1 {font-weight:normal; font-size:14px;
+	color: #4b1010;
+}
+
+.sendtable {background: #ebf2ec; width:100%; text-align:center; padding-bottom:15px; margin-top:20px;
+	border:1px solid #dde3dd;
+}
+
+
+
+.signuppge{width:100%;max-width:600px;margin:0 auto;box-sizing:border-box;}
+.signuppge .iputsignup, .signuppge .qsselection{width:100%;}
+.redod{color:red;font-size:16px;display:inline-block;padding-right:4px;}
+.sqtitle{font-size:14px;color: #555;text-align:left;font-weight:400;padding:19px 0 2px 0;}
+
+.signuppge select { border:1px solid #ccc; background: none;
+	width:100%;border-radius:2px;padding:7px 8px;box-sizing:border-box;
+}
+.signuppge input, .signuppge textarea { border:1px solid #ccc; background: none;
+	width:100%;border-radius:2px;padding:8px;box-sizing:border-box;
+}
+.signuppge select:hover, .signuppge input:hover, .signuppge textarea:hover { border:1px solid #54595e;}
+.signuppge select:focus, .signuppge input:focus, .signuppge textarea:focus{ border:1px solid #54595e;}
+[timeMin]{width:100%;vertical-align:top;}
+[timeMin] .tmna, [timeMin] .tmnb, [timeMin] .tmnc{width:33.3%; float:left;box-sizing:border-box;vertical-align:top;}
+[timeMin] .tmnb{padding:0 4px;}
+[timeMin] .tmna{padding-right:4px;}
+[timeMin] .tmnc{padding-left:4px;}
+
+[locationS]{width:100%;box-sizing:border-box;}
+[locationS] .locata{width:50%;float:left;padding-right:4px;box-sizing:border-box;}
+[locationS] .locatb{width:50%;float:right;padding-left:4px;box-sizing:border-box;}
+
+.wrnmssge{display:none;}
+.wrnmssge h1{color: red;padding:15px 0 0 0;font-weight:700;font-size:16px;}
+
+
+
+
+
+
+.signuppge .signupbt {font-weight:400; font-size:14px;margin-top:25px;
+	color: #fff; background: #007cc2; padding:9px 13px; border:none;
+	width: 100%;box-sizing:border-box;
+	border-radius:2px; cursor:pointer;
+	-moz-user-select:none;
+	-webkit-user-select:none;
+	-o-user-select:none; 
+}
+.signuppge .signupbt:hover {font-weight:400; font-size:14px;
+	color: #fff; background: #1e90d0;  padding:9px 13px; border:none;
+	border-radius:2px; cursor:pointer;
+	-moz-user-select:none;
+	-webkit-user-select:none;
+	-o-user-select:none;
+}
+
+.rdMsj{border:1px solid red !important;}
+
+
+
+
+[finisheqn]{text-align:center;padding:35px 0 0 0;}
+[finisheqn] h1{text-align:center;font-size:18px;font-weight:400;color: #17a55d;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
