@@ -407,7 +407,7 @@ h6 {
 
 #hero .carousel-item::before {
   content: "";
-  background-color: #004f9d9d;
+  background-color: #004f9d00;
 }
 
 #hero .carousel-container {
